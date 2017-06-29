@@ -4,6 +4,17 @@ A command line tool to adjust your movie subtitle files while while playing audi
 and subtitle do not sync with each other. Normally it lags/gains by a few seconds/milliseconds. 
 You will be able to adjust and generate a new subtitle file or update the existing one.
 
+<!-- TOC START min:1 max:3 link:true update:true -->
+- [Subjuster | TDD guide for Software Engineers in OOP](#subjuster--tdd-guide-for-software-engineers-in-oop)
+  - [Intention / Purpose](#intention--purpose)
+  - [Steps to TDD](#steps-to-tdd)
+    - [Requirement Gathering](#requirement-gathering)
+    - [Phase One: UML Drawing and Research](#phase-one-uml-drawing-and-research)
+
+<!-- TOC END -->
+
+
+
 ## Intention / Purpose
 I am writing this software for two of the main reasons  
 - Teach TDD to emerging Software Engineers
@@ -41,7 +52,7 @@ figure out what components your software is gonna compose.
 
 Lets do that: Extract out **nouns** from the list in Example(1).
 1. UserInput
-2. Parser
+2. Parsertoc
 3. Modifier / Adjuster
 4. Exporter / Generator
 
