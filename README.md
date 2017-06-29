@@ -1,27 +1,36 @@
 # Subjuster | TDD guide for Software Engineers in OOP
-<img src="images/tdd.png" width="100">
+<img src="images/tdd.png" width="200">
 A command line tool to adjust your movie subtitle files while while playing audio 
 and subtitle do not sync with each other. Normally it lags/gains by a few seconds/milliseconds. 
 You will be able to adjust and generate a new subtitle file or update the existing one.
 
-<!-- TOC START min:1 max:3 link:true update:true -->
+<!-- TOC START min:1 max:4 link:true update:true -->
 - [Subjuster | TDD guide for Software Engineers in OOP](#subjuster--tdd-guide-for-software-engineers-in-oop)
-  - [Intention / Purpose](#intention--purpose)
+  - [Intention / Purposes](#intention--purposes)
   - [Steps to TDD](#steps-to-tdd)
     - [Requirement Gathering](#requirement-gathering)
     - [Phase One: UML Drawing and Research](#phase-one-uml-drawing-and-research)
+      - [Example(1) in our case:-](#example1-in-our-case-)
+      - [UML Design in Brief](#uml-design-in-brief)
+      - [UML Designs in Detail](#uml-designs-in-detail)
+      - [Is it complicated?](#is-it-complicated)
+    - [Phase Two | Generate a skeleton Ruby gem](#phase-two--generate-a-skeleton-ruby-gem)
+    - [Phase Three | Write expectations from each modules in English](#phase-three--write-expectations-from-each-modules-in-english)
+      - [Defining TDD](#defining-tdd)
 
 <!-- TOC END -->
 
 
 
-## Intention / Purpose
+## Intention / Purposes
 I am writing this software for two of the main reasons  
 - Teach TDD to emerging Software Engineers
   - The problem with new Engineers is, they find the concept of Testing 
     and Specially **TDD** mind bothering. 
   - This guide is supposed to guide them via the process.
-  
+
+- Teach little bit of OOP and OOD
+
 > **Note**: If you feel that this doc/repo needs some modifications to help it 
 better meet its purpose, please feel free to send a **Pull Request**. 
 I would be very much pleased to merge it after reviewing.
@@ -81,5 +90,64 @@ This module is a wrapper to tie your application components together like `Names
 #### Is it complicated?
 If you feel lost, then no worries, forget about the relationship between modules; we will learn later. For now, focus on the boxes and its properties.
 
+### Phase Two | Generate a skeleton Ruby gem
+We at the end are going to release this project as a standalone `gem` so that 
+any one willing to use this can benefit from this.
+```bash
+$ bundle gem [subjuster]
+```
+The name of gem can be anything in your case. This command generate a `bundler` compatible gem skeleton which you can use.
 
-<!-- ![Class diagram and usecase diagram of subjuster](images/uml_diagram_2.png) -->
+### Phase Three | Write expectations from each modules in English
+![Joke about explaining expectations and results](images/expectations.png)  
+
+It's not possible for everybody to figure out which technique are you gonna use to implement that particular function before hand. But, you already know what to expect from that module. Lets write some expectations:-  
+
+```ruby
+1. UserInput
+  - Should take `source_filepath` as argument while construction
+  - Should take `target_filepath` as argument while construction
+  - Should take `no of seconds` to be adjusted as argument while construction
+  - Should be able to validate the inputs
+    - `source_filepath` should be valid
+    - should be a valid `.srt` file
+  
+2. Parser
+  - Should take `user_input` as params
+  - Should able to parse the valid `srt` file
+  - `parse()`
+    - Should return a `hash` of subtitle
+      - hash should have `start-time` and `end-time` of every dialog in the hash
+
+3. Modifier / Adjuster
+  - Should be able to take the `Hash` containing `srt data-structure`
+  - `adjust(no_of_seconds)`
+    - Should return the modified version of `Hash` supplied
+    - Should be able to adjust the srt `Hash`'s `start-time` and `end-time` by `+2` seconds if `+2` is passed as argument
+    - Should not adjust the srt `Hash`'s `start-time` and `end-time` by `-2` seconds if `+2` is passed as argument
+
+4. Exporter / Generator
+  - Should accept `Modified Hash` as argument
+  - `generate(target_filepath)`
+    - Should be able to generate a valid `.srt` file to the path asked
+```
+
+This pure english can easily be transferred to `RSpec`'s DSL. [See this file `subjuster_spec.rb`](/spec/subjuster_spec.rb). I have already prepared the Pure English version of Test Cases using RSpec's DSL. Now we need to put assertions to verify the usability of the modules. We will see that in next section.
+
+**Glimpse of Specs**
+```Ruby
+describe UserInput do  
+  it 'Should take `source_filepath` as argument while construction'
+  it 'Should take `target_filepath` as argument while construction'
+  it 'Should take `no of seconds` to be adjusted as argument while construction'
+  
+  context 'Should be able to validate the inputs' do
+    it '`source_filepath` should be valid'
+    it 'should be a valid `.srt` file'
+  end
+end
+```
+
+#### Defining TDD
+<img src="images/contract.jpg" width="300">
+It's like signing a contract with everything `needed to be done` specified in formal language. This is needed to define the `Job Done`. We write test-cases before implementing a feature; which will let us know when that particular feature/function is done, so that we can move on to next function.
