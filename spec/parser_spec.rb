@@ -25,6 +25,9 @@ RSpec.describe Subjuster::Parser do
       
       expect(Subjuster::Parser.new(inputs: inputs).parse.first[:start_time]).to eq('00:00:57,918')
       expect(Subjuster::Parser.new(inputs: inputs).parse.first[:end_time]).to eq('00:01:02,514')
+      
+      expect(Subjuster::Parser.new(inputs: inputs).parse.last[:start_time]).to eq('00:01:05,259')
+      expect(Subjuster::Parser.new(inputs: inputs).parse.last[:end_time]).to eq('00:01:08,626')
     end
     
     it 'hash should have `dialog`' do
@@ -34,6 +37,7 @@ RSpec.describe Subjuster::Parser do
       inputs = Subjuster::UserInput.new(source: 'somefilename')
       
       expect(Subjuster::Parser.new(inputs: inputs).parse.first[:dialog]).to eq("\"In order to affect a timely halt\nto deteriorating conditions\n")
+      expect(Subjuster::Parser.new(inputs: inputs).parse.last[:dialog]).to eq("a state of emergency is declared\nfor these territories")
     end
   end
 end
@@ -56,6 +60,5 @@ and to ensure the common good,
 00:01:05,259 --> 00:01:08,626
 a state of emergency is declared
 for these territories
-  
 STR
 end
