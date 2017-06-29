@@ -1,9 +1,12 @@
 require "spec_helper"
 
 RSpec.describe Subjuster do
-
-  describe UserInput do  
-    it 'Should take `source_filepath` as argument while construction'
+  describe Subjuster::UserInput do  
+    it 'Should take `source_filepath` as argument while construction' do
+        source_filepath = '/tmp/source_file.srt'
+        expect(Subjuster::UserInput.new(source: source_filepath).source_filepath).to eq(source_filepath)
+    end
+    
     it 'Should take `target_filepath` as argument while construction'
     it 'Should take `no of seconds` to be adjusted as argument while construction'
     
@@ -28,8 +31,8 @@ RSpec.describe Subjuster do
     
     describe 'adjust(no_of_seconds)' do
       it 'Should return the modified version of `Hash` supplied'
-      it 'Should be able to adjust the srt `Hash`'s `start-time` and `end-time` by `+2` seconds if `+2` is passed as argument'
-      it 'Should not adjust the srt `Hash`'s `start-time` and `end-time` by `-2` seconds if `+2` is passed as argument'
+      it "Should be able to adjust the srt `Hash`'s `start-time` and `end-time` by `+2` seconds if `+2` is passed as argument"
+      it "Should not adjust the srt `Hash`'s `start-time` and `end-time` by `-2` seconds if `+2` is passed as argument"
     end
   end
 
