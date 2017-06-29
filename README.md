@@ -306,3 +306,4 @@ This process should be repeated till you are done with all the features. Please 
   - may be your module is trying to do a lot of things; recall SRP(Single_responsibility_principle)
   - may be you need to break your module down to multiple modules
 - Write Production code for one red-test case at a time
+- Unless business requirement changes, you are not allowed to change tests to pass them.
