@@ -4,8 +4,10 @@ A command line tool to adjust your movie subtitle files while while playing audi
 and subtitle do not sync with each other. Normally it lags/gains by a few seconds/milliseconds. 
 You will be able to adjust and generate a new subtitle file or update the existing one.
 
+## Table Of Content
 <!-- TOC START min:1 max:4 link:true update:true -->
 - [Subjuster | TDD guide for Software Engineers in OOP](#subjuster--tdd-guide-for-software-engineers-in-oop)
+  - [Table Of Content](#table-of-content)
   - [Intention / Purposes](#intention--purposes)
   - [Steps to TDD](#steps-to-tdd)
     - [Requirement Gathering](#requirement-gathering)
@@ -96,7 +98,7 @@ any one willing to use this can benefit from this.
 ```bash
 $ bundle gem [subjuster]
 ```
-The name of gem can be anything in your case. This command generate a `bundler` compatible gem skeleton which you can use.
+The name of gem can be anything in your case. This command generates a `bundler` compatible gem skeleton which you can modify and build your idea.
 
 ### Phase Three | Write expectations from each modules in English
 ![Joke about explaining expectations and results](images/expectations.png)  
