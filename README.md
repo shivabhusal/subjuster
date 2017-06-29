@@ -297,7 +297,11 @@ Now see the execution result:-
 
  **Hurrah! we did it. We made the Red test-case to green.**
 
-This process should be repeated till you are done with all the features. Please see the individual files in [`spec/`](spec/) and [`lib/subjuster`](lib/subjuster) as references.
+Now, you can repeat the same process for `Parser`.  
+This process should be repeated till you are done with all the features. Please see the individual files in [`spec/`](spec/) and [`lib/subjuster`](lib/subjuster) as references. 
+
+If still you need assistance then see the [documentation in /tdd_for_parser.md](/tdd_for_parser.md).
+
 
 ## Some rules
 <img src="images/rules.jpg" width="200">
