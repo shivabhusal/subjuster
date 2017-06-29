@@ -20,8 +20,12 @@ You will be able to adjust and generate a new subtitle file or update the existi
     - [Phase Three | Write expectations from each modules in English](#phase-three--write-expectations-from-each-modules-in-english)
       - [Defining TDD](#defining-tdd)
     - [Phase Four | Write Failing Expectations](#phase-four--write-failing-expectations)
+    - [Phase Five | Write Production Code to Pass Failing Expectations](#phase-five--write-production-code-to-pass-failing-expectations)
+  - [Some rules](#some-rules)
 
 <!-- TOC END -->
+
+
 
 
 ## Intention / Purposes
@@ -194,3 +198,111 @@ While running the command `rspec spec/` I encounter this error
 ```
 **Error is Good**.
 To comply our requirements, there should be a class `UserInput` in the first place. This technique is also called `Error Driven Development`. Errors and failure will guide you to the destination; a better tomorrow.
+
+
+<u>Little improvisation needed here</u>; We need to use `Subjuster` namespace to 
+bind modules in a box. Lets create a file called 
+[`lib/subjuster/user_input.rb`](lib/subjuster/user_input.rb) where our class 
+`UserInput` will be defined. And, in [`lib/subjuster.rb`](lib/subjuster.rb) 
+we will require  the file so that RSpec could load the file in test-suites. Also will use 
+`Subjuster::UserInput` instead of just `UserInput`. 
+
+---
+
+### Phase Five | Write Production Code to Pass Failing Expectations
+<img src="images/red_to_green.png" width="200"> Next thing you do is, **define the class `UserInput`**.
+>**Rule:**  You deal with one RED/Failing test at a time; you take that
+> examples from Red --> Green; then only you touch next example/test-case.
+
+```Ruby
+# lib/subjuster/user_input.rb
+  module Subjuster
+    class UserInput
+    end
+  end
+```
+  
+Now see the execution result:-  
+```bash
+  $ rspec spec/user_input_spec.rb
+
+  ArgumentError:
+    wrong number of arguments (given 1, expected 0)
+  # ./spec/user_input_spec.rb:6:in `initialize'
+  # ./spec/user_input_spec.rb:6:in `new'
+  # ./spec/user_input_spec.rb:6:in `block (2 levels) in <top (required)>'
+```
+It means we are advancing, we surpassed our first error and now in second. It says, may be we have not defined the `initialize` function with proper arguments.
+
+```Ruby
+  module Subjuster
+    class UserInput
+      def initialize(source:)
+      end
+    end
+  end
+```
+
+Now see the execution result:-  
+```bash
+  $ rspec spec/user_input_spec.rb
+
+  NoMethodError:
+    undefined method `source_filepath` for #<Subjuster::UserInput:0x0056444cadabd8>
+  # ./spec/user_input_spec.rb:6:in `block (2 levels) in <top (required)>'
+```
+
+Now, we need to define the getter method `source_filepath`
+
+```Ruby
+  module Subjuster
+    class UserInput
+      attr_reader :source_filepath
+
+      def initialize(source:)
+      end
+    end
+  end
+```
+
+Now see the execution result:-  
+```bash
+  $ rspec spec/user_input_spec.rb
+
+  Failure/Error: expect(Subjuster::UserInput.new(source: source_filepath).source_filepath).to eq(source_filepath)
+
+    expected: "/tmp/source_file.srt"
+         got: nil
+
+    (compared using ==)
+  # ./spec/user_input_spec.rb:6:in `block (2 levels) in <top (required)>'
+```
+
+It means, still the mill/function `source_filepath` is not functional. Now lets set instance var `@source_filepath`. Then, may be it will work.
+
+```Ruby
+  attr_reader :source_filepath
+  def initialize(source:)
+    @source_filepath = source
+  end
+```
+
+Now see the execution result:-  
+```bash
+  $ rspec spec/user_input_spec.rb
+
+  Finished in 0.00242 seconds (files took 0.26666 seconds to load)
+  5 examples, 0 failures, 4 pending
+```
+
+ **Hurrah! we did it. We made the Red test-case to green.**
+
+This process should be repeated till you are done with all the features. Please see the individual files in [`spec/`](spec/) and [`lib/subjuster`](lib/subjuster) as references.
+
+## Some rules
+<img src="images/rules.jpg" width="200">
+
+- If you are stuck and could not test your module then
+  - may be your module is trying to do a lot of things; recall SRP(Single_responsibility_principle)
+  - may be you need to break your module down to multiple modules
+- Write Production code for one red-test case at a time
