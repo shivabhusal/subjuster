@@ -19,9 +19,9 @@ You will be able to adjust and generate a new subtitle file or update the existi
     - [Phase Two | Generate a skeleton Ruby gem](#phase-two--generate-a-skeleton-ruby-gem)
     - [Phase Three | Write expectations from each modules in English](#phase-three--write-expectations-from-each-modules-in-english)
       - [Defining TDD](#defining-tdd)
+    - [Phase Four | Write Failing Expectations](#phase-four--write-failing-expectations)
 
 <!-- TOC END -->
-
 
 
 ## Intention / Purposes
@@ -37,6 +37,7 @@ I am writing this software for two of the main reasons
 better meet its purpose, please feel free to send a **Pull Request**. 
 I would be very much pleased to merge it after reviewing.
 
+
 ## Steps to TDD
 ### Requirement Gathering
 <img src="images/requirements.png" width="100"> Before you start a software project, 
@@ -45,6 +46,8 @@ You gotta understand everything possible about the problem. Next will be, you fi
 ways to solve this problem. You are not supposed to the ultimate solution which is not gonna 
 change ever; It's not possible, your solution should be robust and always changeable because 
 **Requirements** always change down the road.
+
+---
 
 ### Phase One: UML Drawing and Research
 When you've thought of solutions, you grab notebook and pen; start making rough 
@@ -100,6 +103,8 @@ $ bundle gem [subjuster]
 ```
 The name of gem can be anything in your case. This command generates a `bundler` compatible gem skeleton which you can modify and build your idea.
 
+----
+
 ### Phase Three | Write expectations from each modules in English
 ![Joke about explaining expectations and results](images/expectations.png)  
 
@@ -153,3 +158,39 @@ end
 #### Defining TDD
 <img src="images/contract.jpg" width="300">
 It's like signing a contract with everything `needed to be done` specified in formal language. This is needed to define the `Job Done`. We write test-cases before implementing a feature; which will let us know when that particular feature/function is done, so that we can move on to next function.
+
+---
+
+### Phase Four | Write Failing Expectations
+<img src="images/failing_test.png" width="200"><img src="images/rspec_fail.png" width="500">
+
+Firstly we do some cleaning; we separate out specs related to individual module to corresponding spec files, like, `user_input_spec.rb` will contain specs related to `UserInput` module and so forth.
+
+
+Now, we use our knowledge of Ruby and little bit of RSpec DSL.  We pick one module at a time, because we are on war. We write Expectations that we know it should fail. Because they are not yet implemented. I am implying any syntax error by `failing`. It can be `Class not defined` kinda error though. 
+
+In the beginning we pick the simplest i.e. `UserInput`
+ 
+[In the file `user_input_spec.rb`](/spec/user_input_spec.rb) we pick the top most expectation i.e.
+```Ruby
+  it 'Should take `source_filepath` as argument while construction'
+```
+Now after putting an expectation it looks like:
+```Ruby
+  it 'Should take `source_filepath` as argument while construction' do
+    source_filepath = '/tmp/source_file.srt'
+    expect(UserInput.new(source: source_filepath).source_filepath).to eq(source_filepath)
+  end
+```
+
+While running the command `rspec spec/` I encounter this error
+
+```error
+  NameError:
+    uninitialized constant `UserInput`
+
+  Finished in 0.00022 seconds (files took 0.40604 seconds to load)
+  0 examples, 0 failures, 1 error occurred outside of examples
+```
+**Error is Good**.
+To comply our requirements, there should be a class `UserInput` in the first place. This technique is also called `Error Driven Development`. Errors and failure will guide you to the destination; a better tomorrow.
