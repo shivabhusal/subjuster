@@ -116,7 +116,7 @@ When we run this example, we see the following error
 
 ```
 
-We will add the method `Parser#parse` and add production code and try to make it green.
+We will add the method `Parser#parse` and add production code and try to make it <span style="color: green">GREEN</span>.
 Now, we have completed the code for parse to pass the test. [see the file here](lib/subjuster/parser.rb)
 
 First, we solved the problem in any way we could, then we refactored the code to make it readable, comprehensible and if possible performant.

@@ -295,7 +295,7 @@ Now see the execution result:-
   5 examples, 0 failures, 4 pending
 ```
 
- **Hurrah! we did it. We made the Red test-case to green.**
+ **Hurrah! we did it. We made the Red test-case to <span style="color: green">GREEN</span>.**
 
 Now, you can repeat the same process for `Parser`.  
 This process should be repeated till you are done with all the features. Please see the individual files in [`spec/`](spec/) and [`lib/subjuster`](lib/subjuster) as references. 
@@ -304,10 +304,15 @@ If still you need assistance then see the [documentation in /tdd_for_parser.md](
 
 
 ## Some rules
-<img src="images/rules.jpg" width="200">
+<img src="images/rules.jpg" width="300">
 
 - If you are stuck and could not test your module then
   - may be your module is trying to do a lot of things; recall SRP(Single_responsibility_principle)
   - may be you need to break your module down to multiple modules
 - Write Production code for one red-test case at a time
 - Unless business requirement changes, you are not allowed to change tests to pass them.
+- Only write code sufficient to pass the test; not a word more.
+- **DO NOT** do refactoring unless covered with rigorous test-specs
+- <span style="color: green;">First solve problem in way you can; do not waste time to think about the best-way possible.</span>
+  - <u>when you have your test-suite GREEN then you start Optimizing the solution.</u>
+- There is always way to optimize your code; but is it worth it?
