@@ -8,7 +8,7 @@ RSpec.describe Subjuster::Adjuster do
     
     inputs = Subjuster::UserInput.new(source: 'somefile')
     parsed_data = Subjuster::Parser.new(inputs: inputs).parse
-    expect(Subjuster::Adjuster.new(data: parsed_data).data).to eq(parsed_data)
+    expect(Subjuster::Adjuster.new(data: parsed_data, inputs: inputs).data).to eq(parsed_data)
   end
   
   describe 'adjust(no_of_seconds)' do
@@ -20,7 +20,7 @@ RSpec.describe Subjuster::Adjuster do
       inputs = Subjuster::UserInput.new(source: 'somefile', adjustment_in_sec: 2)
       parsed_data = Subjuster::Parser.new(inputs: inputs).parse
       
-      modified_data = Subjuster::Adjuster.new(data: parsed_data).run
+      modified_data = Subjuster::Adjuster.new(data: parsed_data, inputs: inputs).run
       
       expect(modified_data.first[:start_time]).to eq('00:00:59,918')
       expect(modified_data.first[:end_time]).to   eq('00:01:04,514')
