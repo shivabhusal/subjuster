@@ -1,5 +1,5 @@
 ## TDD for Parser
-<img src="images/parser.png" width="200"> <img src="images/supplements.png" width="200">
+<img src="images/parser.png" width="340" style="padding-right: 40px"> <img src="images/supplements.png" width="300">
 
 I am documenting here for `Parser` instead of doing in the main page, because, 
 this is considered as an extra supplement. 
