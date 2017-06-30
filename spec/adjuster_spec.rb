@@ -12,7 +12,20 @@ RSpec.describe Subjuster::Adjuster do
   end
   
   describe 'adjust(no_of_seconds)' do
-    it 'Should return the modified version of `Hash` supplied'
+    it 'Should return the modified version of `Hash` supplied' do
+      # Stubbing File IO
+      str_content = fixture_data
+      allow(File).to receive(:read){str_content}
+      
+      inputs = Subjuster::UserInput.new(source: 'somefile', adjustment_in_sec: 2)
+      parsed_data = Subjuster::Parser.new(inputs: inputs).parse
+      
+      modified_data = Subjuster::Adjuster.new(data: parsed_data).run
+      
+      expect(modified_data.first[:start_time]).to eq('00:00:59,918')
+      expect(modified_data.first[:end_time]).to   eq('00:01:04,514')
+    end
+    
     it "Should be able to adjust the srt `Hash`'s `start-time` and `end-time` by `+2` seconds if `+2` is passed as argument"
     it "Should not adjust the srt `Hash`'s `start-time` and `end-time` by `-2` seconds if `+2` is passed as argument"
   end
