@@ -7,7 +7,7 @@ RSpec.describe Subjuster::Adjuster do
     allow(File).to receive(:read){str_content}
     
     inputs = Subjuster::UserInput.new(source: 'somefile')
-    parsed_data = Subjuster::Parser(inputs: inputs).parse
+    parsed_data = Subjuster::Parser.new(inputs: inputs).parse
     expect(Subjuster::Adjuster.new(data: parsed_data).data).to eq(parsed_data)
   end
   
