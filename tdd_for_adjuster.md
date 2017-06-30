@@ -71,3 +71,53 @@ Finished in 0.00596 seconds (files took 0.21119 seconds to load)<br>
 </span>
 
 ---
+
+### Hunting for next Spec: Example 2
+
+```Ruby
+  describe 'adjust(no_of_seconds)' do
+    it 'Should return the modified version of `Hash` supplied' do
+      # Stubbing File IO
+      str_content = fixture_data
+      allow(File).to receive(:read){str_content}
+      
+      inputs = Subjuster::UserInput.new(source: 'somefile', adjustment_in_sec: 2)
+      parsed_data = Subjuster::Parser.new(inputs: inputs).parse
+      
+      modified_data = Subjuster::Adjuster.new(data: parsed_data).run
+      
+      expect(modified_data.first[:start_time]).to eq('00:00:59,918')
+      expect(modified_data.first[:end_time]).to   eq('00:01:04,514')
+    end
+```
+
+**Output**
+
+```Ruby
+  NoMethodError:
+    undefined method `run' for #<Subjuster::Adjuster:0x00557cba6c2988>
+  # ./spec/adjuster_spec.rb:23:in `block (3 levels) in <top (required)>'
+```
+
+Now, we define `run` method
+
+```Ruby
+  attr_reader :data
+
+  def initialize(data:)
+    @data = data
+  end
+
+  def run
+    data
+  end
+```
+
+**Output**
+```Ruby
+  expected: "00:00:59,918"
+       got: "00:00:57,918"
+
+  (compared using ==)
+  # ./spec/adjuster_spec.rb:25:in `block (3 levels) in <top (required)>'
+```
