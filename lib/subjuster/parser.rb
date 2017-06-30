@@ -1,5 +1,19 @@
 module Subjuster
   class Parser
+    # = Parser
+    #   
+    #   Subjuster::Parser parses the File you provide via UserInput object
+    #
+    #   Example:
+    #
+    #     inputs = Subjuster::UserInput.new(source: 'somefilename')
+    #     Subjuster::Parser.new(inputs: inputs).parse
+    #
+    #     # [{:id=>"1", 
+    #     #  :start_time=>"00:00:57,918", 
+    #     #  :end_time=>"00:01:02,514", 
+    #     #  :dialog=>"\"In order to affect a timely halt\n" + "to deteriorating conditions\n"},..]
+    #
     attr_reader :inputs
     def initialize(inputs:)
       @inputs = inputs

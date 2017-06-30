@@ -118,3 +118,55 @@ When we run this example, we see the following error
 
 We will add the method `Parser#parse` and add production code and try to make it green.
 Now, we have completed the code for parse to pass the test. [see the file here](lib/subjuster/parser.rb)
+
+First, we solved the problem in any way we could, then we refactored the code to make it readable, comprehensible and if possible performant.
+
+** Optimized code **
+```Ruby
+  module Subjuster
+    class Parser
+      attr_reader :inputs
+      def initialize(inputs:)
+        @inputs = inputs
+      end
+      
+      def parse
+        items = []
+        file_content_array = File.read(inputs.source_filepath).split("\n")
+        count = file_content_array.count
+        index = 0
+
+        while index < count do
+          line = file_content_array[index]
+
+          if line =~ /\A[-+]?[0-9]+\z/
+            splitted_line = file_content_array[index+1].split(' --> ')
+            
+            dialog, index = find_dialog_from(list: file_content_array, index: index + 2)
+            
+            items << { id: line, start_time: splitted_line.first, end_time: splitted_line.last, dialog: dialog }
+          end
+        end
+
+        items
+      end
+      
+      private
+        # This will find next `dialog number` embedded line and
+        # return lines joined upto that line, along with the index of line of the `dialog num` 
+        def find_dialog_from(list:, index:)
+          buffer = []
+          count = list.count
+           while !(list[index]  =~ /\A[-+]?[0-9]+\z/) && index < count do
+             buffer << list[index]
+             index += 1
+           end
+           [buffer.join("\n"), index]
+        end
+    end
+  end
+
+```
+Now, the tests passes.
+
+**Then we pick `Subjuster::Adjuster`.**
