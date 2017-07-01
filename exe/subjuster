@@ -14,6 +14,9 @@ OptionParser.new do |opts|
                 "Special Case:\n"\
                 "subjuster [fiename.srt] -a-12.23    # for -ve number i.e '-12.23'\n"\
                 "\n"\
+                "'+ve' number will add time while '-ve' will decrease. \n"\
+                "i.e. if subtitles appears 2 sec after the audio then use '-2' as adjustment\n"\
+                "---------------------------------------------------------------------------\n"\
                 "\n"\
 
   opts.on("-a [Numeric]", "--adjustment [Numeric]", Float, "Time adjustment in sec") do |v|

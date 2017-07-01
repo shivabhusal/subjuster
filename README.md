@@ -5,10 +5,11 @@ and subtitle do not sync with each other. Normally it lags/gains by a few second
 You will be able to adjust and generate a new subtitle file or update the existing one.
 
 ## Table Of Content
-<!-- TOC START min:1 max:4 link:true update:true -->
 - [Subjuster | TDD guide for Software Engineers in OOP](#subjuster--tdd-guide-for-software-engineers-in-oop)
   - [Table Of Content](#table-of-content)
   - [Intention / Purposes](#intention--purposes)
+  - [Installation](#installation)
+  - [Usage](#usage)
   - [Steps to TDD](#steps-to-tdd)
     - [Requirement Gathering](#requirement-gathering)
     - [Phase One: UML Drawing and Research](#phase-one-uml-drawing-and-research)
@@ -16,15 +17,16 @@ You will be able to adjust and generate a new subtitle file or update the existi
       - [UML Design in Brief](#uml-design-in-brief)
       - [UML Designs in Detail](#uml-designs-in-detail)
       - [Is it complicated?](#is-it-complicated)
-    - [Phase Two | Generate a skeleton Ruby gem](#phase-two--generate-a-skeleton-ruby-gem)
+    - [Phase Two   | Generate a skeleton Ruby gem](#phase-two--generate-a-skeleton-ruby-gem)
     - [Phase Three | Write expectations from each modules in English](#phase-three--write-expectations-from-each-modules-in-english)
       - [Defining TDD](#defining-tdd)
-    - [Phase Four | Write Failing Expectations](#phase-four--write-failing-expectations)
-    - [Phase Five | Write Production Code to Pass Failing Expectations](#phase-five--write-production-code-to-pass-failing-expectations)
+    - [Phase Four  | Write Failing Expectations](#phase-four--write-failing-expectations)
+    - [Phase Five  | Write Production Code to Pass Failing Expectations](#phase-five--write-production-code-to-pass-failing-expectations)
+    - [Phase Five  | Write_commits_in_steps_for_Parser](tdd_for_parser.md)
+    - [Phase Six   | Write_commits_in_steps_for_Adjuster](tdd_for_adjuster.md)
+    - [Phase Seven | write_steps_for_generator](tdd_for_generator.md)
+    - [Phase Eight | write_failing_test_and_make_it_green_for_SubjusterCore](tdd_for_core.md)
   - [Some rules](#some-rules)
-
-<!-- TOC END -->
-
 
 
 
@@ -41,6 +43,25 @@ I am writing this software for two of the main reasons
 better meet its purpose, please feel free to send a **Pull Request**. 
 I would be very much pleased to merge it after reviewing.
 
+## Installation
+```bash
+  $ gem install subjuster
+```
+## Usage
+```bash
+  Usage: subjuster [filename.srt] [options]
+
+  Special Case:
+  subjuster [fiename.srt] -a-12.23    # for -ve number i.e '-12.23'
+
+  '+ve' number will add time while '-ve' will decrease. 
+  i.e. if subtitles appears 2 sec after the audio then use '-2' as adjustment
+  ---------------------------------------------------------------------------
+
+      -a, --adjustment [Numeric]       Time adjustment in sec
+      -t, --target [Filename]          If Target file name not given then will be '[source_file].modified.srt'
+      -h, --help                       Prints this help
+```
 
 ## Steps to TDD
 ### Requirement Gathering
@@ -302,6 +323,11 @@ This process should be repeated till you are done with all the features. Please 
 
 If still you need assistance then see the [documentation in /tdd_for_parser.md](/tdd_for_parser.md).
 
+### [Phase-5 Write_commits_in_steps_for_Parser](tdd_for_parser.md)
+### [Phase-6_Write_commits_in_steps_for_Adjuster](tdd_for_adjuster.md)
+### [Phase-7_write_steps_for_generator](tdd_for_generator.md)
+### [Phase-8_write_failing_test_and_make_it_green_for_SubjusterCore](tdd_for_core.md)
+
 
 ## Some rules
 <img src="images/rules.jpg" width="300">
@@ -316,3 +342,4 @@ If still you need assistance then see the [documentation in /tdd_for_parser.md](
 - <span style="color: green;">First solve problem in way you can; do not waste time to think about the best-way possible.</span>
   - <u>when you have your test-suite GREEN then you start Optimizing the solution.</u>
 - There is always way to optimize your code; but is it worth it?
+
