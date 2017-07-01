@@ -21,7 +21,7 @@ module Subjuster
     end
     
     def parse
-      inputs.validate! unless ENV[:test]
+      inputs.validate! unless $test 
       _parse
     end
     
