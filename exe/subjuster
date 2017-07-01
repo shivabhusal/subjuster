@@ -31,8 +31,13 @@ OptionParser.new do |opts|
 end.parse!
 
 $stdout.puts 
-$stdout.puts options.inspect
+
+options.each do |key, value|
+  $stdout.puts "#{key} #{' '*(20-key.length)} => #{value}" unless key == :target
+end
+
 $stdout.puts 
+
 begin
   Subjuster::Core.run(options)
 rescue Subjuster::InputError => error
