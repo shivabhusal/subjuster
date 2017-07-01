@@ -21,26 +21,8 @@ module Subjuster
     end
     
     def parse
-      items = []
-      file_content_array = File.read(inputs.source_filepath).split("\n")
-      count = file_content_array.count
-      index = 0
-
-      while index < count do
-        line = file_content_array[index]
-
-        if line =~ REGEXP
-          splitted_line = file_content_array[index+1].split(' --> ')
-          
-          dialog, index = find_dialog_from(list: file_content_array, index: index + 2)
-          
-          items << { id: line, start_time: splitted_line.first, end_time: splitted_line.last, dialog: dialog }
-        else
-          index += 1
-        end
-      end
-
-      items
+      inputs.validate!
+      _parse
     end
     
     private
@@ -54,6 +36,29 @@ module Subjuster
            index += 1
          end
          [buffer.join("\n"), index]
+      end
+      
+      def _parse
+        items = []
+        file_content_array = File.read(inputs.source_filepath).split("\n")
+        count = file_content_array.count
+        index = 0
+
+        while index < count do
+          line = file_content_array[index]
+
+          if line =~ REGEXP
+            splitted_line = file_content_array[index+1].split(' --> ')
+            
+            dialog, index = find_dialog_from(list: file_content_array, index: index + 2)
+            
+            items << { id: line, start_time: splitted_line.first, end_time: splitted_line.last, dialog: dialog }
+          else
+            index += 1
+          end
+        end
+
+        items
       end
   end
 end

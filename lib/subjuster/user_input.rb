@@ -1,4 +1,5 @@
 module Subjuster
+  InputError = Class.new(StandardError)
   # = Handle User Input
   # 
   # Being a CLI tool, Subjuster is supposed to take input from +ARGV+
@@ -10,10 +11,11 @@ module Subjuster
   #   inputs.valid? # => true / false
   #
   class UserInput
+    
     attr_reader :source_filepath, :target_filepath, :adjustment_in_sec
     def initialize(source:, target: nil, adjustment_in_sec: 0)
-      @source_filepath = source
-      @target_filepath = target || @source_filepath
+      @source_filepath = File.expand_path(source)
+      @target_filepath = target && File.expand_path(target) || "#{source_filepath}.modified.srt"
       @adjustment_in_sec = adjustment_in_sec
     end
     
@@ -31,6 +33,10 @@ module Subjuster
     #
     def valid?
       File.exist?(source_filepath)
+    end
+    
+    def validate!
+      raise InputError, "Invalid file: #{source_filepath}" unless valid?
     end
   end
 end
