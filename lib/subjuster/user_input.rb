@@ -14,7 +14,7 @@ module Subjuster
     
     attr_reader :source_filepath, :target_filepath, :adjustment_in_sec
     def initialize(source:, target: nil, adjustment_in_sec: 0)
-      @source_filepath = File.expand_path(source)
+      @source_filepath = File.expand_path(source || '')
       @target_filepath = target && File.expand_path(target) || "#{source_filepath}.modified.srt"
       @adjustment_in_sec = adjustment_in_sec
     end
