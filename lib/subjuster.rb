@@ -4,6 +4,19 @@ require 'subjuster/parser'
 require 'subjuster/adjuster'
 require 'subjuster/generator'
 
+# lib/subjuster.rb
 module Subjuster
-  # Your code goes here...
+  class Core
+    class << self
+      def run(source:, target: nil, adjustment_in_sec: 0)
+        
+        user_input    = UserInput.new(source: source, target: target, adjustment_in_sec: adjustment_in_sec)
+        parsed_data   = Parser.new(inputs: user_input).parse
+        adjusted_data = Adjuster.new(data: parsed_data, inputs: user_input).run
+        
+        Generator.new(payload: adjusted_data, inputs: user_input).run
+        
+      end
+    end
+  end
 end
