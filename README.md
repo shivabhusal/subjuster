@@ -8,7 +8,6 @@ A Command-Line tool to adjust your movie subtitle files. Its a common issue that
 and subtitle do not sync up. Normally it lags/gains by a few seconds/milliseconds. Using `Subjuster`
 You will be able to adjust and generate a new subtitle file.
 
-
 ## Table Of Content
 - [Subjuster | TDD guide for Software Engineers in OOP](#subjuster--tdd-guide-for-software-engineers-in-oop)
   - [Table Of Content](#table-of-content)
@@ -19,8 +18,8 @@ You will be able to adjust and generate a new subtitle file.
     - [Requirement Gathering](#requirement-gathering)
     - [Phase One: UML Drawing and Research](#phase-one-uml-drawing-and-research)
       - [Example(1) in our case:-](#example1-in-our-case-)
-      - [UML Design in Brief](#uml-design-in-brief)
-      - [UML Designs in Detail](#uml-designs-in-detail)
+      - [Brief Class Diagram](#brief-class-diagram)
+      - [Detail Class Diagram](#detail-class-diagram)
       - [Is it complicated?](#is-it-complicated)
     - [Phase Two   | Generate a skeleton Ruby gem](#phase-two--generate-a-skeleton-ruby-gem)
     - [Phase Three | Write expectations from each modules in English](#phase-three--write-expectations-from-each-modules-in-english)
@@ -36,7 +35,7 @@ You will be able to adjust and generate a new subtitle file.
 
 
 ## Intention / Purposes
-I am writing this software for two of the main reasons  
+I am writing this software and documentation for two of the main reasons  
 - Teach TDD to emerging Software Engineers
   - The problem with new Engineers is, they find the concept of Testing 
     and Specially **TDD** mind bothering. 
@@ -46,7 +45,8 @@ I am writing this software for two of the main reasons
 
 > **Note**: If you feel that this doc/repo needs some modifications to help it 
 better meet its purpose, please feel free to send a **Pull Request**. 
-I would be very much pleased to merge it after reviewing.
+I would be very much pleased to merge it after reviewing.  
+> If you feel this doc helpful; please don't forget to put a *Star*.
 
 ## Installation
 > This gem requires `Ruby 2.0+`.
@@ -100,18 +100,20 @@ always changeable because **Requirements** always change down the road.
 When you've thought of solutions, you grab notebook and pen; start making rough 
 sketches(UML diagrams). Think of what your software does and list out separate 
 tasks/actions to perform.  
-#### Example(1) in our case:-  
+
+#### Example(1) of list of tasks you think of:-  
 1. Takes input from the users; may be from CLI or via STDIN(Keyboard)
    Inputs will be `filename.srt` and `number_of_seconds` | +ve or -ve
 2. Parse the file supplied into some data-structure like `Hash`
 3. Modify hash with required adjustments
 4. Export or Generate the adjusted file to FileSystem.
 
-Now, you draw Use Case diagram if possible. Its simple, go through some online blogs and 
-start drawing. After that, you need to draw Class Diagram. This necessary to 
-figure out what components your software is gonna compose. 
+Now, you draw [**Use Case diagram**](http://www.uml-diagrams.org/use-case-diagrams.html) if possible. 
+Its simple, go through some online blogs and 
+start drawing. After that, you need to draw **Class Diagram**. This is necessary to 
+figure out what components your software is gonna composed of. 
 
-Lets do that: Extract out **nouns** from the list in Example(1).
+Lets do it: Extract out **nouns** from the list in Example(1).
 1. UserInput
 2. Parsertoc
 3. Modifier / Adjuster
@@ -126,17 +128,19 @@ one class/module/function should not take more than one responsibility.
 
 ![Use Case diagram of subjuster](images/use_case_diagram.png)
 
-We comply to the rules and decide to have 4 modules doing individual tasks and collaborate with each other sending messages. Now we draw Class Diagram of our first thought. 
-#### UML Design in Brief
+We complied to the rules and decided to have 4 modules doing individual tasks and collaborate with 
+each other sending messages. Now we draw **Class Diagram** of our first thought. 
+
+#### Brief Class Diagram
 ![Class diagram in brief](images/class_diagram_brief.png)
-> **Question:** What is this `Subjuster` module doing here?
+> **Question:** What is this `Subjuster` or `Subjuster::Core` module doing here?
 
 This module is a wrapper to tie your application components together like `Namespace`. This module will facilitate your application; which we will cover in later topics. 
 
 [Read this document in Class Diagrams](https://en.wikipedia.org/wiki/Class_diagram) and learn the meaning of `arrows` and boxes. This will help you in you career as well. Keep in mind that you don't have to learn UML and gain expertise to learn TDD; you only have to be able to draw boxes and name them. You can use [Draw.io](https://www.draw.io/) to draw UML diagrams; it's open source and free.
 
 
-#### UML Designs in Detail
+#### Detail Class Diagram
 ![Class diagram and use case diagram of subjuster](images/class_diagram.png)
 
 #### Is it complicated?
