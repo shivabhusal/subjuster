@@ -148,18 +148,25 @@ If you feel lost, then no worries, forget about the relationship between modules
 
 ### Phase Two | Generate a skeleton Ruby gem
 We at the end are going to release this project as a standalone `gem` so that 
-any one willing to use this can benefit from this.
+any one willing to use this can get benefit from this.
+
+Following is command to generate a new gem skeleton using `bundler`.
+
 ```bash
 $ bundle gem [subjuster]
 ```
 The name of gem can be anything in your case. This command generates a `bundler` compatible gem skeleton which you can modify and build your idea.
+
+> **Note:** If you are not comfortable with `gems` then, simply follow the folder structure in this repo. You will get hang of it soon.
 
 ----
 
 ### Phase Three | Write expectations from each modules in English
 ![Joke about explaining expectations and results](images/expectations.png)  
 
-It's not possible for everybody to figure out which technique are you gonna use to implement that particular function before hand. But, you already know what to expect from that module. Lets write some expectations:-  
+It's not possible for everybody to figure out which technique are you gonna use to implement that particular function in code before hand. Therefore, think of what you expect from that particular feature in English. You already know what to expect from that module/function, don't you?. If you are confused then go ask your product owner about the requirements.
+
+Lets write some expectations in pure English:-  
 
 ```ruby
 1. UserInput
@@ -206,21 +213,21 @@ describe UserInput do
 end
 ```
 
-#### Defining TDD
+#### Defining TDD in simple language
 <img src="images/contract.jpg" width="300">
-It's like signing a contract with everything `needed to be done` specified in formal language. This is needed to define the `Job Done`. We write test-cases before implementing a feature; which will let us know when that particular feature/function is done, so that we can move on to next function.
+It's like signing a contract with everything `needed to be done` specified in formal language. This is needed to define the `Job Done`. We write test-cases before implementing a feature; which will let us know when that particular feature/function is done, so that we can move on to next function. It will help you stick with the features client/owner demanded. Often developers lose track of what they should be doing in that iteration.
 
 ---
 
 ### Phase Four | Write Failing Expectations
 <img src="images/failing_test.png" width="200"><img src="images/rspec_fail.png" width="500">
 
-Firstly we do some cleaning; we separate out specs related to individual module to corresponding spec files, like, `user_input_spec.rb` will contain specs related to `UserInput` module and so forth.
+Firstly, we do some cleaning; we separate out specs related to individual module to corresponding spec files, like, `user_input_spec.rb` will contain specs only related to `UserInput` module and so forth.
 
 
-Now, we use our knowledge of Ruby and little bit of RSpec DSL.  We pick one module at a time, because we are on war. We write Expectations that we know it should fail. Because they are not yet implemented. I am implying any syntax error by `failing`. It can be `Class not defined` kinda error though. 
+Now, we use our knowledge of `Ruby` and little bit of `RSpec` DSL.  We pick one module at a time, because we are on war. We write expectations that we know it should fail because they are not yet implemented. I am implying syntax errors as well by `failing test`. It can be `Class not defined` kinda error though. The errors are intended and expected.
 
-In the beginning we pick the simplest i.e. `UserInput`
+In the beginning we pick the simplest module i.e. `UserInput`. Its legit to go in sequence.
  
 [In the file `user_input_spec.rb`](/spec/user_input_spec.rb) we pick the top most expectation i.e.
 ```Ruby
@@ -243,8 +250,9 @@ While running the command `rspec spec/` I encounter this error
   Finished in 0.00022 seconds (files took 0.40604 seconds to load)
   0 examples, 0 failures, 1 error occurred outside of examples
 ```
-**Error is Good**.
-To comply our requirements, there should be a class `UserInput` in the first place. This technique is also called `Error Driven Development`. Errors and failure will guide you to the destination; a better tomorrow.
+**Error is Good**.  
+
+To comply with our requirements, there should be a class `UserInput` in the first place. This technique is also called `Error Driven Development`. Errors and failure will guide you to the destination; a better tomorrow.
 
 
 <u>Little improvisation needed here</u>; We need to use `Subjuster` namespace to 
@@ -258,6 +266,7 @@ we will require  the file so that RSpec could load the file in test-suites. Also
 
 ### Phase Five | Write Production Code to Pass Failing Expectations
 <img src="images/red_to_green.png" width="200"> Next thing you do is, **define the class `UserInput`**.
+
 >**Rule:**  You deal with one RED/Failing test at a time; you take that
 > examples from Red --> Green; then only you touch next example/test-case.
 
@@ -270,7 +279,7 @@ we will require  the file so that RSpec could load the file in test-suites. Also
 ```
   
 Now see the execution result:-  
-```bash
+```Ruby
   $ rspec spec/user_input_spec.rb
 
   ArgumentError:
@@ -279,7 +288,7 @@ Now see the execution result:-
   # ./spec/user_input_spec.rb:6:in `new'
   # ./spec/user_input_spec.rb:6:in `block (2 levels) in <top (required)>'
 ```
-It means we are advancing, we surpassed our first error and now in second. It says, may be we have not defined the `initialize` function with proper arguments.
+It means we are advancing, we surpassed our **first error** and now in second. It says, may be we have not defined the `initialize` function with proper arguments. So, we obey the suggestion.
 
 ```Ruby
   module Subjuster
