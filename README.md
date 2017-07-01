@@ -4,9 +4,10 @@
 <a href="https://codeclimate.com/github/shivabhusal/subjuster"><img src="https://codeclimate.com/github/shivabhusal/subjuster/badges/issue_count.svg" /></a>
 
 
-A command line tool to adjust your movie subtitle files while while playing audio 
-and subtitle do not sync with each other. Normally it lags/gains by a few seconds/milliseconds. 
-You will be able to adjust and generate a new subtitle file or update the existing one.
+A Command-Line tool to adjust your movie subtitle files. Its a common issue that while playing movies audio 
+and subtitle do not sync up. Normally it lags/gains by a few seconds/milliseconds. Using `Subjuster`
+You will be able to adjust and generate a new subtitle file.
+
 
 ## Table Of Content
 - [Subjuster | TDD guide for Software Engineers in OOP](#subjuster--tdd-guide-for-software-engineers-in-oop)
@@ -86,11 +87,12 @@ The file is generated in the current working directory.
 ## Steps to TDD
 ### Requirement Gathering
 <img src="images/requirements.png" width="100"> Before you start a software project, 
-there should be a problem somewhere in world in the first place which will you be solving. 
-You gotta understand everything possible about the problem. Next will be, you figuring out 
-ways to solve this problem. You are not supposed to the ultimate solution which is not gonna 
-change ever; It's not possible, your solution should be robust and always changeable because 
-**Requirements** always change down the road.
+there should be a problem somewhere in world in the first place; which will you be solving. 
+You gotta understand everything about the problem as possible.   
+
+Next will be, you figuring out ways to solve this problem. You are not supposed to the ultimate 
+solution which is not gonna change ever; It's not possible, your solution should be robust and 
+always changeable because **Requirements** always change down the road.
 
 ---
 
