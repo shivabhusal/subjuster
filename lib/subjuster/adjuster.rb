@@ -25,19 +25,19 @@ module Subjuster
       rim = ""
 
       hr = timestamp_in_msec / 3600000
-      rim << "%02i" % (hr.to_s) << ":" 
+      rim << ("%02i" % hr) << ":" 
       
       min = timestamp_in_msec / 60000
       timestamp_in_msec -= min*60000
-      rim << "%02i" % (min.to_s) << ":" 
+      rim << ("%02i" % min) << ":" 
       
       
       sec = timestamp_in_msec / 1000
       timestamp_in_msec -= sec*1000
-      rim << "%02i" % (sec.to_s) << ":" 
+      rim << ("%02i" % sec) << ":" 
       
       rim.slice!(-1)
-      rim << "," << timestamp_in_msec.to_s << date[12..-1]
+      rim << "," << "#{timestamp_in_msec}00"[0..2]  << date[12..-1]
     end
   end
 end

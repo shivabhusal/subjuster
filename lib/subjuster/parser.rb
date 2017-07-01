@@ -1,6 +1,6 @@
 module Subjuster
   class Parser
-    REGEXP = /\d[\s]{,2}\Z/
+    REGEXP = /\A[\d]+[\s]{,2}\Z/
     # = Parser
     #   
     #   Subjuster::Parser parses the File you provide via UserInput object
@@ -21,7 +21,7 @@ module Subjuster
     end
     
     def parse
-      inputs.validate!
+      inputs.validate! unless ENV[:test]
       _parse
     end
     

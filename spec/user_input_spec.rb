@@ -7,7 +7,7 @@ RSpec.describe Subjuster::UserInput do
   end
   
   it 'Should take `target_filepath` as argument while construction' do
-      target_filepath = '/tmp/target_file.srt'
+      target_filepath = '/tmp/target_file.srt.modified.srt'
       expect(Subjuster::UserInput.new(source: nil, target: target_filepath).target_filepath).to eq(target_filepath)
   end
   
@@ -15,7 +15,8 @@ RSpec.describe Subjuster::UserInput do
     # in overwriting case
     it 'should return source name as target when not supplied with target' do
       source_filepath = '/tmp/source_file.srt'
-      expect(Subjuster::UserInput.new(source: source_filepath).target_filepath).to eq(source_filepath)
+      target_filepath = '/tmp/source_file.srt.modified.srt'
+      expect(Subjuster::UserInput.new(source: source_filepath).target_filepath).to eq(target_filepath)
     end
     
   end
