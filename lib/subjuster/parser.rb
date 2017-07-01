@@ -1,5 +1,6 @@
 module Subjuster
   class Parser
+    REGEXP = /\d[\s]{,2}\Z/
     # = Parser
     #   
     #   Subjuster::Parser parses the File you provide via UserInput object
@@ -28,12 +29,14 @@ module Subjuster
       while index < count do
         line = file_content_array[index]
 
-        if line =~ /\A[-+]?[0-9]+\z/
+        if line =~ REGEXP
           splitted_line = file_content_array[index+1].split(' --> ')
           
           dialog, index = find_dialog_from(list: file_content_array, index: index + 2)
           
           items << { id: line, start_time: splitted_line.first, end_time: splitted_line.last, dialog: dialog }
+        else
+          index += 1
         end
       end
 
@@ -46,7 +49,7 @@ module Subjuster
       def find_dialog_from(list:, index:)
         buffer = []
         count = list.count
-         while !(list[index]  =~ /\A[-+]?[0-9]+\z/) && index < count do
+         while !(list[index]  =~ REGEXP) && index < count do
            buffer << list[index]
            index += 1
          end

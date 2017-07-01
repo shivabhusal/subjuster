@@ -1,0 +1,6721 @@
+﻿1
+00:00:57,918 --> 00:01:02,514
+"In order to affect a timely halt
+to deteriorating conditions
+
+2
+00:01:02,589 --> 00:01:05,183
+and to ensure the common good,
+
+3
+00:01:05,259 --> 00:01:08,626
+a state of emergency is declared
+for these territories
+
+4
+00:01:08,695 --> 00:01:11,323
+by decree of Lord Cutler Beckett,
+
+5
+00:01:11,398 --> 00:01:14,526
+duly appointed representative
+of His Majesty, the king.
+
+6
+00:01:15,769 --> 00:01:18,670
+By decree, according to martial law,
+
+7
+00:01:18,739 --> 00:01:22,197
+the following statutes
+are temporarily amended:
+
+8
+00:01:22,276 --> 00:01:24,972
+Right to assembly, suspended.
+
+9
+00:01:27,814 --> 00:01:30,908
+Right to habeas corpus, suspended.
+
+10
+00:01:32,486 --> 00:01:35,580
+Right to legal counsel, suspended.
+
+11
+00:01:36,623 --> 00:01:40,855
+Right to verdict by a jury of peers,
+suspended.
+
+12
+00:01:42,262 --> 00:01:47,222
+By decree, all persons
+found guilty of piracy,
+
+13
+00:01:47,301 --> 00:01:50,429
+or aiding a person convicted of piracy,
+
+14
+00:01:50,504 --> 00:01:54,440
+or associating with a person
+convicted of piracy...
+
+15
+00:01:55,509 --> 00:01:59,240
+...shall be sentenced to
+hang by the neck until dead."
+
+16
+00:02:31,511 --> 00:02:35,140
+♪ The king and his men ♪
+
+17
+00:02:35,215 --> 00:02:39,879
+♪ Stole the queen from her bed ♪
+
+18
+00:02:41,588 --> 00:02:47,549
+♪ And bound her in her bones ♪
+
+19
+00:02:48,595 --> 00:02:51,860
+♪ The seas be ours ♪
+
+20
+00:02:52,199 --> 00:02:56,260
+♪ And by the powers ♪
+
+21
+00:02:58,772 --> 00:03:04,506
+♪ Where we will, we'll roam ♪
+
+22
+00:03:11,685 --> 00:03:14,848
+♪ Yo ho ♪
+
+23
+00:03:15,489 --> 00:03:18,788
+♪ All hands ♪
+
+24
+00:03:19,226 --> 00:03:24,823
+♪ Hoist the colors high ♪
+
+25
+00:03:26,633 --> 00:03:29,864
+♪ Heave-ho ♪
+
+26
+00:03:30,504 --> 00:03:34,406
+♪ Thieves and beggars ♪
+
+27
+00:03:34,474 --> 00:03:40,470
+♪ Never shall we die ♪
+
+28
+00:03:42,182 --> 00:03:45,640
+♪ Yo ho ♪
+
+29
+00:03:45,719 --> 00:03:49,450
+♪ Haul together ♪
+
+30
+00:03:49,523 --> 00:03:51,650
+♪ Hoist the colors high ♪
+
+31
+00:03:51,725 --> 00:03:52,885
+Lord Beckett!
+
+32
+00:03:54,528 --> 00:03:57,156
+They've started to sing, sir.
+
+33
+00:03:59,700 --> 00:04:04,000
+- Finally.
+- ♪ Thieves and beggars ♪
+
+34
+00:04:04,504 --> 00:04:10,340
+♪ Never shall we die ♪
+
+35
+00:04:40,807 --> 00:04:44,971
+♪ Some have died
+and some are alive ♪
+
+36
+00:04:45,912 --> 00:04:49,348
+♪ Others sail on the sea ♪
+
+37
+00:04:50,917 --> 00:04:53,351
+♪ With the keys to the cage ♪
+
+38
+00:04:53,520 --> 00:04:55,784
+♪ And the devil to pay ♪
+
+39
+00:04:55,922 --> 00:04:59,915
+♪ We lay to Fiddler's Green ♪
+
+40
+00:05:01,995 --> 00:05:06,955
+♪ The bell has been raised
+from its watery grave ♪
+
+41
+00:05:07,367 --> 00:05:10,700
+♪ Hear its sepulchral tone ♪
+
+42
+00:05:11,938 --> 00:05:16,932
+♪ A call to all
+Pay heed the squall ♪
+
+43
+00:05:25,385 --> 00:05:28,821
+♪ Turn your sails to home ♪
+
+44
+00:05:30,957 --> 00:05:32,982
+♪ Yo ho ♪
+
+45
+00:05:33,693 --> 00:05:35,661
+♪ Haul together ♪
+
+46
+00:05:36,029 --> 00:05:39,328
+♪ Hoist the colors high ♪
+
+47
+00:05:40,834 --> 00:05:43,462
+♪ Heave-ho ♪
+
+48
+00:05:43,537 --> 00:05:45,698
+- ♪ Thieve...
+- Thief and beggar. ♪
+
+49
+00:05:45,772 --> 00:05:49,071
+♪ Never shall we die ♪
+
+50
+00:05:51,311 --> 00:05:54,474
+A dangerous song to be singing...
+
+51
+00:05:54,681 --> 00:05:57,411
+...for any who are
+ignorant of its meaning.
+
+52
+00:05:58,018 --> 00:05:59,918
+Particularly a woman.
+
+53
+00:06:01,488 --> 00:06:03,854
+Particularly a woman alone.
+
+54
+00:06:04,624 --> 00:06:06,819
+What makes you think
+she's alone?
+
+55
+00:06:11,431 --> 00:06:12,921
+You protect her?
+
+56
+00:06:13,900 --> 00:06:16,300
+And what makes you think
+I need protecting?
+
+57
+00:06:16,703 --> 00:06:19,001
+Your master's expecting us.
+
+58
+00:06:19,072 --> 00:06:23,441
+And an unexpected death'd
+cast a slight pall on our meeting.
+
+59
+00:06:25,045 --> 00:06:26,478
+Pick those feet up!
+
+60
+00:06:28,415 --> 00:06:30,144
+On the double!
+
+61
+00:06:31,551 --> 00:06:33,382
+Eyes front!
+
+62
+00:06:42,229 --> 00:06:43,856
+No, no, no. None.
+
+63
+00:07:11,992 --> 00:07:14,688
+lt always takes me
+about a week to get my sea legs.
+
+64
+00:07:14,761 --> 00:07:16,922
+I was throwing up horribly
+the last time.
+
+65
+00:07:28,275 --> 00:07:31,335
+Steady as she goes.
+
+66
+00:07:33,713 --> 00:07:34,702
+All right.
+
+67
+00:07:38,418 --> 00:07:40,318
+Have you heard anything from Will?
+
+68
+00:07:40,387 --> 00:07:42,719
+I trust young Turner
+to acquire the charts
+
+69
+00:07:42,789 --> 00:07:46,225
+and you to remember your place
+in the presence of Captain Sao Feng.
+
+70
+00:07:46,760 --> 00:07:48,819
+Is he that terrifying?
+
+71
+00:07:48,895 --> 00:07:53,832
+He's much like myself, but absent my
+merciful nature and sense of fair play.
+
+72
+00:08:08,848 --> 00:08:11,442
+We're through. Make ready.
+
+73
+00:08:17,958 --> 00:08:19,152
+Hurry now.
+
+74
+00:08:25,565 --> 00:08:29,433
+Do you think because she is a woman
+we would not suspect her of treachery?
+
+75
+00:08:31,771 --> 00:08:33,796
+Well, when you put it that way...
+
+76
+00:08:34,474 --> 00:08:36,271
+Remove. Please.
+
+77
+00:09:21,121 --> 00:09:24,147
+Remove. Please.
+
+78
+00:10:09,402 --> 00:10:13,668
+Captain Barbossa,
+welcome to Singapore.
+
+79
+00:10:18,244 --> 00:10:19,370
+More steam.
+
+80
+00:10:41,935 --> 00:10:42,924
+None of that.
+
+81
+00:10:43,002 --> 00:10:46,961
+If things don't go the way we want,
+then we're the only chance they've got.
+
+82
+00:10:53,246 --> 00:10:57,842
+I understand that you have
+a request to make of me.
+
+83
+00:10:57,917 --> 00:11:00,977
+More of a proposal to put to ye.
+
+84
+00:11:01,387 --> 00:11:06,791
+I've a venture underway and I find
+myself in need of a ship and a crew.
+
+85
+00:11:07,827 --> 00:11:11,627
+Hmm. It's an odd coincidence.
+
+86
+00:11:11,698 --> 00:11:14,792
+Because you happen to have
+a ship and a crew you don't need?
+
+87
+00:11:14,868 --> 00:11:17,268
+No.
+
+88
+00:11:17,337 --> 00:11:19,965
+Because earlier this day,
+not far from here,
+
+89
+00:11:20,039 --> 00:11:23,998
+a thief broke into
+my most revered uncle's temple
+
+90
+00:11:24,144 --> 00:11:27,170
+and tried to make off with these.
+
+91
+00:11:28,815 --> 00:11:31,511
+The navigational charts.
+
+92
+00:11:32,152 --> 00:11:35,883
+The route to the Farthest Gate.
+
+93
+00:11:38,391 --> 00:11:42,851
+Would'nt it be amazing
+if this venture of yours
+
+94
+00:11:42,929 --> 00:11:46,330
+took you to the world beyond this one?
+
+95
+00:11:46,399 --> 00:11:49,266
+It would strain credulity at that.
+
+96
+00:12:03,316 --> 00:12:08,015
+This is the thief.
+Is his face familiar to you?
+
+97
+00:12:10,824 --> 00:12:14,260
+Then I guess he has
+no further need for it.
+
+98
+00:12:14,594 --> 00:12:15,583
+No, no!
+
+99
+00:12:24,504 --> 00:12:29,407
+You come into my city
+and you betray my hospitality.
+
+100
+00:12:30,276 --> 00:12:33,768
+- I assure you I had no idea...
+- That he would get caught!
+
+101
+00:12:38,184 --> 00:12:41,347
+You intend to attempt the voyage
+to Davy Jones' Locker.
+
+102
+00:12:41,421 --> 00:12:43,753
+But I cannot help but wonder...
+
+103
+00:12:45,425 --> 00:12:46,790
+Why?
+
+104
+00:12:56,236 --> 00:13:01,970
+The song has been sung.
+The time is upon us.
+
+105
+00:13:02,475 --> 00:13:06,241
+We must convene the Brethren Court.
+
+106
+00:13:06,312 --> 00:13:12,273
+As one of the nine pirate lords,
+you must honor the call.
+
+107
+00:13:14,153 --> 00:13:15,313
+More steam.
+
+108
+00:13:22,295 --> 00:13:23,819
+More steam!
+
+109
+00:13:30,937 --> 00:13:34,429
+- There is a price on all our heads.
+- Aye.
+
+110
+00:13:34,507 --> 00:13:36,407
+It is true.
+
+111
+00:13:36,476 --> 00:13:39,741
+It seems the only way a pirate
+can turn a profit anymore...
+
+112
+00:13:41,381 --> 00:13:44,782
+...is by betraying other pirates.
+
+113
+00:13:44,851 --> 00:13:47,217
+We must put
+our differences aside.
+
+114
+00:13:47,287 --> 00:13:48,345
+Wait for the signal.
+
+115
+00:13:48,421 --> 00:13:51,584
+The First Brethren Court
+gave us rule of the seas.
+
+116
+00:13:51,658 --> 00:13:56,322
+But now that rule is being challenged
+by Lord Cutler Beckett.
+
+117
+00:13:56,462 --> 00:13:59,192
+Against East India
+Trading Company,
+
+118
+00:13:59,265 --> 00:14:01,927
+what value is the Brethren Court?
+
+119
+00:14:02,602 --> 00:14:04,433
+What can any of us do?
+
+120
+00:14:04,504 --> 00:14:07,337
+You can fight!
+Get off me!
+
+121
+00:14:07,407 --> 00:14:10,865
+You are Sao Feng,
+the pirate lord of Singapore.
+
+122
+00:14:10,944 --> 00:14:15,643
+You command in an age of piracy
+where bold captains sail free waters.
+
+123
+00:14:16,149 --> 00:14:19,585
+Where waves aren't measured in feet,
+but as increments of fear,
+
+124
+00:14:19,652 --> 00:14:21,916
+and those who pass the test
+become legend.
+
+125
+00:14:22,555 --> 00:14:25,353
+Would you have that era
+come to an end on your watch?
+
+126
+00:14:25,892 --> 00:14:28,554
+The most notorious pirates
+from around the world
+
+127
+00:14:28,628 --> 00:14:30,619
+are uniting against our enemy,
+
+128
+00:14:30,697 --> 00:14:33,791
+and yet you sit here
+cowering in your bathwater!
+
+129
+00:14:39,238 --> 00:14:41,138
+Elizabeth Swann.
+
+130
+00:14:41,674 --> 00:14:45,371
+There is more to you
+than meets the eye, isn't there?
+
+131
+00:14:46,145 --> 00:14:50,104
+And the eye does not go wanting.
+
+132
+00:14:51,651 --> 00:14:57,021
+But I cannot help but notice
+you have failed to answer my question.
+
+133
+00:14:58,358 --> 00:15:01,759
+What is it you seek
+in Davy Jones' Locker?
+
+134
+00:15:01,828 --> 00:15:03,022
+Jack Sparrow.
+
+135
+00:15:06,065 --> 00:15:08,124
+He's one of the pirate lords.
+
+136
+00:15:14,007 --> 00:15:15,497
+The only reason...
+
+137
+00:15:16,509 --> 00:15:20,536
+...I would want Jack Sparrow returned
+from the land of the dead...
+
+138
+00:15:21,247 --> 00:15:24,580
+...is so I can send him back myself!
+
+139
+00:15:29,055 --> 00:15:33,287
+Jack Sparrow holds
+one of the nine pieces of eight.
+
+140
+00:15:33,359 --> 00:15:36,817
+He failed to pass it along
+to a successor before he died.
+
+141
+00:15:36,896 --> 00:15:39,524
+So we must go and get him back.
+
+142
+00:15:44,737 --> 00:15:48,070
+So you admit...
+
+143
+00:15:48,408 --> 00:15:50,672
+...you have deceived me.
+
+144
+00:15:50,743 --> 00:15:52,142
+Weapons!
+
+145
+00:15:55,348 --> 00:15:56,542
+Weapons.
+
+146
+00:15:57,216 --> 00:16:01,209
+Sao Feng, I assure you,
+our intentions are strictly honorable.
+
+147
+00:16:08,327 --> 00:16:11,228
+Drop your weapons or I kill the man!
+
+148
+00:16:13,666 --> 00:16:15,463
+Kill him. He's not our man.
+
+149
+00:16:17,537 --> 00:16:20,438
+If he's not with you,
+and he's not with us...
+
+150
+00:16:21,107 --> 00:16:23,007
+...who's he with?
+
+151
+00:16:23,076 --> 00:16:25,476
+Charge!
+
+152
+00:16:46,332 --> 00:16:47,321
+Will!
+
+153
+00:17:01,714 --> 00:17:04,239
+Look out! Look behind you!
+
+154
+00:17:07,220 --> 00:17:08,482
+Ready!
+
+155
+00:17:10,056 --> 00:17:11,045
+Fire.
+
+156
+00:17:20,867 --> 00:17:21,856
+Chart!
+
+157
+00:17:47,527 --> 00:17:48,551
+Boo!
+
+158
+00:17:52,899 --> 00:17:57,529
+Company! Make ready. Set. Fire!
+
+159
+00:18:04,510 --> 00:18:05,499
+Company!
+
+160
+00:18:05,578 --> 00:18:07,671
+Make ready. Set.
+
+161
+00:18:10,616 --> 00:18:12,811
+Fire!
+
+162
+00:18:28,634 --> 00:18:31,068
+It's an odd coincidence, isn't it?
+
+163
+00:18:31,137 --> 00:18:36,074
+The East India Trading Company finds me
+the day you show up in Singapore.
+
+164
+00:18:36,142 --> 00:18:37,575
+It is coincidence only.
+
+165
+00:18:41,314 --> 00:18:45,182
+If you want to make a deal with Beckett,
+you need what I offer.
+
+166
+00:18:46,419 --> 00:18:50,913
+You cross Barbossa.
+You are willing to cross Jack Sparrow.
+
+167
+00:18:51,357 --> 00:18:54,019
+Why should I expect any better?
+
+168
+00:18:54,093 --> 00:18:56,960
+I need the Black Pearl
+to free my father.
+
+169
+00:19:00,233 --> 00:19:01,860
+You're helping me to get it.
+
+170
+00:19:11,010 --> 00:19:12,443
+Uh-oh.
+
+171
+00:19:17,783 --> 00:19:19,250
+Fire in the hole.
+
+172
+00:19:37,436 --> 00:19:38,630
+Thank you, Jack.
+
+173
+00:19:38,704 --> 00:19:40,797
+Thank you, Jack.
+
+174
+00:19:43,042 --> 00:19:45,840
+- You have the charts?
+- And better yet.
+
+175
+00:19:46,479 --> 00:19:49,243
+- A ship and a crew.
+- Where's Sao Feng?
+
+176
+00:19:49,315 --> 00:19:52,148
+He'll cover our escape
+and meet us at Shipwreck Cove.
+
+177
+00:19:52,218 --> 00:19:54,049
+This way. Be quick.
+
+178
+00:20:00,393 --> 00:20:03,089
+Haul the snotters with a will!
+
+179
+00:20:03,162 --> 00:20:04,857
+Keep it taut.
+
+180
+00:20:05,931 --> 00:20:08,923
+Secure provisions
+and stow the cargo.
+
+181
+00:20:09,001 --> 00:20:11,834
+There's no place left
+for Sao Feng to cower.
+
+182
+00:20:12,438 --> 00:20:14,804
+Do you think he will honor the call?
+
+183
+00:20:15,374 --> 00:20:17,342
+I cannot say.
+
+184
+00:20:18,210 --> 00:20:20,474
+There's an evil on these seas
+
+185
+00:20:20,546 --> 00:20:25,882
+that even the most staunch and
+bloodthirsty pirates have come to fear.
+
+186
+00:21:32,985 --> 00:21:34,452
+A piece of eight.
+
+187
+00:21:35,187 --> 00:21:36,916
+Nine of them, you say.
+
+188
+00:21:36,989 --> 00:21:40,083
+Our new friend in Singapore
+was very specific, sir.
+
+189
+00:21:40,159 --> 00:21:41,751
+Nine pieces of eight.
+
+190
+00:21:41,827 --> 00:21:44,387
+What's the significance of that,
+I wonder.
+
+191
+00:21:44,463 --> 00:21:46,795
+Nothing can hold against the armada.
+
+192
+00:21:46,866 --> 00:21:49,096
+Not with the Flying Dutchman
+at the lead.
+
+193
+00:21:49,168 --> 00:21:50,692
+Nothing we know of.
+
+194
+00:21:52,071 --> 00:21:55,404
+Did your friend mention
+where the Brethren Court are meeting?
+
+195
+00:21:55,474 --> 00:21:58,204
+He was mum on that, sir.
+
+196
+00:21:58,277 --> 00:21:59,744
+Hmm.
+
+197
+00:21:59,812 --> 00:22:02,246
+Then he knows the value of information.
+
+198
+00:22:02,314 --> 00:22:05,112
+Better keep this between ourselves.
+
+199
+00:22:05,184 --> 00:22:08,483
+We don't want anyone
+running off to Singapore, do we?
+
+200
+00:22:10,356 --> 00:22:15,089
+- Ah, admiral.
+- You summoned me, Lord Beckett.
+
+201
+00:22:15,161 --> 00:22:17,891
+Yes. Something for you there.
+
+202
+00:22:17,963 --> 00:22:21,330
+Your new station deserves an old friend.
+
+203
+00:22:35,114 --> 00:22:38,447
+- Not more requisition orders.
+- No, sir.
+
+204
+00:22:38,517 --> 00:22:40,075
+Execution.
+
+205
+00:22:45,958 --> 00:22:48,153
+The Brethren know they face extinction.
+
+206
+00:22:49,161 --> 00:22:53,530
+All that remains is for them to decide
+where they make their final stand.
+
+207
+00:23:18,324 --> 00:23:21,521
+No one said anything about cold.
+
+208
+00:23:21,594 --> 00:23:25,360
+I'm sure there must be
+a good reason for our suffering.
+
+209
+00:23:26,365 --> 00:23:29,300
+Why don't that obeah woman
+bring Jack back the same way
+
+210
+00:23:29,368 --> 00:23:33,896
+- she brought back Barbossa?
+- Because Barbossa was only dead.
+
+211
+00:23:35,207 --> 00:23:39,473
+Jack Sparrow is taken, body and soul,
+
+212
+00:23:39,545 --> 00:23:44,710
+to a place not of death, but punishment.
+
+213
+00:23:44,783 --> 00:23:48,617
+The worst fate a person
+can bring upon himself...
+
+214
+00:23:49,054 --> 00:23:51,284
+...stretching on forever.
+
+215
+00:23:51,724 --> 00:23:55,216
+That's what awaits
+at Davy Jones' Locker.
+
+216
+00:23:59,398 --> 00:24:02,765
+Yeah. I knew there was a good reason.
+
+217
+00:24:13,746 --> 00:24:16,010
+Nothing here is set.
+
+218
+00:24:17,216 --> 00:24:19,377
+These can't be
+as accurate as modern charts.
+
+219
+00:24:19,451 --> 00:24:24,115
+No. But it leads to more places.
+
+220
+00:24:30,195 --> 00:24:31,719
+"Over the edge.
+
+221
+00:24:31,797 --> 00:24:34,231
+Over again."
+
+222
+00:24:36,068 --> 00:24:38,764
+"Sunrise sets.
+
+223
+00:24:38,837 --> 00:24:41,829
+Flash of green."
+
+224
+00:24:42,708 --> 00:24:46,701
+Do you care to interpret,
+Captain Barbossa?
+
+225
+00:24:47,513 --> 00:24:52,382
+Ever gazed upon the green flash,
+Master Gibbs?
+
+226
+00:24:52,451 --> 00:24:57,013
+I reckon I seen my fair share.
+Happens on rare occasion.
+
+227
+00:24:57,089 --> 00:25:00,889
+The last glimpse of sunset,
+a green flash shoots up into the sky.
+
+228
+00:25:01,293 --> 00:25:04,285
+Some go their whole lives
+without ever seeing it.
+
+229
+00:25:04,363 --> 00:25:07,196
+Some claim to have seen it who ain't.
+And some say...
+
+230
+00:25:07,266 --> 00:25:11,430
+It signals when a soul
+comes back to this world from the dead.
+
+231
+00:25:16,008 --> 00:25:19,603
+- Sorry.
+- Trust me, young Master Turner.
+
+232
+00:25:19,678 --> 00:25:23,011
+It's not getting to the land
+of the dead that's the problem.
+
+233
+00:25:25,250 --> 00:25:27,013
+It's getting back.
+
+234
+00:26:07,559 --> 00:26:07,660
+Bosun!
+Head to wind! Lift the sail!
+
+235
+00:26:07,660 --> 00:26:12,256
+Bosun!
+Head to wind! Lift the sail!
+
+236
+00:26:12,331 --> 00:26:13,559
+Aye, aye, sir!
+
+237
+00:26:15,734 --> 00:26:18,828
+Bloody hell. There's nothing left.
+
+238
+00:26:18,904 --> 00:26:22,271
+Jones is a loose cannon, sir.
+
+239
+00:26:22,741 --> 00:26:24,709
+Fetch the chest.
+
+240
+00:26:25,411 --> 00:26:27,572
+And the governor?
+
+241
+00:26:28,347 --> 00:26:32,113
+He's been asking questions
+about the heart.
+
+242
+00:26:32,685 --> 00:26:34,516
+Does he know?
+
+243
+00:26:38,090 --> 00:26:41,753
+Then perhaps his usefulness
+has run its course.
+
+244
+00:27:41,987 --> 00:27:44,012
+Step lively, men.
+
+245
+00:27:44,456 --> 00:27:46,014
+Step lively!
+
+246
+00:27:48,093 --> 00:27:49,287
+Stand fast!
+
+247
+00:27:56,001 --> 00:27:57,696
+Steady, men.
+
+248
+00:28:03,475 --> 00:28:09,345
+Go. All of you.
+And take that infernal thing with you.
+
+249
+00:28:09,414 --> 00:28:12,383
+I will not have it on my ship!
+
+250
+00:28:12,451 --> 00:28:15,978
+Oh, I'm sorry to hear that...
+because I will.
+
+251
+00:28:16,054 --> 00:28:18,955
+Because it seems to be
+the only way to ensure
+
+252
+00:28:19,024 --> 00:28:22,425
+that this ship do as directed
+by the company.
+
+253
+00:28:27,633 --> 00:28:30,067
+We need prisoners to interrogate,
+
+254
+00:28:30,135 --> 00:28:33,332
+which tends to work best
+when they're alive.
+
+255
+00:28:33,405 --> 00:28:37,307
+The Dutchman sails
+as its captain commands.
+
+256
+00:28:37,376 --> 00:28:41,278
+And its captain
+is to sail it as commanded.
+
+257
+00:28:43,882 --> 00:28:47,978
+I would have thought you'd learned that
+when I ordered you to kill your pet.
+
+258
+00:28:48,954 --> 00:28:52,651
+This is no longer your world, Jones.
+
+259
+00:28:53,492 --> 00:28:56,859
+The immaterial has become...
+
+260
+00:28:57,996 --> 00:28:59,725
+...immaterial.
+
+261
+00:29:00,833 --> 00:29:02,926
+Charge your bayonets.
+
+262
+00:29:41,907 --> 00:29:44,307
+How long do we continue not talking?
+
+263
+00:29:48,313 --> 00:29:50,838
+Once we rescue Jack,
+everything'll be fine.
+
+264
+00:29:53,952 --> 00:29:55,385
+Then we rescue Jack.
+
+265
+00:30:20,679 --> 00:30:23,876
+For what we want most...
+
+266
+00:30:25,884 --> 00:30:29,183
+...there is a cost
+must be paid in the end.
+
+267
+00:30:40,465 --> 00:30:45,402
+- Barbossa, ahead!
+- Aye, we're good and lost now.
+
+268
+00:30:46,305 --> 00:30:48,933
+- Lost?
+- For certain you have to be lost
+
+269
+00:30:49,007 --> 00:30:50,998
+to find a place as can't be found.
+
+270
+00:30:51,076 --> 00:30:53,442
+Elseways, everyone
+would know where it was.
+
+271
+00:30:53,712 --> 00:30:56,180
+- We're gaining speed.
+- Aye.
+
+272
+00:30:57,182 --> 00:30:58,774
+To stations!
+
+273
+00:30:59,885 --> 00:31:01,284
+All hands to stations!
+
+274
+00:31:01,353 --> 00:31:04,117
+Huh?
+
+275
+00:31:04,189 --> 00:31:07,090
+Rudder full. Hard aport! Gather way.
+
+276
+00:31:07,159 --> 00:31:11,994
+Nay! Belay that!
+Let her run straight and true!
+
+277
+00:31:13,899 --> 00:31:15,127
+Blimey.
+
+278
+00:31:29,147 --> 00:31:32,514
+- You've doomed us all.
+- Don't be so unkind.
+
+279
+00:31:32,584 --> 00:31:35,246
+You may not survive
+to pass this way again,
+
+280
+00:31:35,320 --> 00:31:39,154
+and these be the last
+friendly words you'll hear.
+
+281
+00:31:43,929 --> 00:31:45,157
+Tie her off.
+
+282
+00:31:50,836 --> 00:31:52,531
+Hard aport.
+
+283
+00:32:01,279 --> 00:32:03,304
+Hold on!
+
+284
+00:32:35,247 --> 00:32:39,877
+Strike your colors,
+you blooming cockroaches.
+
+285
+00:32:39,951 --> 00:32:45,480
+Dead men tell no tales.
+
+286
+00:33:33,672 --> 00:33:35,105
+My peanut.
+
+287
+00:33:36,708 --> 00:33:38,767
+Haul the halyard. Slacken braces.
+
+288
+00:33:38,844 --> 00:33:41,142
+Aye, captain.
+Slacken braces.
+
+289
+00:33:41,213 --> 00:33:43,340
+Step lively with a will.
+
+290
+00:33:43,415 --> 00:33:45,007
+- Aye, aye.
+- Right away, sir.
+
+291
+00:33:45,083 --> 00:33:46,778
+I want a fire down below!
+
+292
+00:33:49,888 --> 00:33:53,619
+- Help.
+- Man the yards, you filthy toads.
+
+293
+00:34:04,603 --> 00:34:08,403
+Haul! Haul!
+
+294
+00:34:08,473 --> 00:34:11,340
+Haul the sheets handsomely.
+Scandalize the lateens.
+
+295
+00:34:11,409 --> 00:34:13,206
+- Aye, sir.
+- Right away, sir.
+
+296
+00:34:27,225 --> 00:34:29,193
+- Mr. Sparrow?
+- Aye, cap'n.
+
+297
+00:34:29,961 --> 00:34:32,691
+What say you about
+the condition of this tack line?
+
+298
+00:34:33,398 --> 00:34:36,834
+- It be proper to my eyes, sir.
+- Proper?
+
+299
+00:34:36,902 --> 00:34:40,770
+It is neither proper nor suitable, sir.
+It is not acceptable nor adequate.
+
+300
+00:34:40,839 --> 00:34:43,273
+It is, in obvious fact, an abomination.
+
+301
+00:34:43,341 --> 00:34:46,868
+Begging your pardon, sir,
+but if you gave a man another chance.
+
+302
+00:34:47,279 --> 00:34:49,213
+Shall I?
+
+303
+00:34:53,185 --> 00:34:56,245
+It's that sort of thinking
+got us into this mess.
+
+304
+00:34:58,990 --> 00:35:01,857
+We have lost speed and, therefore, time.
+
+305
+00:35:01,927 --> 00:35:06,159
+Precious time,
+which cannot be recovered once lost.
+
+306
+00:35:06,231 --> 00:35:08,028
+Do you understand?
+
+307
+00:35:08,099 --> 00:35:11,227
+- Aye, aye, captain.
+- Do you now?
+
+308
+00:35:11,770 --> 00:35:14,967
+It will all have to be redone.
+All of it.
+
+309
+00:35:15,040 --> 00:35:17,508
+And let this serve
+as a lesson to the lot of you.
+
+310
+00:35:17,576 --> 00:35:21,068
+Doldrums, sir,
+has the entire crew on edge.
+
+311
+00:35:21,146 --> 00:35:24,115
+I have no sympathy
+for any of you feculent maggots,
+
+312
+00:35:24,182 --> 00:35:27,083
+and no more patience
+to pretend otherwise.
+
+313
+00:35:29,888 --> 00:35:33,881
+Gentlemen, I wash my hands
+of this weirdness.
+
+314
+00:35:44,436 --> 00:35:45,835
+No wind.
+
+315
+00:35:46,338 --> 00:35:48,306
+Of course, there's no bloody wind.
+
+316
+00:35:49,941 --> 00:35:52,409
+My soul I do swear for a breeze.
+
+317
+00:35:52,477 --> 00:35:57,312
+Gust. Whisper. A tiny, miniature lick.
+
+318
+00:36:10,095 --> 00:36:12,586
+Yes, sir, I know, but why?
+Why would he do that?
+
+319
+00:36:12,664 --> 00:36:14,359
+Because he's a lummox, isn't he?
+
+320
+00:36:14,432 --> 00:36:18,129
+We shall have a magnificent
+garden party and you're not invited.
+
+321
+00:36:31,383 --> 00:36:32,816
+Shoo.
+
+322
+00:36:51,836 --> 00:36:53,098
+A rock.
+
+323
+00:37:20,398 --> 00:37:23,959
+Now we're being followed by rocks.
+Never had that before.
+
+324
+00:37:24,269 --> 00:37:25,258
+Oh.
+
+325
+00:37:26,738 --> 00:37:28,296
+A rope.
+
+326
+00:39:49,013 --> 00:39:52,107
+This truly is a godforsaken place.
+
+327
+00:39:52,884 --> 00:39:55,944
+I don't see Jack.
+I don't see anyone.
+
+328
+00:39:57,288 --> 00:39:58,915
+He's here.
+
+329
+00:39:58,990 --> 00:40:02,289
+Davy Jones never once
+gave up that what he took.
+
+330
+00:40:02,360 --> 00:40:03,793
+And does it matter?
+
+331
+00:40:03,862 --> 00:40:06,922
+We're trapped here by your doing.
+No different than Jack.
+
+332
+00:40:10,101 --> 00:40:15,266
+Witty Jack is closer than you think.
+
+333
+00:40:55,880 --> 00:40:57,438
+Impossible.
+
+334
+00:41:03,087 --> 00:41:04,076
+Boat.
+
+335
+00:41:10,461 --> 00:41:14,363
+Slap me thrice
+and hand me to me mama. It's Jack.
+
+336
+00:41:23,508 --> 00:41:26,204
+- It's the captain!
+- A sight for sore eyes.
+
+337
+00:41:26,277 --> 00:41:27,369
+Hide the rum.
+
+338
+00:41:27,445 --> 00:41:29,379
+- Mr. Gibbs.
+- Aye, cap'n.
+
+339
+00:41:29,447 --> 00:41:30,812
+I thought so.
+
+340
+00:41:30,882 --> 00:41:33,851
+I expect you're able
+to account for your actions, then.
+
+341
+00:41:33,918 --> 00:41:34,907
+Sir?
+
+342
+00:41:34,986 --> 00:41:39,013
+There's been a perpetual and virulent
+lack of discipline upon my vessel. Why?
+
+343
+00:41:39,090 --> 00:41:41,422
+- Why is that, sir?
+- Sir, you're...
+
+344
+00:41:42,260 --> 00:41:45,058
+You're in Davy Jones' Locker, cap'n.
+
+345
+00:41:48,766 --> 00:41:52,065
+I know that.
+I know where I am.
+
+346
+00:41:52,136 --> 00:41:56,368
+- And don't think I don't.
+- Jack Sparrow.
+
+347
+00:41:57,075 --> 00:41:58,940
+Oh, Hector.
+
+348
+00:41:59,010 --> 00:42:00,944
+It's been too long. Has'nt it?
+
+349
+00:42:01,012 --> 00:42:05,813
+Aye. Isla de Muerta, remember?
+You shot me.
+
+350
+00:42:07,218 --> 00:42:09,083
+No, I didn't.
+
+351
+00:42:09,153 --> 00:42:11,246
+Tia Dalma, out and about, eh?
+
+352
+00:42:11,322 --> 00:42:15,224
+You add an agreeable sense
+of the macabre to any delirium.
+
+353
+00:42:16,561 --> 00:42:18,461
+He thinks we're a hallucination.
+
+354
+00:42:19,364 --> 00:42:21,025
+William, tell me something:
+
+355
+00:42:21,099 --> 00:42:25,126
+Have you come because you need my help
+to save a certain distressing damsel,
+
+356
+00:42:25,203 --> 00:42:28,764
+or rather, damsel in distress?
+Either one.
+
+357
+00:42:29,307 --> 00:42:30,296
+No.
+
+358
+00:42:30,375 --> 00:42:32,809
+Well, then,
+you wouldn't be here, would you?
+
+359
+00:42:32,877 --> 00:42:36,870
+So you can't be here.
+Q.E.D., you're not really here.
+
+360
+00:42:36,948 --> 00:42:38,313
+Jack.
+
+361
+00:42:40,485 --> 00:42:42,419
+This is real. We're here.
+
+362
+00:42:53,398 --> 00:42:56,060
+- The Locker, you say?
+- Aye.
+
+363
+00:42:56,501 --> 00:42:58,799
+We've come to rescue you.
+
+364
+00:43:00,405 --> 00:43:03,932
+Have you, now?
+That's very kind of you.
+
+365
+00:43:04,008 --> 00:43:07,341
+But it would seem that
+as I possess a ship and you don't,
+
+366
+00:43:07,478 --> 00:43:11,574
+you're the ones in need of rescuing,
+and I'm not sure as I'm in the mood.
+
+367
+00:43:12,417 --> 00:43:15,944
+I see my ship. Right there.
+
+368
+00:43:19,457 --> 00:43:20,981
+Can't spot it.
+
+369
+00:43:21,059 --> 00:43:24,392
+Must be a tiny little thing
+hiding somewhere behind the Pearl.
+
+370
+00:43:24,462 --> 00:43:27,260
+Jack, Cutler Beckett
+has the heart of Davy Jones.
+
+371
+00:43:27,331 --> 00:43:30,698
+- He controls the Flying Dutchman.
+- He's taking over the seas.
+
+372
+00:43:30,768 --> 00:43:33,635
+The song has been sung.
+The Brethren Court is called.
+
+373
+00:43:33,705 --> 00:43:37,505
+Leave you alone for a minute, look
+what happens. Everything's gone to pot.
+
+374
+00:43:37,575 --> 00:43:40,237
+Aye. The world
+needs you back something fierce.
+
+375
+00:43:40,311 --> 00:43:42,108
+And you need a crew.
+
+376
+00:43:44,215 --> 00:43:46,410
+Why should I sail with any of you?
+
+377
+00:43:46,484 --> 00:43:49,976
+Four of you have tried to kill me
+in the past. One of you succeeded.
+
+378
+00:43:53,725 --> 00:43:57,161
+Oh, she's not told you.
+
+379
+00:43:57,228 --> 00:44:00,061
+You'll have loads to talk about
+while you're here.
+
+380
+00:44:01,432 --> 00:44:02,899
+As for you...
+
+381
+00:44:04,135 --> 00:44:10,005
+Now... don't tell me
+you didn't enjoy it at the time.
+
+382
+00:44:10,975 --> 00:44:13,034
+Fair enough. All right, you're in.
+
+383
+00:44:13,111 --> 00:44:15,045
+Don't need you. You scare me.
+
+384
+00:44:15,113 --> 00:44:18,981
+Gibbs, you can come. Marty. Mm...
+
+385
+00:44:19,050 --> 00:44:20,711
+Cotton.
+
+386
+00:44:20,785 --> 00:44:25,313
+Cottors parrot, I'm a little iffy, but
+at least I'll have someone to talk to.
+
+387
+00:44:26,491 --> 00:44:27,788
+Who are you?
+
+388
+00:44:27,859 --> 00:44:30,157
+Tai Huang. These are my men.
+
+389
+00:44:30,828 --> 00:44:34,662
+- Where do your allegiances lie?
+- With the highest bidder.
+
+390
+00:44:35,099 --> 00:44:38,762
+- I have a ship.
+- That makes you the highest bidder.
+
+391
+00:44:38,836 --> 00:44:42,863
+Good man. Weigh anchor, all hands.
+Prepare to make sail.
+
+392
+00:44:42,940 --> 00:44:44,134
+Weigh anchor.
+
+393
+00:44:47,712 --> 00:44:49,304
+Jack...
+
+394
+00:44:50,648 --> 00:44:54,243
+Which way are you going, Jack?
+
+395
+00:44:56,387 --> 00:44:59,686
+Trim that sail.
+Slack windward brace and sheet.
+
+396
+00:44:59,757 --> 00:45:02,317
+- Haul the pennant line.
+- Haul the pennant line.
+
+397
+00:45:02,393 --> 00:45:03,826
+What are you doing?
+
+398
+00:45:03,895 --> 00:45:06,489
+- What are you doing?
+- No, what are you doing?
+
+399
+00:45:06,564 --> 00:45:09,328
+- What are you doing?
+- No, what are you doing?
+
+400
+00:45:09,400 --> 00:45:11,891
+What are you?
+Captain gives orders on the ship.
+
+401
+00:45:11,969 --> 00:45:14,130
+The captain of the ship
+is giving orders.
+
+402
+00:45:14,705 --> 00:45:17,697
+- My ship, makes me captain.
+- They be my charts.
+
+403
+00:45:17,775 --> 00:45:20,266
+That makes you "chartman."
+
+404
+00:45:20,344 --> 00:45:25,247
+Stow it! The both of you!
+That's an order! Understand?!
+
+405
+00:45:31,088 --> 00:45:34,285
+Sorry. I just thought
+with the captain issue in doubt,
+
+406
+00:45:34,358 --> 00:45:37,293
+I'd throw in my name for consideration.
+
+407
+00:45:37,361 --> 00:45:38,623
+Sorry.
+
+408
+00:45:43,367 --> 00:45:45,665
+- I'd vote for you.
+- Yeah?
+
+409
+00:46:21,072 --> 00:46:22,937
+You left Jack to the Kraken.
+
+410
+00:46:24,008 --> 00:46:26,135
+He's rescued now. It's done with.
+
+411
+00:46:29,313 --> 00:46:31,281
+Will, I had no choice.
+
+412
+00:46:32,516 --> 00:46:34,381
+You chose not to tell me.
+
+413
+00:46:35,319 --> 00:46:37,048
+I couldn't.
+
+414
+00:46:38,389 --> 00:46:39,981
+It wasn't your burden to bear.
+
+415
+00:46:40,992 --> 00:46:42,857
+But I did bear it, didn't I?
+
+416
+00:46:44,562 --> 00:46:46,427
+I just didn't know what it was.
+
+417
+00:46:47,231 --> 00:46:48,858
+I thought...
+
+418
+00:46:50,034 --> 00:46:52,025
+You thought I loved him.
+
+419
+00:47:00,544 --> 00:47:04,378
+If you make your choices alone,
+how can I trust you?
+
+420
+00:47:07,385 --> 00:47:08,682
+You can't.
+
+421
+00:47:37,248 --> 00:47:38,408
+Eerie.
+
+422
+00:47:40,184 --> 00:47:42,345
+That's downright macabre.
+
+423
+00:47:47,892 --> 00:47:51,555
+I wonder what would happen if you
+dropped a cannonball on one of them?
+
+424
+00:48:01,472 --> 00:48:03,667
+Be disrespectful, it would.
+
+425
+00:48:03,741 --> 00:48:07,507
+They should be
+in the care of Davy Jones.
+
+426
+00:48:09,146 --> 00:48:12,309
+That was the duty
+him was charged with...
+
+427
+00:48:12,616 --> 00:48:15,312
+...by the goddess, Calypso.
+
+428
+00:48:17,188 --> 00:48:20,988
+To ferry those who die at sea
+to the other side.
+
+429
+00:48:24,295 --> 00:48:26,263
+And every ten years...
+
+430
+00:48:27,064 --> 00:48:29,191
+...him could come ashore...
+
+431
+00:48:30,234 --> 00:48:34,534
+...to be with she
+who love him... truly.
+
+432
+00:48:38,876 --> 00:48:41,470
+But the man has become a monster.
+
+433
+00:48:42,079 --> 00:48:46,106
+So he wasn't always... tentacley?
+
+434
+00:48:48,219 --> 00:48:49,379
+No.
+
+435
+00:48:51,589 --> 00:48:53,989
+Him was a man...
+
+436
+00:48:54,058 --> 00:48:56,049
+...once.
+
+437
+00:49:03,367 --> 00:49:05,392
+Now there's boats coming.
+
+438
+00:49:13,077 --> 00:49:15,841
+They're not a threat to us. Am I right?
+
+439
+00:49:16,447 --> 00:49:19,041
+We are nothing but ghosts to them.
+
+440
+00:49:19,116 --> 00:49:21,380
+It's best just let them be.
+
+441
+00:49:35,866 --> 00:49:38,334
+It's my father. We've made it back.
+
+442
+00:49:38,402 --> 00:49:40,962
+Father! Father, here, look here!
+
+443
+00:49:42,773 --> 00:49:43,865
+Elizabeth.
+
+444
+00:49:45,810 --> 00:49:47,334
+We're not back.
+
+445
+00:49:54,452 --> 00:49:55,476
+Father!
+
+446
+00:49:58,756 --> 00:50:02,248
+Elizabeth. Are you dead?
+
+447
+00:50:03,494 --> 00:50:04,825
+No. No.
+
+448
+00:50:05,830 --> 00:50:07,525
+I think I am.
+
+449
+00:50:07,598 --> 00:50:09,589
+No, you can't be.
+
+450
+00:50:10,734 --> 00:50:13,601
+There was this chest, you see.
+
+451
+00:50:14,371 --> 00:50:18,034
+It's odd.
+At the time it seemed so important.
+
+452
+00:50:18,709 --> 00:50:19,937
+Come aboard.
+
+453
+00:50:20,010 --> 00:50:21,773
+And a heart.
+
+454
+00:50:21,846 --> 00:50:27,113
+I learned that if you stab the heart,
+yours must take its place.
+
+455
+00:50:27,184 --> 00:50:30,711
+And you will sail the seas for eternity.
+
+456
+00:50:30,788 --> 00:50:33,780
+The Dutchman must have a captain.
+
+457
+00:50:34,859 --> 00:50:36,850
+Silly thing to die for.
+
+458
+00:50:37,228 --> 00:50:40,459
+Someone, cast a line.
+Come back with us!
+
+459
+00:50:42,299 --> 00:50:43,391
+Come on.
+
+460
+00:50:44,468 --> 00:50:48,700
+A touch... of destiny.
+
+461
+00:50:51,575 --> 00:50:52,872
+Take the line.
+
+462
+00:50:55,379 --> 00:50:57,574
+I'm so proud of you, Elizabeth.
+
+463
+00:50:57,648 --> 00:50:59,377
+Father, the line! Take the line!
+
+464
+00:51:03,187 --> 00:51:05,519
+- She must not leave the ship!
+- Father!
+
+465
+00:51:05,589 --> 00:51:09,855
+Please come with us!
+Please! No! I won't leave you!
+
+466
+00:51:10,494 --> 00:51:12,485
+I'll give your love to your mother.
+
+467
+00:51:12,563 --> 00:51:15,430
+- Please, I won't let you go!
+- Elizabeth.
+
+468
+00:51:15,499 --> 00:51:17,558
+Elizabeth.
+
+469
+00:51:23,674 --> 00:51:24,936
+Is there a way?
+
+470
+00:51:29,747 --> 00:51:31,442
+Him at peace.
+
+471
+00:51:38,856 --> 00:51:40,414
+No water.
+
+472
+00:51:41,559 --> 00:51:43,652
+Why is all but the rum gone?
+
+473
+00:51:45,296 --> 00:51:46,729
+Rum's gone too.
+
+474
+00:51:54,905 --> 00:51:59,535
+If we cannot escape
+these doldrums before night,
+
+475
+00:51:59,610 --> 00:52:03,512
+I fear we will sail on trackless seas.
+
+476
+00:52:03,581 --> 00:52:06,812
+Doomed to roam the reach between worlds.
+
+477
+00:52:07,618 --> 00:52:08,710
+Forever.
+
+478
+00:52:08,786 --> 00:52:12,745
+With no water, forever
+looks to be arriving a mite too soon.
+
+479
+00:52:13,324 --> 00:52:15,053
+Why doesn't he do something?
+
+480
+00:52:15,459 --> 00:52:18,326
+- Me eye. Give it back!
+- There's no sense to it.
+
+481
+00:52:18,395 --> 00:52:22,729
+And the green flash
+happens at sunset, not sunrise.
+
+482
+00:52:23,100 --> 00:52:27,764
+"Over the edge." Ah, it's
+driving me over the blooming edge.
+
+483
+00:52:28,405 --> 00:52:30,373
+Sunrises don't set.
+
+484
+00:52:34,878 --> 00:52:36,778
+"Up is down."
+
+485
+00:52:36,847 --> 00:52:39,338
+Well, that's just maddeningly un-helpful.
+
+486
+00:52:39,416 --> 00:52:41,384
+Why are these things never clear?
+
+487
+00:52:41,452 --> 00:52:44,285
+- Clear as mud, Jackie.
+- What? Eh?
+
+488
+00:52:47,958 --> 00:52:50,449
+- Stab the heart.
+- Don't stab the heart.
+
+489
+00:52:50,527 --> 00:52:53,690
+- Come again?
+- The Dutchman must have a captain.
+
+490
+00:52:53,764 --> 00:52:56,289
+That's even more
+than less than un-helpful.
+
+491
+00:52:56,367 --> 00:52:59,131
+Sail the seas for eternity.
+
+492
+00:52:59,203 --> 00:53:02,138
+- I love the sea.
+- What about port?
+
+493
+00:53:02,206 --> 00:53:04,197
+I prefer rum. Rum's good.
+
+494
+00:53:04,275 --> 00:53:09,269
+Making port. Where we can get rum,
+and salty wenches...
+
+495
+00:53:09,680 --> 00:53:13,275
+- Once every 10 years.
+- What'd he say?
+
+496
+00:53:13,350 --> 00:53:16,808
+- Once every 10 years.
+- Ten years is a long time, mate.
+
+497
+00:53:16,887 --> 00:53:19,219
+Even longer given the deficit of rum.
+
+498
+00:53:19,290 --> 00:53:21,554
+But eternity is longer still.
+
+499
+00:53:22,293 --> 00:53:25,319
+And how will you be spending it? Dead?
+
+500
+00:53:25,996 --> 00:53:27,395
+Or not?
+
+501
+00:53:27,464 --> 00:53:31,332
+- The immortal Captain Sparrow.
+- Oh, I like that.
+
+502
+00:53:31,635 --> 00:53:33,967
+Come sunset, it won't matter.
+
+503
+00:53:36,774 --> 00:53:38,469
+Not sunset.
+
+504
+00:53:41,745 --> 00:53:42,939
+Sundown.
+
+505
+00:53:43,914 --> 00:53:46,439
+And rise. Up.
+
+506
+00:53:47,718 --> 00:53:48,912
+What's that?
+
+507
+00:53:51,722 --> 00:53:54,850
+What is that?
+I don't know. What do you think?
+
+508
+00:53:54,925 --> 00:53:56,620
+- Where?
+- There.
+
+509
+00:54:18,415 --> 00:54:19,746
+What is it?
+
+510
+00:54:31,795 --> 00:54:33,626
+He's rocking the ship.
+
+511
+00:54:33,964 --> 00:54:35,591
+We're rocking the ship.
+
+512
+00:54:39,703 --> 00:54:42,570
+Aye. He's onto it.
+
+513
+00:54:44,875 --> 00:54:46,604
+He's rocking the ship.
+
+514
+00:54:46,677 --> 00:54:49,077
+We'll tie each other
+to the mast upside down,
+
+515
+00:54:49,146 --> 00:54:51,808
+so when the boat flips
+we'll be the right way up.
+
+516
+00:54:52,916 --> 00:54:54,440
+Time it with the swell.
+
+517
+00:54:56,086 --> 00:54:59,783
+Loose the cannons, you lazy bilge rats.
+
+518
+00:55:01,525 --> 00:55:05,154
+Unstow the cargo. Let it shift.
+
+519
+00:56:10,127 --> 00:56:11,492
+Now up...
+
+520
+00:56:13,063 --> 00:56:14,394
+...is down.
+
+521
+00:57:50,394 --> 00:57:52,385
+This was your idea.
+
+522
+00:57:53,964 --> 00:57:56,455
+Blessed sweet westerlies!
+
+523
+00:57:57,601 --> 00:57:58,590
+We're back!
+
+524
+00:58:02,406 --> 00:58:03,703
+It's the sunrise.
+
+525
+00:58:16,853 --> 00:58:18,844
+Parley?
+
+526
+00:58:18,922 --> 00:58:21,390
+We need our pistols!
+Get untied, hurry!
+
+527
+00:58:36,840 --> 00:58:38,239
+All right, then!
+
+528
+00:58:38,308 --> 00:58:41,436
+The Brethren Court
+is a-gathering at Shipwreck Cove.
+
+529
+00:58:41,511 --> 00:58:45,208
+And, Jack, you and I are a-going.
+There'll be no arguing that point.
+
+530
+00:58:45,282 --> 00:58:46,681
+I is arguing the point.
+
+531
+00:58:46,750 --> 00:58:50,379
+If there's pirates a-gathering,
+I'm pointing my ship the other way.
+
+532
+00:58:50,454 --> 00:58:53,890
+The pirates are gathering
+to fight Beckett, and you're a pirate.
+
+533
+00:58:53,957 --> 00:58:56,255
+Fight or not,
+you're not running, Jack.
+
+534
+00:58:56,326 --> 00:58:59,352
+If we don't stand together,
+they'll hunt us down one by one,
+
+535
+00:58:59,429 --> 00:59:01,056
+till there be none left but you.
+
+536
+00:59:01,965 --> 00:59:07,426
+Quite like the sound of that.
+Captain Jack Sparrow, the last pirate.
+
+537
+00:59:07,504 --> 00:59:08,528
+Aye.
+
+538
+00:59:09,039 --> 00:59:13,408
+And you'll be fighting Jones alone.
+How does that figure into your plan?
+
+539
+00:59:13,477 --> 00:59:15,468
+I'm still working on that.
+
+540
+00:59:15,545 --> 00:59:20,039
+But I will not be going back
+to the Locker, mate. Count on that.
+
+541
+00:59:25,722 --> 00:59:27,053
+Wet powder.
+
+542
+00:59:29,793 --> 00:59:33,320
+Wait! We can still use them as clubs!
+
+543
+00:59:35,332 --> 00:59:37,857
+- Ow!
+- Sorry. Effective, though.
+
+544
+00:59:38,969 --> 00:59:40,994
+There's fresh water on this island.
+
+545
+00:59:41,071 --> 00:59:44,700
+We can re-supply there and get back
+to shooting each other later.
+
+546
+00:59:45,008 --> 00:59:47,806
+You lead the shore party.
+I'll stay with my ship.
+
+547
+00:59:48,278 --> 00:59:50,712
+I'll not be leaving
+my ship in your command.
+
+548
+00:59:50,781 --> 00:59:54,410
+Why don't you both go ashore
+and leave the ship in my command.
+
+549
+00:59:55,652 --> 00:59:56,983
+Temporarily.
+
+550
+01:00:14,805 --> 01:00:16,363
+Mind the boat.
+
+551
+01:00:27,417 --> 01:00:30,318
+- Criminy.
+- Odds bodkins!
+
+552
+01:00:49,339 --> 01:00:51,330
+Careful! Careful!
+
+553
+01:00:52,876 --> 01:00:54,776
+You stupid fish!
+
+554
+01:00:54,911 --> 01:00:56,879
+Actually it's a cephalopod.
+
+555
+01:00:57,347 --> 01:00:58,541
+Serves you right.
+
+556
+01:00:58,682 --> 01:01:01,674
+Pin, I bet people
+would pay a shilling to see this.
+
+557
+01:01:01,752 --> 01:01:04,915
+And another shilling
+for a sketch of them sitting atop!
+
+558
+01:01:04,988 --> 01:01:08,014
+Pintel and Ragetti, Kraken slayers.
+
+559
+01:01:08,091 --> 01:01:10,924
+We could serve up
+a slice as a souvenir.
+
+560
+01:01:10,994 --> 01:01:13,588
+Still thinking of running, Jack?
+
+561
+01:01:14,364 --> 01:01:16,855
+Think you can outrun the world?
+
+562
+01:01:22,539 --> 01:01:26,373
+You know, the problem
+with being the last of anything...
+
+563
+01:01:26,443 --> 01:01:29,139
+...by and by, there be none left at all.
+
+564
+01:01:30,547 --> 01:01:35,541
+Sometimes things come back, mate.
+We're living proof, you and me.
+
+565
+01:01:35,619 --> 01:01:38,747
+Aye, but that's a gamble
+of long odds, ain't it?
+
+566
+01:01:39,456 --> 01:01:42,118
+There's never
+a guarantee of coming back.
+
+567
+01:01:42,626 --> 01:01:45,288
+But passing on, that's dead certain.
+
+568
+01:01:48,665 --> 01:01:51,657
+Summoning the Brethren Court,
+then, is it?
+
+569
+01:01:51,735 --> 01:01:53,464
+It's our only hope, lad.
+
+570
+01:01:54,871 --> 01:01:57,863
+That's a sad commentary
+in and of itself.
+
+571
+01:01:59,509 --> 01:02:02,171
+The world used to be a bigger place.
+
+572
+01:02:04,848 --> 01:02:06,748
+The world's still the same.
+
+573
+01:02:08,685 --> 01:02:11,449
+There's just... less in it.
+
+574
+01:02:33,743 --> 01:02:36,075
+Poisoned. Fouled by the body.
+
+575
+01:02:38,882 --> 01:02:42,682
+Eh, I know him. He was in Singapore!
+
+576
+01:02:42,752 --> 01:02:44,743
+- Singapore.
+- Captain!
+
+577
+01:02:47,591 --> 01:02:48,683
+Hoy!
+
+578
+01:02:49,759 --> 01:02:51,556
+We got company!
+
+579
+01:03:03,039 --> 01:03:04,734
+He's the captain.
+
+580
+01:03:15,185 --> 01:03:16,482
+Sao Feng...
+
+581
+01:03:16,553 --> 01:03:21,047
+...you showing up here,
+it is truly a remarkable coincidence.
+
+582
+01:03:23,860 --> 01:03:25,487
+Jack Sparrow.
+
+583
+01:03:27,464 --> 01:03:29,557
+You paid me great insult once.
+
+584
+01:03:29,633 --> 01:03:31,123
+That doesn't sound like me.
+
+585
+01:03:36,039 --> 01:03:38,200
+Shall we just call it square, then?
+
+586
+01:03:38,742 --> 01:03:39,902
+Release her.
+
+587
+01:03:40,710 --> 01:03:44,544
+- She's not part of the bargain.
+- And what bargain be that?
+
+588
+01:03:45,415 --> 01:03:47,406
+You heard Captain Turner.
+
+589
+01:03:48,952 --> 01:03:51,546
+- Release her!
+- "Captain Turner"?
+
+590
+01:03:51,621 --> 01:03:54,385
+Aye, the perfidious rotter
+led a mutiny against us!
+
+591
+01:03:54,457 --> 01:03:57,017
+I need the Pearl to free my father.
+
+592
+01:03:57,093 --> 01:03:59,584
+That's the only reason
+I came on this voyage.
+
+593
+01:04:00,130 --> 01:04:02,963
+Why didn't you tell me
+you were planning this?
+
+594
+01:04:03,033 --> 01:04:05,228
+It was my burden to bear.
+
+595
+01:04:07,470 --> 01:04:11,770
+He needs the Pearl.
+Captain Turner needs the Pearl.
+
+596
+01:04:11,841 --> 01:04:15,902
+And you felt guilty.
+And you and your Brethren Court.
+
+597
+01:04:16,947 --> 01:04:19,882
+Did no one come to save me
+just because they missed me?
+
+598
+01:04:29,092 --> 01:04:30,559
+I'm standing with them.
+
+599
+01:04:32,729 --> 01:04:38,395
+I'm sorry, Jack, but there is an
+old friend who wants to see you first.
+
+600
+01:04:38,468 --> 01:04:42,097
+I'm not certain I can survive
+any more visits from old friends.
+
+601
+01:04:44,507 --> 01:04:46,737
+Here is your chance to find out.
+
+602
+01:04:56,152 --> 01:04:57,813
+Curious.
+
+603
+01:04:57,887 --> 01:05:01,050
+Your friends appear
+to be quite desperate, Jack.
+
+604
+01:05:01,124 --> 01:05:05,652
+Perhaps they no longer believe that
+a gathering of squabbling pirates
+
+605
+01:05:05,729 --> 01:05:07,697
+can defeat the Flying Dutchman.
+
+606
+01:05:08,431 --> 01:05:11,867
+And so despair leads to betrayal.
+
+607
+01:05:12,268 --> 01:05:16,261
+But you and I are no strangers
+to betrayal, are we?
+
+608
+01:05:19,042 --> 01:05:20,532
+It's not here, Jack.
+
+609
+01:05:21,945 --> 01:05:23,344
+What? What isn't?
+
+610
+01:05:23,413 --> 01:05:27,907
+The heart of Davy Jones.
+It's safely aboard the Dutchman,
+
+611
+01:05:27,984 --> 01:05:31,010
+and so unavailable for use as leverage
+
+612
+01:05:31,087 --> 01:05:33,749
+to satisfy your debt
+to the good captain.
+
+613
+01:05:33,823 --> 01:05:37,088
+By my reckoning,
+that account has been settled.
+
+614
+01:05:37,227 --> 01:05:39,286
+By your death?
+
+615
+01:05:39,362 --> 01:05:41,421
+And yet here you are.
+
+616
+01:05:41,965 --> 01:05:44,593
+Close your eyes
+and pretend it's all a bad dream.
+
+617
+01:05:44,667 --> 01:05:46,100
+That's how I get by.
+
+618
+01:05:47,003 --> 01:05:50,632
+And if Davy Jones
+were to learn of your survival?
+
+619
+01:05:51,241 --> 01:05:52,708
+Ship oars.
+
+620
+01:05:52,776 --> 01:05:54,334
+Ship oars.
+
+621
+01:05:54,644 --> 01:05:56,236
+Be on your guard, men.
+
+622
+01:05:58,882 --> 01:06:00,747
+My men are crew enough.
+
+623
+01:06:00,817 --> 01:06:02,978
+Company ship, company crew.
+
+624
+01:06:04,054 --> 01:06:06,955
+You agreed.
+The Black Pearl was to be mine.
+
+625
+01:06:07,857 --> 01:06:09,256
+And so it was.
+
+626
+01:06:12,328 --> 01:06:15,388
+Perhaps you'll consider
+an alternative arrangement.
+
+627
+01:06:15,465 --> 01:06:20,698
+One which requires absolutely
+nothing from you but information.
+
+628
+01:06:27,143 --> 01:06:31,842
+Regarding the Brethren Court, no doubt.
+In exchange for fair compensation?
+
+629
+01:06:32,916 --> 01:06:34,975
+Square my debt with Jones...
+
+630
+01:06:36,019 --> 01:06:37,884
+...guarantee my freedom?
+
+631
+01:06:37,954 --> 01:06:39,581
+Of course.
+
+632
+01:06:39,656 --> 01:06:41,590
+It's just good business.
+
+633
+01:06:42,659 --> 01:06:47,460
+Were I in a divulgatory mood,
+what then might I divulge?
+
+634
+01:06:47,530 --> 01:06:49,725
+Everything.
+
+635
+01:06:50,200 --> 01:06:51,497
+Where are they meeting?
+
+636
+01:06:52,302 --> 01:06:54,293
+Who are the pirate lords?
+
+637
+01:06:55,271 --> 01:06:58,468
+What is the purpose
+of the nine pieces of eight?
+
+638
+01:06:59,109 --> 01:07:02,237
+Prepare the brig.
+
+639
+01:07:04,914 --> 01:07:09,817
+Beckett agreed the Black Pearl
+was to be mine.
+
+640
+01:07:09,886 --> 01:07:13,549
+He's not going to give up the only ship
+as can outrun the Dutchman, is he?
+
+641
+01:07:20,697 --> 01:07:25,066
+Shame they're not bound to honor
+the code of the Brethren, isn't it?
+
+642
+01:07:25,135 --> 01:07:28,366
+Because honor's
+a hard thing to come by nowadays.
+
+643
+01:07:29,038 --> 01:07:32,235
+There is no honor
+to remaining with the losing side.
+
+644
+01:07:32,308 --> 01:07:36,836
+Leaving it for the winning side,
+that's just good business.
+
+645
+01:07:36,913 --> 01:07:40,781
+- The losing side, you say?
+- They have the Dutchman.
+
+646
+01:07:40,850 --> 01:07:42,340
+Now the Pearl!
+
+647
+01:07:43,353 --> 01:07:45,287
+And what do the Brethren have?
+
+648
+01:07:45,989 --> 01:07:49,049
+We have Calypso.
+
+649
+01:07:56,833 --> 01:07:59,199
+Calypso.
+
+650
+01:08:01,271 --> 01:08:03,262
+An old legend.
+
+651
+01:08:04,407 --> 01:08:09,344
+No. The goddess herself,
+bound in human form.
+
+652
+01:08:09,779 --> 01:08:15,046
+Imagine all the power of the seas
+brought to bear against our enemy.
+
+653
+01:08:15,118 --> 01:08:20,420
+I intend to release her.
+But for that I need the Brethren Court.
+
+654
+01:08:22,792 --> 01:08:24,384
+All the Court.
+
+655
+01:08:26,262 --> 01:08:27,957
+You can keep Barbossa.
+
+656
+01:08:28,031 --> 01:08:32,092
+The belligerent homunculus and
+his friend with the wooden eye, both.
+
+657
+01:08:32,168 --> 01:08:34,693
+And Turner. Especially Turner.
+
+658
+01:08:34,771 --> 01:08:38,229
+The rest go with me on the Pearl.
+I'll lead you to Shipwreck Cove,
+
+659
+01:08:38,308 --> 01:08:42,642
+where I will hand you the pirates
+and you will not hand me to Jones.
+
+660
+01:08:42,712 --> 01:08:47,240
+- Bloody fair deal, don't you think?
+- And what becomes of Miss Swann?
+
+661
+01:08:49,986 --> 01:08:52,113
+What interest is she to you?
+
+662
+01:08:54,657 --> 01:08:57,023
+What are you proposing, captain?
+
+663
+01:08:57,093 --> 01:09:00,085
+What be accepting, cap'n?
+
+664
+01:09:01,564 --> 01:09:03,930
+- The girl.
+- What?
+
+665
+01:09:04,000 --> 01:09:05,558
+Jack.
+
+666
+01:09:06,236 --> 01:09:08,033
+I've just recalled.
+
+667
+01:09:08,104 --> 01:09:13,098
+I've got this wonderful compass,
+which points to whatever I want.
+
+668
+01:09:13,643 --> 01:09:15,907
+So for what do I need you?
+
+669
+01:09:15,979 --> 01:09:18,004
+Elizabeth is not part of any bargain.
+
+670
+01:09:18,815 --> 01:09:20,146
+Out of the question.
+
+671
+01:09:20,216 --> 01:09:22,013
+It was not a question.
+
+672
+01:09:22,085 --> 01:09:23,848
+Points to the thing you want most.
+
+673
+01:09:23,920 --> 01:09:26,115
+And that is not
+the Brethren Court, is it?
+
+674
+01:09:26,189 --> 01:09:29,420
+- Then what is, Jack?
+- Me.
+
+675
+01:09:30,360 --> 01:09:32,521
+- Dead.
+- Done.
+
+676
+01:09:32,595 --> 01:09:35,257
+What? Not done.
+
+677
+01:09:35,331 --> 01:09:37,891
+You got us into this.
+If it frees us, then done!
+
+678
+01:09:37,967 --> 01:09:39,059
+Damn.
+
+679
+01:09:43,273 --> 01:09:47,039
+Although, if I kill you,
+then I can use the compass
+
+680
+01:09:47,110 --> 01:09:51,604
+to find Shipwreck Cove,
+is it, on my own.
+
+681
+01:09:51,948 --> 01:09:54,314
+Cut out the middle man, as it were.
+
+682
+01:09:54,384 --> 01:09:56,113
+Elizabeth, they are pirates.
+
+683
+01:09:56,185 --> 01:09:59,677
+I have had more than enough
+experience dealing with pirates!
+
+684
+01:10:00,290 --> 01:10:02,656
+Then we have an accord?
+
+685
+01:10:04,527 --> 01:10:07,087
+With me killed,
+you'd arrive at the cove,
+
+686
+01:10:07,163 --> 01:10:10,360
+find it a stronghold,
+nigh impregnable...
+
+687
+01:10:10,433 --> 01:10:13,368
+...able to withstand blockade for years.
+
+688
+01:10:13,436 --> 01:10:17,998
+Then you'd be wishing, "lf only there
+was someone I had not killed inside
+
+689
+01:10:18,141 --> 01:10:21,577
+to ensure that the pirates
+then come outside."
+
+690
+01:10:22,445 --> 01:10:24,345
+And you can accomplish all this?
+
+691
+01:10:25,648 --> 01:10:28,708
+You may kill me,
+but you may never insult me.
+
+692
+01:10:29,052 --> 01:10:30,110
+Who am I?
+
+693
+01:10:32,422 --> 01:10:34,117
+I'm Captain Jack Sparrow.
+
+694
+01:10:37,960 --> 01:10:39,120
+Done!
+
+695
+01:11:12,395 --> 01:11:13,555
+Man overboard!
+
+696
+01:11:27,643 --> 01:11:28,837
+You're mad.
+
+697
+01:11:29,145 --> 01:11:32,376
+Thank goodness.
+If I wasn't, this'd probably never work.
+
+698
+01:11:50,066 --> 01:11:53,229
+And that was without
+even a single drop of rum.
+
+699
+01:12:00,743 --> 01:12:05,510
+Send this pestilent, traitorous,
+cowhearted, yeasty codpiece to the brig.
+
+700
+01:12:07,750 --> 01:12:09,411
+Which ship do we follow?
+
+701
+01:12:09,485 --> 01:12:14,149
+Signal the Dutchman to track down
+Sao Feng. We follow the Pearl.
+
+702
+01:12:15,124 --> 01:12:17,649
+How soon can we have
+the ship ready to pursue?
+
+703
+01:12:20,530 --> 01:12:21,827
+She's going down!
+
+704
+01:12:21,898 --> 01:12:23,422
+Stand clear!
+
+705
+01:12:27,537 --> 01:12:32,440
+Do you think he plans it all out,
+or just makes it up as he goes along?
+
+706
+01:12:34,310 --> 01:12:35,299
+Sir.
+
+707
+01:13:17,720 --> 01:13:23,716
+By this time tomorrow, we will arrive
+at Shipwreck Cove and you will be free.
+
+708
+01:13:26,262 --> 01:13:27,661
+Calypso.
+
+709
+01:13:28,764 --> 01:13:30,231
+Excuse me?
+
+710
+01:13:31,267 --> 01:13:35,363
+Not a name you fancy, I imagine,
+out of the many that you have...
+
+711
+01:13:35,938 --> 01:13:37,565
+...but it is what we call you.
+
+712
+01:13:39,475 --> 01:13:40,669
+We being who?
+
+713
+01:13:45,414 --> 01:13:47,211
+You confirm it.
+
+714
+01:13:48,584 --> 01:13:49,983
+Confirm what?
+
+715
+01:13:51,254 --> 01:13:55,850
+- You've told me nothing.
+- The Brethren Court, not I.
+
+716
+01:13:55,925 --> 01:14:00,521
+The First Brethren Court,
+whose decision I would have opposed.
+
+717
+01:14:01,631 --> 01:14:03,531
+They bound you to human form
+
+718
+01:14:03,599 --> 01:14:07,057
+so the rule of the seas
+would belong to man and not...
+
+719
+01:14:07,136 --> 01:14:08,899
+To me.
+
+720
+01:14:11,474 --> 01:14:16,343
+But one such as you should never
+be anything less than what you are.
+
+721
+01:14:16,412 --> 01:14:19,006
+Pretty speech from a captor.
+
+722
+01:14:19,081 --> 01:14:23,074
+But words whispered
+through prison bars lose their charm.
+
+723
+01:14:23,419 --> 01:14:26,411
+Can I be blamed for my efforts?
+
+724
+01:14:28,391 --> 01:14:32,657
+All men are drawn to the sea,
+perilous though it may be.
+
+725
+01:14:32,728 --> 01:14:36,528
+And some men offer desire
+as justification for their crimes.
+
+726
+01:14:37,567 --> 01:14:40,092
+I offer simply my desire.
+
+727
+01:14:41,571 --> 01:14:43,061
+And in return?
+
+728
+01:14:44,173 --> 01:14:48,109
+I would have your gifts,
+should you choose to give them.
+
+729
+01:14:52,181 --> 01:14:56,174
+And if I should choose not?
+
+730
+01:14:57,687 --> 01:14:59,655
+Then I will take...
+
+731
+01:15:00,990 --> 01:15:02,014
+...your fury.
+
+732
+01:15:27,817 --> 01:15:29,114
+Sao Feng?
+
+733
+01:15:30,686 --> 01:15:31,812
+Here.
+
+734
+01:15:32,221 --> 01:15:33,688
+Please.
+
+735
+01:15:39,562 --> 01:15:43,089
+With all nine pieces of eight...
+
+736
+01:15:45,568 --> 01:15:47,627
+...you will be free.
+
+737
+01:15:49,472 --> 01:15:50,598
+Take it!
+
+738
+01:15:52,441 --> 01:15:54,272
+You are captain now.
+
+739
+01:15:55,444 --> 01:15:56,468
+Me?
+
+740
+01:15:59,115 --> 01:16:03,711
+Go in my place to Shipwreck Cove.
+
+741
+01:16:05,788 --> 01:16:08,382
+Captain! The ship is taken.
+We cannot...
+
+742
+01:16:09,825 --> 01:16:13,386
+Forgive me... Calypso.
+
+743
+01:16:22,638 --> 01:16:23,730
+Sao.
+
+744
+01:16:28,844 --> 01:16:30,539
+What did he tell you?
+
+745
+01:16:35,618 --> 01:16:37,483
+He made me captain.
+
+746
+01:16:39,755 --> 01:16:41,985
+Set! Fire!
+
+747
+01:16:47,430 --> 01:16:49,455
+You are not my captain.
+
+748
+01:16:49,732 --> 01:16:51,063
+Elizabeth.
+
+749
+01:16:51,934 --> 01:16:53,492
+James. James.
+
+750
+01:16:58,240 --> 01:17:00,208
+Thank God, you're alive.
+
+751
+01:17:00,910 --> 01:17:02,468
+Your father'll be overjoyed
+
+752
+01:17:02,545 --> 01:17:05,378
+- to know you're safe.
+- My father's dead.
+
+753
+01:17:05,848 --> 01:17:08,578
+No, that can't be true.
+He returned to England.
+
+754
+01:17:09,585 --> 01:17:11,519
+Did Lord Beckett tell you that?
+
+755
+01:17:12,822 --> 01:17:15,586
+Who among you
+do you name as captain?
+
+756
+01:17:15,658 --> 01:17:17,148
+Captain. Her.
+
+757
+01:17:17,226 --> 01:17:18,887
+Her.
+
+758
+01:17:21,764 --> 01:17:22,856
+Captain?
+
+759
+01:17:22,932 --> 01:17:26,595
+Tow the ship.
+Put the prisoners in the brig.
+
+760
+01:17:27,903 --> 01:17:29,871
+The captain shall have my quarters.
+
+761
+01:17:31,440 --> 01:17:32,907
+Thank you, sir.
+
+762
+01:17:32,975 --> 01:17:36,706
+- But I prefer to remain with my crew.
+- Elizabeth.
+
+763
+01:17:36,779 --> 01:17:38,269
+I swear.
+
+764
+01:17:39,215 --> 01:17:40,273
+I did not know.
+
+765
+01:17:40,349 --> 01:17:44,479
+Know what?
+Which side you chose?
+
+766
+01:17:52,495 --> 01:17:54,258
+Well, now you do.
+
+767
+01:18:02,938 --> 01:18:03,927
+Bootstrap?
+
+768
+01:18:12,548 --> 01:18:13,845
+Bootstrap.
+
+769
+01:18:14,350 --> 01:18:15,578
+Bill Turner?
+
+770
+01:18:16,719 --> 01:18:17,845
+Bootstrap.
+
+771
+01:18:27,029 --> 01:18:28,929
+You know my name.
+
+772
+01:18:32,434 --> 01:18:33,799
+Yes, I know your son.
+
+773
+01:18:35,871 --> 01:18:37,395
+Will Turner.
+
+774
+01:18:38,841 --> 01:18:39,933
+William.
+
+775
+01:18:45,815 --> 01:18:48,306
+He made it. He's alive.
+
+776
+01:18:48,384 --> 01:18:52,616
+And now he sends you to tell me
+that he's coming to get me.
+
+777
+01:18:54,590 --> 01:18:56,956
+God's wounds. He's on his way.
+
+778
+01:18:57,026 --> 01:18:58,391
+Yes, Will is alive.
+
+779
+01:18:59,829 --> 01:19:01,387
+And he wants to help you.
+
+780
+01:19:06,869 --> 01:19:10,498
+He can't help me. He won't come.
+
+781
+01:19:11,273 --> 01:19:12,831
+But you're his father.
+
+782
+01:19:13,676 --> 01:19:15,439
+I know you.
+
+783
+01:19:16,278 --> 01:19:17,836
+He spoke of you.
+
+784
+01:19:19,815 --> 01:19:22,978
+He can't save me.
+He can't come because of you.
+
+785
+01:19:24,353 --> 01:19:25,377
+Me?
+
+786
+01:19:26,922 --> 01:19:28,651
+You're Elizabeth.
+
+787
+01:19:30,025 --> 01:19:31,492
+Yes, I'm Elizabeth.
+
+788
+01:19:33,295 --> 01:19:38,255
+If Jones be slain,
+he who slays him must take his place.
+
+789
+01:19:38,834 --> 01:19:41,701
+Captain... Forever.
+
+790
+01:19:44,573 --> 01:19:47,542
+The Dutchman
+must always have a captain.
+
+791
+01:19:48,244 --> 01:19:50,337
+And if he saves me...
+
+792
+01:19:51,547 --> 01:19:53,412
+...he loses you.
+
+793
+01:19:56,385 --> 01:19:57,477
+I see.
+
+794
+01:19:59,455 --> 01:20:01,320
+He won't pick me.
+
+795
+01:20:02,258 --> 01:20:04,419
+I wouldn't pick me.
+
+796
+01:20:09,498 --> 01:20:11,022
+Tell him not to come.
+
+797
+01:20:13,235 --> 01:20:15,362
+Tell him to stay away.
+
+798
+01:20:16,672 --> 01:20:18,697
+Tell him it's too late.
+
+799
+01:20:20,276 --> 01:20:22,540
+I'm already a part of the ship...
+
+800
+01:20:24,613 --> 01:20:26,240
+...and the crew.
+
+801
+01:20:28,417 --> 01:20:29,406
+Bootstrap.
+
+802
+01:20:32,488 --> 01:20:34,388
+You know my name.
+
+803
+01:20:35,291 --> 01:20:37,384
+You know my name.
+
+804
+01:20:38,627 --> 01:20:40,458
+Yes, I know your son.
+
+805
+01:20:41,463 --> 01:20:43,158
+William.
+
+806
+01:20:45,768 --> 01:20:47,736
+He's coming for me.
+
+807
+01:20:48,437 --> 01:20:49,927
+Wait and see.
+
+808
+01:20:51,040 --> 01:20:52,371
+You'll see.
+
+809
+01:20:53,776 --> 01:20:55,539
+He promised.
+
+810
+01:21:11,961 --> 01:21:13,895
+Swing her over.
+
+811
+01:21:15,097 --> 01:21:16,860
+Ready those lines.
+
+812
+01:21:28,610 --> 01:21:29,770
+Sir.
+
+813
+01:21:33,148 --> 01:21:35,013
+A breadcrumb trail.
+
+814
+01:21:35,084 --> 01:21:39,418
+- And we're meant to follow.
+- A betrayer among them?
+
+815
+01:21:39,488 --> 01:21:44,653
+- Or a trap?
+- A gambit by a skilled opponent.
+
+816
+01:21:45,961 --> 01:21:49,954
+- Adjust course, lieutenant.
+- Sir?
+
+817
+01:21:51,800 --> 01:21:54,064
+We can only hope
+to reach our destination
+
+818
+01:21:54,136 --> 01:21:56,161
+before they run out of bodies.
+
+819
+01:22:09,818 --> 01:22:12,878
+You escaped the brig
+even quicker than I expected.
+
+820
+01:22:13,822 --> 01:22:17,223
+William, do you notice anything?
+
+821
+01:22:18,894 --> 01:22:20,122
+Rather...
+
+822
+01:22:20,529 --> 01:22:24,056
+...do you notice something
+that is not there to be noticed?
+
+823
+01:22:24,833 --> 01:22:27,825
+- You haven't raised an alarm.
+- Odd, isn't it?
+
+824
+01:22:27,903 --> 01:22:29,370
+Not as odd as this.
+
+825
+01:22:30,773 --> 01:22:33,241
+Come up with this
+all by your lonesome, did you?
+
+826
+01:22:33,308 --> 01:22:36,334
+I said to myself, "Think like Jack."
+
+827
+01:22:36,712 --> 01:22:38,907
+This is what you've arrived at?
+
+828
+01:22:38,981 --> 01:22:42,314
+Lead Beckett to Shipwreck Cove
+so as to gain his trust...
+
+829
+01:22:42,384 --> 01:22:44,215
+...accomplish your own ends?
+
+830
+01:22:44,286 --> 01:22:46,083
+It's like you don't know me at all.
+
+831
+01:22:49,391 --> 01:22:52,485
+And how does your dearly beloved
+feel about this plan?
+
+832
+01:22:53,862 --> 01:22:55,193
+Ah.
+
+833
+01:22:55,798 --> 01:22:58,323
+You've not seen fit
+to trust her with it.
+
+834
+01:23:01,703 --> 01:23:03,261
+I'm losing her, Jack.
+
+835
+01:23:04,006 --> 01:23:07,942
+Every step I make for my father
+is a step away from Elizabeth.
+
+836
+01:23:08,410 --> 01:23:12,107
+If you choose to lock your heart away,
+you'll lose her for certain.
+
+837
+01:23:12,648 --> 01:23:15,845
+If I might lend a machete
+to your intellectual thicket...
+
+838
+01:23:17,019 --> 01:23:18,987
+...avoid the choice altogether.
+
+839
+01:23:19,822 --> 01:23:21,289
+Change the facts.
+
+840
+01:23:22,357 --> 01:23:25,349
+Let someone else dispatch Jones.
+
+841
+01:23:26,128 --> 01:23:27,459
+Who?
+
+842
+01:23:31,733 --> 01:23:32,722
+You?
+
+843
+01:23:35,070 --> 01:23:38,471
+Death has a curious way
+of reshuffling one's priorities.
+
+844
+01:23:38,540 --> 01:23:42,067
+I slip aboard the Dutchman,
+find the heart, stab the beating thing,
+
+845
+01:23:42,144 --> 01:23:43,907
+your father's free from his debt,
+
+846
+01:23:43,979 --> 01:23:46,709
+you're free to be
+with your charming murderess.
+
+847
+01:23:46,782 --> 01:23:50,616
+You're willing to cut out your heart
+and bind yourself to the Dutchman...
+
+848
+01:23:50,686 --> 01:23:54,645
+...forever?
+- No, mate. I'm free forever.
+
+849
+01:23:54,723 --> 01:23:58,750
+Free to sail the seas beyond the edges
+of the map. Free from death itself.
+
+850
+01:23:59,094 --> 01:24:01,153
+You have to do the job though, Jack.
+
+851
+01:24:01,230 --> 01:24:04,290
+You have to ferry souls
+to the next world.
+
+852
+01:24:04,933 --> 01:24:07,527
+Or end up just like Jones.
+
+853
+01:24:09,605 --> 01:24:11,596
+I don't have the face for tentacles.
+
+854
+01:24:13,442 --> 01:24:16,002
+But immortal has to
+count for something, eh?
+
+855
+01:24:20,015 --> 01:24:21,175
+What's this for?
+
+856
+01:24:21,250 --> 01:24:23,946
+Think like me. It'll come to you.
+
+857
+01:24:37,199 --> 01:24:39,599
+My regards to Davy Jones.
+
+858
+01:24:44,873 --> 01:24:46,340
+I hate him.
+
+859
+01:24:50,913 --> 01:24:52,039
+Come with me.
+
+860
+01:24:55,617 --> 01:24:56,845
+Quickly.
+
+861
+01:25:05,894 --> 01:25:07,156
+What are you doing?
+
+862
+01:25:08,830 --> 01:25:10,855
+Choosing a side.
+
+863
+01:25:35,390 --> 01:25:39,349
+Do not go to Shipwreck Cove. Beckett
+knows of the meeting of the Brethren.
+
+864
+01:25:39,428 --> 01:25:41,760
+I fear there may be
+a traitor among them.
+
+865
+01:25:43,098 --> 01:25:45,225
+It's too late to earn my forgiveness.
+
+866
+01:25:46,468 --> 01:25:49,266
+I had nothing to do
+with your father's death.
+
+867
+01:25:51,473 --> 01:25:54,465
+But that does not absolve me
+of my other sins.
+
+868
+01:25:58,013 --> 01:25:59,071
+Come with us.
+
+869
+01:26:03,151 --> 01:26:04,846
+James, come with me.
+
+870
+01:26:06,054 --> 01:26:07,954
+Who goes there?
+
+871
+01:26:10,726 --> 01:26:12,660
+Go. I will follow.
+
+872
+01:26:14,263 --> 01:26:15,924
+You're lying.
+
+873
+01:26:18,667 --> 01:26:21,568
+Our destinies have been entwined,
+Elizabeth...
+
+874
+01:26:23,939 --> 01:26:25,463
+...but never joined.
+
+875
+01:26:31,980 --> 01:26:33,675
+Go, now.
+
+876
+01:26:39,655 --> 01:26:41,816
+Back to your station, sailor.
+
+877
+01:26:43,659 --> 01:26:48,926
+- No one leaves the ship.
+- Stand down. That's an order.
+
+878
+01:26:48,997 --> 01:26:50,692
+That's an order.
+
+879
+01:26:51,767 --> 01:26:54,429
+Part of the crew, part of the ship.
+
+880
+01:26:54,503 --> 01:26:57,267
+Part of the crew,
+part of the ship. Part of the crew...
+
+881
+01:26:57,339 --> 01:27:00,240
+- Steady, man.
+- Part of the crew, part of the ship.
+
+882
+01:27:00,309 --> 01:27:02,709
+All hands, prisoner escape!
+
+883
+01:27:03,045 --> 01:27:05,275
+- Belay that!
+- James!
+
+884
+01:27:17,025 --> 01:27:19,118
+Prisoner escape!
+
+885
+01:27:21,563 --> 01:27:23,224
+James! No!
+
+886
+01:27:32,307 --> 01:27:35,105
+- The admiral's dead.
+- Admiral's dead?
+
+887
+01:27:35,177 --> 01:27:37,202
+- The admiral's dead.
+- Admiral's dead.
+
+888
+01:27:40,415 --> 01:27:42,975
+To the captain's cabin!
+
+889
+01:27:43,051 --> 01:27:45,042
+Back to the ship.
+
+890
+01:27:47,022 --> 01:27:50,958
+James Norrington. Do you fear death?
+
+891
+01:28:00,302 --> 01:28:02,361
+I take that as a "no."
+
+892
+01:28:06,875 --> 01:28:08,399
+Nice sword.
+
+893
+01:28:29,364 --> 01:28:34,392
+The Dutchman is under my command.
+
+894
+01:28:36,905 --> 01:28:39,203
+For now.
+
+895
+01:28:54,981 --> 01:28:57,040
+Look alive and keep a weather eye.
+
+896
+01:28:57,117 --> 01:28:59,517
+Not for naught
+it's called Shipwreck Island.
+
+897
+01:28:59,586 --> 01:29:03,022
+Where lies Shipwreck Cove
+and the town of Shipwreck.
+
+898
+01:29:03,089 --> 01:29:05,523
+You heard him. Step lively.
+
+899
+01:29:05,592 --> 01:29:07,924
+For all that pirates are clever clogs,
+
+900
+01:29:07,994 --> 01:29:10,827
+we are unimaginative
+when it comes to naming things.
+
+901
+01:29:10,897 --> 01:29:12,125
+Aye.
+
+902
+01:29:12,199 --> 01:29:16,329
+I once sailed with a geezer who lost
+both of his arms and part of his eye.
+
+903
+01:29:16,403 --> 01:29:17,995
+What'd you call him?
+
+904
+01:29:19,172 --> 01:29:20,400
+Larry.
+
+905
+01:29:24,110 --> 01:29:27,079
+I do not renege
+on a bargain once struck.
+
+906
+01:29:27,147 --> 01:29:29,138
+But we agreed on ends only.
+
+907
+01:29:29,216 --> 01:29:32,185
+The means are mine to decide.
+
+908
+01:29:32,252 --> 01:29:34,743
+Caution, Barbossa.
+
+909
+01:29:34,821 --> 01:29:39,053
+Do not forget it was by my power
+you return from the dead.
+
+910
+01:29:39,125 --> 01:29:42,959
+Or what it mean if you fail me.
+
+911
+01:29:46,233 --> 01:29:49,100
+Don't you forget
+why you had to bring me back.
+
+912
+01:29:49,169 --> 01:29:52,900
+Why I could not leave Jack
+to his well-deserved fate.
+
+913
+01:29:53,807 --> 01:29:56,332
+It took nine pirate lords
+to bind you, Calypso.
+
+914
+01:29:56,877 --> 01:30:00,176
+And it'll take no less than nine
+to set you free.
+
+915
+01:30:00,247 --> 01:30:02,442
+Masters Pintel and Ragetti.
+
+916
+01:30:04,284 --> 01:30:07,378
+Take this fishwife to the brig.
+
+917
+01:30:09,222 --> 01:30:11,349
+Right this way, Mrs. Fish.
+
+918
+01:30:39,185 --> 01:30:43,178
+I cannot be summoned
+like some mongrel pup.
+
+919
+01:30:43,256 --> 01:30:45,190
+Apparently, you can.
+
+920
+01:30:45,725 --> 01:30:47,386
+I believe you know each other.
+
+921
+01:30:52,253 --> 01:30:56,383
+Come to join my crew again,
+Master Turner?
+
+922
+01:30:56,457 --> 01:30:57,822
+Not yours.
+
+923
+01:30:58,259 --> 01:30:59,453
+His.
+
+924
+01:31:00,361 --> 01:31:02,488
+Jack Sparrow sends his regards.
+
+925
+01:31:03,598 --> 01:31:05,429
+Sparrow?
+
+926
+01:31:06,868 --> 01:31:08,460
+You didn't tell him.
+
+927
+01:31:08,536 --> 01:31:11,767
+We rescued Jack from the Locker
+along with the Black Pearl.
+
+928
+01:31:12,540 --> 01:31:15,441
+What else have you not told me?
+
+929
+01:31:16,211 --> 01:31:20,204
+There is an issue far more troublesome.
+
+930
+01:31:21,549 --> 01:31:25,144
+I believe you're familiar
+with a person called Calypso.
+
+931
+01:31:27,789 --> 01:31:29,484
+Not a person.
+
+932
+01:31:30,225 --> 01:31:31,283
+A heathen god.
+
+933
+01:31:31,359 --> 01:31:34,886
+One who delights in cursing men
+with their wildest dreams
+
+934
+01:31:34,963 --> 01:31:38,296
+and then revealing them to be
+hollow and naught but ash.
+
+935
+01:31:38,366 --> 01:31:41,494
+- The world is well rid of her.
+- Not quite so well, actually.
+
+936
+01:31:42,403 --> 01:31:44,997
+The Brethren Court
+intends to release her.
+
+937
+01:31:45,807 --> 01:31:47,604
+No! They cannot!
+
+938
+01:31:47,675 --> 01:31:50,644
+The First Court
+promised to imprison her forever.
+
+939
+01:31:50,712 --> 01:31:53,681
+- That was our agreement.
+- Your agreement?
+
+940
+01:31:56,217 --> 01:32:00,210
+I showed them how to bind her.
+
+941
+01:32:00,288 --> 01:32:02,256
+She could not be trusted.
+
+942
+01:32:02,323 --> 01:32:04,154
+I... She gave me no choice.
+
+943
+01:32:04,726 --> 01:32:07,661
+We must act before they release her.
+
+944
+01:32:07,729 --> 01:32:09,492
+You loved her.
+
+945
+01:32:10,732 --> 01:32:12,700
+She's the one.
+
+946
+01:32:12,767 --> 01:32:14,758
+And then you betrayed her.
+
+947
+01:32:14,836 --> 01:32:18,636
+She pretended to love me.
+
+948
+01:32:18,706 --> 01:32:22,472
+She betrayed me.
+
+949
+01:32:25,313 --> 01:32:28,840
+And after which betrayal
+did you cut out your heart, I wonder.
+
+950
+01:32:32,120 --> 01:32:34,816
+Do not test me.
+
+951
+01:32:34,889 --> 01:32:36,618
+I hadn't finished that.
+
+952
+01:32:38,626 --> 01:32:40,753
+You will free my father.
+
+953
+01:32:41,462 --> 01:32:43,930
+And you will guarantee
+Elizabeth's safety.
+
+954
+01:32:43,998 --> 01:32:45,590
+Along with my own.
+
+955
+01:32:45,667 --> 01:32:48,227
+Your terms are steep, Mr. Turner.
+
+956
+01:32:48,303 --> 01:32:51,067
+We will expect fair value in return.
+
+957
+01:32:51,506 --> 01:32:55,442
+There is only one price I will accept:
+
+958
+01:32:55,510 --> 01:32:58,570
+Calypso murdered.
+
+959
+01:33:00,481 --> 01:33:02,813
+Calypso's aboard the Black Pearl.
+
+960
+01:33:04,886 --> 01:33:08,253
+Jack has sailed
+the Black Pearl to Shipwreck Cove.
+
+961
+01:33:09,290 --> 01:33:14,523
+And with you no longer aboard her,
+how do you propose to lead us there?
+
+962
+01:33:26,374 --> 01:33:28,934
+What is it you want most?
+
+963
+01:34:00,875 --> 01:34:02,433
+Look at them all.
+
+964
+01:34:02,510 --> 01:34:06,606
+There's not been a gathering
+like this in our lifetime.
+
+965
+01:34:07,415 --> 01:34:09,406
+And I owe them all money.
+
+966
+01:34:14,822 --> 01:34:17,290
+As he who issued summons,
+
+967
+01:34:17,358 --> 01:34:21,920
+I convene this,
+the Fourth Brethren Court.
+
+968
+01:34:26,000 --> 01:34:29,458
+To confirm your lordship
+and right to be heard,
+
+969
+01:34:29,570 --> 01:34:34,303
+present now your pieces of eight,
+my fellow cap'ns.
+
+970
+01:34:42,450 --> 01:34:45,647
+Those aren't pieces of eight.
+They're just pieces of junk.
+
+971
+01:34:45,720 --> 01:34:49,451
+Aye. The original plan was to use
+nine pieces of eight to bind Calypso.
+
+972
+01:34:49,524 --> 01:34:53,858
+But when the First Court met,
+the Brethren were to a one skint broke.
+
+973
+01:34:54,562 --> 01:34:55,620
+So change the name.
+
+974
+01:34:56,831 --> 01:35:01,029
+To "nine pieces of whatever we happened
+to have in our pockets at the time?"
+
+975
+01:35:01,102 --> 01:35:03,434
+Oh, yes. That sounds very piratey.
+
+976
+01:35:07,075 --> 01:35:09,566
+Master Ragetti, if you will.
+
+977
+01:35:10,378 --> 01:35:13,370
+I kept it safe, just like
+you said when you gave it to me.
+
+978
+01:35:13,448 --> 01:35:16,542
+Aye, you have.
+But now I need it back.
+
+979
+01:35:19,420 --> 01:35:20,512
+Sparrow.
+
+980
+01:35:26,627 --> 01:35:30,256
+Might I point out that
+we are still short one pirate lord,
+
+981
+01:35:30,331 --> 01:35:34,290
+and I'm as content as a cucumber
+to wait until Sao Feng joins us.
+
+982
+01:35:34,368 --> 01:35:35,960
+Sao Feng is dead.
+
+983
+01:35:38,106 --> 01:35:40,199
+He fell to the Flying Dutchman.
+
+984
+01:35:40,441 --> 01:35:41,567
+The plagued ship.
+
+985
+01:35:42,810 --> 01:35:46,211
+He made you captain? They're
+giving the bloody title away now.
+
+986
+01:35:46,280 --> 01:35:49,249
+- £¡Que lo manden al diablo!
+- Listen. Listen to me.
+
+987
+01:35:49,317 --> 01:35:51,547
+Our location has been betrayed.
+
+988
+01:35:51,619 --> 01:35:55,248
+Jones is under the command of
+Lord Beckett. They're on their way here.
+
+989
+01:35:55,323 --> 01:35:59,020
+- Who is this betrayer?
+- Not likely anyone among us.
+
+990
+01:35:59,393 --> 01:36:01,418
+- Where's Will?
+- Not among us.
+
+991
+01:36:01,496 --> 01:36:04,226
+It matters not how they found us.
+The question is,
+
+992
+01:36:04,298 --> 01:36:06,789
+what will we do now that they have?
+
+993
+01:36:06,868 --> 01:36:08,358
+We fight.
+
+994
+01:36:12,440 --> 01:36:15,876
+Shipwreck Cove is a fortress.
+
+995
+01:36:15,943 --> 01:36:18,741
+A well-supplied fortress.
+
+996
+01:36:19,347 --> 01:36:23,147
+There is no need to fight
+if they cannot get to us.
+
+997
+01:36:23,918 --> 01:36:27,285
+There be a third course.
+
+998
+01:36:28,523 --> 01:36:30,957
+In another age, at this very spot,
+
+999
+01:36:31,025 --> 01:36:36,520
+the First Brethren Court captured the
+sea goddess and bound her in her bones.
+
+1000
+01:36:39,267 --> 01:36:40,700
+That was a mistake.
+
+1001
+01:36:41,702 --> 01:36:44,466
+Oh, we tamed the seas
+for ourselves, aye.
+
+1002
+01:36:45,439 --> 01:36:48,533
+But opened the door
+to Beckett and his ilk.
+
+1003
+01:36:50,545 --> 01:36:52,979
+Better were the days
+when mastery of seas
+
+1004
+01:36:53,047 --> 01:36:56,881
+came not from bargains
+struck with eldritch creatures,
+
+1005
+01:36:56,951 --> 01:37:01,320
+but from the sweat of a mars brow
+and the strength of his back alone.
+
+1006
+01:37:01,389 --> 01:37:03,220
+You all know this to be true.
+
+1007
+01:37:04,058 --> 01:37:05,423
+Gentlemen.
+
+1008
+01:37:06,527 --> 01:37:07,687
+Ladies.
+
+1009
+01:37:12,333 --> 01:37:15,325
+We must free Calypso.
+
+1010
+01:37:24,345 --> 01:37:26,779
+- Shoot him.
+- Cut out his tongue!
+
+1011
+01:37:26,847 --> 01:37:30,749
+Shoot him, cut out his tongue, then
+shoot his tongue. And trim that beard.
+
+1012
+01:37:30,818 --> 01:37:33,343
+Sao Feng would've agreed with Barbossa.
+
+1013
+01:37:33,421 --> 01:37:36,322
+Calypso was our enemy then,
+she will be our enemy now.
+
+1014
+01:37:36,390 --> 01:37:38,324
+It's unlikely her mood's improved.
+
+1015
+01:37:38,392 --> 01:37:42,226
+I would still agree with Sao Feng.
+We release Calypso.
+
+1016
+01:37:42,296 --> 01:37:45,231
+- You threaten me?
+- I silence you.
+
+1017
+01:37:57,478 --> 01:38:00,641
+- This is madness.
+- This is politics.
+
+1018
+01:38:00,715 --> 01:38:03,309
+Meanwhile, our enemies
+are bearing down upon us.
+
+1019
+01:38:03,384 --> 01:38:05,909
+If they not be here already.
+
+1020
+01:38:42,123 --> 01:38:44,489
+My sweet.
+
+1021
+01:38:44,792 --> 01:38:46,919
+You come for me.
+
+1022
+01:38:47,895 --> 01:38:52,855
+- You were expecting me.
+- It has been torture.
+
+1023
+01:38:52,933 --> 01:38:57,165
+Trapped in this single form.
+
+1024
+01:38:57,705 --> 01:39:00,071
+Cut off from the sea.
+
+1025
+01:39:00,541 --> 01:39:03,135
+From all that I love.
+
+1026
+01:39:04,412 --> 01:39:05,811
+From you.
+
+1027
+01:39:06,514 --> 01:39:11,042
+Ten years I devoted
+to the duty you charged to me.
+
+1028
+01:39:12,420 --> 01:39:17,824
+Ten years I looked after
+those who died at sea.
+
+1029
+01:39:18,492 --> 01:39:23,054
+And, finally,
+when we could be together again...
+
+1030
+01:39:24,832 --> 01:39:28,632
+...you weren't there.
+
+1031
+01:39:29,036 --> 01:39:31,630
+Why weren't you there?
+
+1032
+01:39:35,042 --> 01:39:36,669
+It's my nature.
+
+1033
+01:39:37,878 --> 01:39:42,474
+Would you love me
+if I was anything but what I am?
+
+1034
+01:39:43,651 --> 01:39:47,451
+I do not love you.
+
+1035
+01:39:49,957 --> 01:39:53,654
+Many things you were, Davy Jones.
+
+1036
+01:39:54,729 --> 01:39:56,856
+But never cruel.
+
+1037
+01:39:57,698 --> 01:40:00,667
+You have corrupted your purpose...
+
+1038
+01:40:02,036 --> 01:40:04,630
+...and so your self.
+
+1039
+01:40:05,706 --> 01:40:10,575
+And you did hide away
+what should always have been mine.
+
+1040
+01:40:30,464 --> 01:40:33,524
+Calypso.
+
+1041
+01:40:36,570 --> 01:40:38,435
+I will be free.
+
+1042
+01:40:40,374 --> 01:40:44,071
+And when I am,
+I would give you my heart.
+
+1043
+01:40:44,845 --> 01:40:47,837
+And we would be together always.
+
+1044
+01:40:48,482 --> 01:40:51,849
+If only you had a heart to give.
+
+1045
+01:40:56,624 --> 01:40:58,683
+Why did you come?
+
+1046
+01:41:15,976 --> 01:41:21,141
+And what fate have you planned
+for your captors?
+
+1047
+01:41:21,549 --> 01:41:23,540
+The Brethren Court?
+
+1048
+01:41:25,519 --> 01:41:30,320
+All of them, the last thing
+they will learn in this life...
+
+1049
+01:41:30,391 --> 01:41:33,087
+...is how cruel I can be.
+
+1050
+01:41:37,665 --> 01:41:42,125
+And what of your fate, Davy Jones?
+
+1051
+01:41:43,604 --> 01:41:47,096
+My heart will always belong to you.
+
+1052
+01:42:00,488 --> 01:42:04,288
+It was the First Court
+what imprisoned Calypso.
+
+1053
+01:42:04,358 --> 01:42:06,656
+We should be the ones to set her free.
+
+1054
+01:42:06,727 --> 01:42:11,061
+And in her gratitude,
+she will see fit to grant us boons.
+
+1055
+01:42:11,131 --> 01:42:13,599
+Whose boons? Your boons?
+
+1056
+01:42:13,667 --> 01:42:16,659
+Utterly deceptive twaddle-speak, says I.
+
+1057
+01:42:16,737 --> 01:42:21,140
+If you have a better alternative,
+please, share.
+
+1058
+01:42:22,409 --> 01:42:23,433
+Cuttlefish.
+
+1059
+01:42:24,645 --> 01:42:26,704
+Aye.
+
+1060
+01:42:27,681 --> 01:42:30,309
+Let us not, dear friends,
+
+1061
+01:42:30,384 --> 01:42:33,376
+forget our dear friends, the cuttlefish.
+
+1062
+01:42:33,921 --> 01:42:36,116
+Flipping glorious little sausages.
+
+1063
+01:42:36,190 --> 01:42:40,149
+Pen them up together, they'll devour
+each other without a second thought.
+
+1064
+01:42:40,227 --> 01:42:41,489
+Human nature, isn't it?
+
+1065
+01:42:41,562 --> 01:42:43,587
+Or... Or fish nature.
+
+1066
+01:42:43,664 --> 01:42:47,395
+So, yes, we could hole up here
+well-provisioned and well-armed.
+
+1067
+01:42:47,468 --> 01:42:49,629
+Half of us would be dead
+within the month.
+
+1068
+01:42:49,703 --> 01:42:53,639
+Which seems quite grim to me,
+any way you slice it. Or...
+
+1069
+01:42:55,509 --> 01:42:56,840
+Uh...
+
+1070
+01:42:58,579 --> 01:43:04,347
+As my learned colleague
+so naively suggests,
+
+1071
+01:43:04,418 --> 01:43:08,411
+we can release Calypso, and we
+can pray that she will be merciful.
+
+1072
+01:43:09,924 --> 01:43:11,186
+I rather doubt it.
+
+1073
+01:43:11,992 --> 01:43:15,985
+Can we pretend she's anything
+other than a woman scorned
+
+1074
+01:43:16,063 --> 01:43:18,930
+like which fury hell hath no? We cannot.
+
+1075
+01:43:20,100 --> 01:43:23,365
+Res ipsa loquitur, tabula in naufragio.
+
+1076
+01:43:23,437 --> 01:43:26,201
+We are left with but one option.
+
+1077
+01:43:26,273 --> 01:43:30,141
+I agree with, and I cannot believe
+the words are coming out of me mouth...
+
+1078
+01:43:32,446 --> 01:43:35,381
+...Captain Swann. We must fight.
+
+1079
+01:43:35,449 --> 01:43:38,680
+- You've always run away from a fight.
+- Have not.
+
+1080
+01:43:38,752 --> 01:43:39,810
+- Have so.
+- Have not.
+
+1081
+01:43:39,954 --> 01:43:41,012
+- Have so.
+- Have not!
+
+1082
+01:43:41,155 --> 01:43:44,318
+- You have so, and you know it.
+- Have not. Slander and calumny.
+
+1083
+01:43:44,391 --> 01:43:48,691
+I have only ever embraced that
+oldest and noblest of pirate traditions.
+
+1084
+01:43:48,762 --> 01:43:52,960
+I submit that here now
+that is what we all must do:
+
+1085
+01:43:53,033 --> 01:43:54,432
+We must fight...
+
+1086
+01:43:55,202 --> 01:43:56,692
+...to run away.
+
+1087
+01:43:56,770 --> 01:43:59,102
+- Aye!
+- Aye!
+
+1088
+01:44:00,874 --> 01:44:05,311
+As per the code, an act of war,
+and this be exactly that,
+
+1089
+01:44:05,379 --> 01:44:08,280
+can only be declared by the pirate king.
+
+1090
+01:44:08,349 --> 01:44:10,909
+- You made that up.
+- Did I, now?
+
+1091
+01:44:10,985 --> 01:44:15,513
+I call on Cap'n Teague,
+keeper of the code.
+
+1092
+01:44:16,523 --> 01:44:19,959
+Sri Sumbhajee proclaims
+this all to be folly!
+
+1093
+01:44:21,595 --> 01:44:24,086
+Hang the code. Who cares a...?
+
+1094
+01:44:32,106 --> 01:44:33,937
+Code is the law.
+
+1095
+01:44:45,953 --> 01:44:47,944
+You're in my way, boy.
+
+1096
+01:44:57,164 --> 01:44:59,792
+- The code.
+- The code.
+
+1097
+01:44:59,867 --> 01:45:02,131
+As set forth by Morgan and Bartholomew.
+
+1098
+01:45:20,154 --> 01:45:24,113
+- That can't... How did...
+- Sea turtles, mate.
+
+1099
+01:45:26,994 --> 01:45:28,484
+Sea turtles.
+
+1100
+01:45:43,277 --> 01:45:45,973
+Ah. Barbossa is right.
+
+1101
+01:45:46,046 --> 01:45:47,536
+Hang on a minute.
+
+1102
+01:45:49,016 --> 01:45:50,984
+"It shall be the duties, as the king,
+
+1103
+01:45:51,051 --> 01:45:54,509
+to declare war,
+parley with shared adversaries..."
+
+1104
+01:45:54,588 --> 01:45:55,577
+Fancy that.
+
+1105
+01:45:55,656 --> 01:45:58,124
+There has not been a king
+since the First Court.
+
+1106
+01:45:58,192 --> 01:45:59,853
+And that's not likely to change.
+
+1107
+01:45:59,927 --> 01:46:01,952
+- Not likely.
+- Why not?
+
+1108
+01:46:02,096 --> 01:46:04,724
+See, the pirate king
+is elected by popular vote.
+
+1109
+01:46:04,798 --> 01:46:08,290
+And each pirate
+only ever votes for hisself.
+
+1110
+01:46:08,368 --> 01:46:09,460
+I call for a vote.
+
+1111
+01:46:14,274 --> 01:46:16,640
+I vote for Ammand the corsair.
+
+1112
+01:46:16,710 --> 01:46:19,270
+Capitaine Chevalle,
+the penniless Frenchman.
+
+1113
+01:46:19,646 --> 01:46:22,308
+Sri Sumbhajee
+votes for Sri Sumbhajee.
+
+1114
+01:46:23,217 --> 01:46:25,151
+Mistress Ching.
+
+1115
+01:46:25,219 --> 01:46:26,618
+Gentleman Jocard.
+
+1116
+01:46:27,321 --> 01:46:29,881
+- Elizabeth Swann.
+- Barbossa.
+
+1117
+01:46:29,957 --> 01:46:31,720
+Vallenueva!
+
+1118
+01:46:32,559 --> 01:46:33,890
+Elizabeth Swann.
+
+1119
+01:46:34,928 --> 01:46:36,862
+- What?
+- I know. Curious, isn't it?
+
+1120
+01:46:39,399 --> 01:46:41,026
+Vote for me. Vote for me.
+
+1121
+01:46:43,504 --> 01:46:44,903
+What you talking about?
+
+1122
+01:46:44,972 --> 01:46:46,064
+No!
+
+1123
+01:46:46,140 --> 01:46:49,769
+Am I to understand that you lot
+will not be keeping to the code, then?
+
+1124
+01:46:58,652 --> 01:46:59,846
+Very well.
+
+1125
+01:47:03,223 --> 01:47:08,217
+What say you, Captain Swann,
+king of the Brethren Court?
+
+1126
+01:47:10,197 --> 01:47:12,529
+Prepare every vessel that floats.
+
+1127
+01:47:13,367 --> 01:47:14,527
+At dawn...
+
+1128
+01:47:16,103 --> 01:47:17,297
+...we're at war.
+
+1129
+01:47:21,108 --> 01:47:24,703
+And so we shall go to war.
+
+1130
+01:47:38,392 --> 01:47:39,381
+What?
+
+1131
+01:47:40,360 --> 01:47:43,158
+You've seen it all,
+done it all. You survived.
+
+1132
+01:47:43,697 --> 01:47:46,530
+That's the trick, isn't it?
+To survive?
+
+1133
+01:47:47,100 --> 01:47:50,558
+It's not just about
+living forever, Jackie.
+
+1134
+01:47:54,508 --> 01:47:58,604
+The trick is
+living with yourself forever.
+
+1135
+01:48:02,649 --> 01:48:03,809
+How's Mum?
+
+1136
+01:48:10,757 --> 01:48:12,281
+She looks great.
+
+1137
+01:48:33,714 --> 01:48:37,309
+The enemy is here! Let's take them!
+
+1138
+01:49:00,674 --> 01:49:03,165
+Abandon ship. Abandon ship.
+
+1139
+01:49:12,119 --> 01:49:13,279
+Parley?
+
+1140
+01:50:10,077 --> 01:50:13,706
+You be the cur that led
+these wolves to our door.
+
+1141
+01:50:13,780 --> 01:50:17,978
+Don't blame Turner.
+He was merely the tool of your betrayal.
+
+1142
+01:50:18,051 --> 01:50:22,579
+If you wish to see its grand architect,
+look to your left.
+
+1143
+01:50:25,993 --> 01:50:27,688
+My hands are clean in this.
+
+1144
+01:50:28,729 --> 01:50:29,889
+Figuratively.
+
+1145
+01:50:30,430 --> 01:50:32,898
+My actions were my own
+and to my own purpose.
+
+1146
+01:50:32,966 --> 01:50:36,402
+- Jack had nothing to do with it.
+- Well spoke. Listen to the tool.
+
+1147
+01:50:36,470 --> 01:50:38,438
+Will, I've been aboard the Dutchman.
+
+1148
+01:50:39,373 --> 01:50:42,706
+I understand the burden you bear,
+but I fear that cause is lost.
+
+1149
+01:50:43,543 --> 01:50:47,411
+No cause is lost if there is
+but one fool left to fight for it.
+
+1150
+01:50:49,649 --> 01:50:54,552
+If Turner wasn't acting on your behalf,
+then how did he come to give me this?
+
+1151
+01:50:55,756 --> 01:51:00,716
+You made a deal with me, Jack, to
+deliver the pirates. And here they are.
+
+1152
+01:51:01,495 --> 01:51:04,862
+Don't be bashful. Step up.
+Claim your reward.
+
+1153
+01:51:04,931 --> 01:51:08,833
+Your debt to me
+is still to be satisfied.
+
+1154
+01:51:08,902 --> 01:51:13,862
+One hundred years in servitude
+aboard the Dutchman. As a start.
+
+1155
+01:51:14,541 --> 01:51:17,772
+That debt was paid, mate.
+With some help.
+
+1156
+01:51:17,844 --> 01:51:20,244
+- You escaped.
+- Technically.
+
+1157
+01:51:20,313 --> 01:51:22,372
+I propose an exchange.
+
+1158
+01:51:24,451 --> 01:51:26,316
+Will leaves with us...
+
+1159
+01:51:27,054 --> 01:51:28,817
+...and you can take Jack.
+
+1160
+01:51:30,924 --> 01:51:31,913
+Done.
+
+1161
+01:51:32,592 --> 01:51:34,287
+- Undone.
+- Done.
+
+1162
+01:51:34,361 --> 01:51:37,888
+Jack's one of the nine pirate lords.
+You have no right.
+
+1163
+01:51:37,964 --> 01:51:39,431
+King.
+
+1164
+01:51:41,935 --> 01:51:45,996
+- As you command, your nibs.
+- Blackguard!
+
+1165
+01:51:51,211 --> 01:51:54,908
+If ye have something to say,
+I might be saying something as well.
+
+1166
+01:51:57,584 --> 01:51:59,609
+First to the finish, then?
+
+1167
+01:52:20,907 --> 01:52:23,467
+Do you fear death?
+
+1168
+01:52:25,011 --> 01:52:26,774
+You've no idea.
+
+1169
+01:52:29,716 --> 01:52:31,581
+Advise your Brethren,
+
+1170
+01:52:31,651 --> 01:52:34,745
+you can fight, and all of you will die.
+
+1171
+01:52:34,821 --> 01:52:39,349
+Or you can not fight,
+in which case only most of you will die.
+
+1172
+01:52:39,926 --> 01:52:42,019
+You murdered my father.
+
+1173
+01:52:43,396 --> 01:52:45,387
+He chose his own fate.
+
+1174
+01:52:46,032 --> 01:52:48,762
+And you have chosen yours.
+
+1175
+01:52:48,835 --> 01:52:50,894
+We will fight.
+
+1176
+01:52:51,505 --> 01:52:53,302
+And you will die.
+
+1177
+01:52:58,111 --> 01:52:59,738
+So be it.
+
+1178
+01:53:05,752 --> 01:53:07,117
+King?
+
+1179
+01:53:07,187 --> 01:53:10,020
+Of the Brethren Court.
+Courtesy of Jack.
+
+1180
+01:53:10,524 --> 01:53:12,856
+Maybe he really
+does know what he's doing.
+
+1181
+01:53:19,299 --> 01:53:20,288
+Bravo!
+
+1182
+01:53:21,334 --> 01:53:25,532
+You've successfully arrived aboard
+the Dutchman as per the overall scheme.
+
+1183
+01:53:25,605 --> 01:53:27,334
+- Look
+- Oh, yes. Chapeau, mate.
+
+1184
+01:53:27,407 --> 01:53:30,467
+Except for this sojourn in the brig,
+it's utter clockwork.
+
+1185
+01:53:31,745 --> 01:53:32,905
+Go away.
+
+1186
+01:53:32,979 --> 01:53:36,142
+- What, back to the Locker?
+- Not without you, Jackie.
+
+1187
+01:53:36,983 --> 01:53:38,075
+Stab the heart.
+
+1188
+01:53:43,957 --> 01:53:49,088
+Live forever as captain
+of the Flying Dutchman.
+
+1189
+01:53:52,899 --> 01:53:54,491
+Then again...
+
+1190
+01:53:55,335 --> 01:53:57,030
+...if you're in the brig...
+
+1191
+01:53:58,538 --> 01:54:00,529
+...who's to stab the heart?
+
+1192
+01:54:03,043 --> 01:54:05,910
+Does seem to put immortality
+a bit out of reach.
+
+1193
+01:54:07,647 --> 01:54:09,380
+Peanut.
+
+1194
+01:54:09,380 --> 01:54:12,645
+We'll need to use the Black Pearl
+as a flagship to lead the attack.
+
+1195
+01:54:12,716 --> 01:54:16,880
+- Oh, will we now?
+- All right, Mrs. Fish. Come on.
+
+1196
+01:54:17,488 --> 01:54:20,924
+Barbossa, you can't release her.
+
+1197
+01:54:20,991 --> 01:54:22,891
+We need to give Jack a chance.
+
+1198
+01:54:23,494 --> 01:54:28,431
+Apologies, Your Majesty. Too long
+my fate has not been in me own hands.
+
+1199
+01:54:31,301 --> 01:54:32,598
+No longer.
+
+1200
+01:54:34,605 --> 01:54:36,300
+The enemy...
+
+1201
+01:54:37,474 --> 01:54:39,806
+...has opted for oblivion.
+
+1202
+01:54:42,946 --> 01:54:44,573
+Ready the fleet.
+
+1203
+01:54:44,815 --> 01:54:47,545
+- To your stations.
+- To your stations.
+
+1204
+01:54:54,024 --> 01:54:57,187
+Be there some manner
+of rite or incantation?
+
+1205
+01:54:57,261 --> 01:54:58,523
+Aye.
+
+1206
+01:54:58,962 --> 01:55:02,227
+The items brought together, done.
+
+1207
+01:55:02,299 --> 01:55:04,699
+Items to be burned...
+
+1208
+01:55:05,369 --> 01:55:07,530
+...and someone must speak the words:
+
+1209
+01:55:07,604 --> 01:55:11,096
+"Calypso, I release you
+from your human bonds."
+
+1210
+01:55:11,175 --> 01:55:12,164
+Is that it?
+
+1211
+01:55:12,743 --> 01:55:16,804
+'Tis said it must be spoken
+as if to a lover.
+
+1212
+01:55:16,880 --> 01:55:18,575
+Ooh!
+
+1213
+01:55:22,653 --> 01:55:27,955
+Calypso, I release you
+from your human bonds!
+
+1214
+01:55:37,534 --> 01:55:41,595
+- Is that it?
+- No, no, no. He didn't say it right.
+
+1215
+01:55:46,543 --> 01:55:47,567
+He didn't...
+
+1216
+01:55:48,045 --> 01:55:49,910
+You have to say it right.
+
+1217
+01:55:58,522 --> 01:55:59,511
+Calypso...
+
+1218
+01:56:04,895 --> 01:56:07,329
+...I release you from your human bonds.
+
+1219
+01:56:25,916 --> 01:56:27,611
+Tia Dalma.
+
+1220
+01:56:30,053 --> 01:56:31,384
+Calypso.
+
+1221
+01:56:33,857 --> 01:56:38,021
+When the Brethren Court imprisoned you,
+who was it that told them how?
+
+1222
+01:56:40,464 --> 01:56:44,366
+- Who was it that betrayed you?
+- Name him.
+
+1223
+01:56:45,636 --> 01:56:47,399
+Davy Jones.
+
+1224
+01:57:01,418 --> 01:57:05,252
+This is it! This is it!
+
+1225
+01:57:47,864 --> 01:57:49,627
+Calypso!
+
+1226
+01:57:51,835 --> 01:57:56,966
+I come before you as but a servant,
+humble and contrite.
+
+1227
+01:57:58,875 --> 01:58:03,744
+I have fulfilled me vow
+and now ask your favor.
+
+1228
+01:58:06,783 --> 01:58:09,775
+Spare meself, me ship, me crew...
+
+1229
+01:58:10,187 --> 01:58:14,647
+...but unleash your fury upon those who
+dare pretend themselves your masters...
+
+1230
+01:58:15,158 --> 01:58:16,318
+...or mine.
+
+1231
+01:59:14,251 --> 01:59:15,513
+Is that it?
+
+1232
+01:59:18,255 --> 01:59:20,246
+Why, she's no help at all.
+
+1233
+01:59:23,960 --> 01:59:25,257
+What now?
+
+1234
+01:59:26,163 --> 01:59:27,425
+Nothing.
+
+1235
+01:59:28,231 --> 01:59:31,166
+Our final hope has failed us.
+
+1236
+01:59:58,628 --> 02:00:01,620
+- It's not over.
+- There's still a fight to be had.
+
+1237
+02:00:01,698 --> 02:00:05,634
+We've an armada against us, and
+with the Dutchman, there's no chance.
+
+1238
+02:00:05,702 --> 02:00:08,000
+There's only a fool's chance.
+
+1239
+02:00:08,071 --> 02:00:10,835
+Revenge won't bring
+your father back, Miss Swann,
+
+1240
+02:00:10,907 --> 02:00:14,172
+and it's not something
+I'm intending to die for.
+
+1241
+02:00:19,149 --> 02:00:20,639
+You're right.
+
+1242
+02:00:26,022 --> 02:00:27,990
+Then what shall we die for?
+
+1243
+02:00:31,695 --> 02:00:33,094
+You will listen to me.
+
+1244
+02:00:33,830 --> 02:00:35,092
+Listen!
+
+1245
+02:00:38,034 --> 02:00:43,097
+The Brethren will still be looking here
+to us, to the Black Pearl, to lead.
+
+1246
+02:00:43,673 --> 02:00:45,106
+And what will they see?
+
+1247
+02:00:45,609 --> 02:00:48,942
+Frightened bilge rats
+aboard a derelict ship? No.
+
+1248
+02:00:49,012 --> 02:00:53,244
+No, they will see free men and freedom!
+
+1249
+02:00:53,316 --> 02:00:56,752
+And what the enemy will see
+is the flash of our cannons.
+
+1250
+02:00:56,820 --> 02:01:02,053
+They will hear the ring of our swords,
+and they will know what we can do.
+
+1251
+02:01:04,761 --> 02:01:07,059
+By the sweat of our brows,
+
+1252
+02:01:07,130 --> 02:01:09,462
+and the strength of our backs...
+
+1253
+02:01:09,866 --> 02:01:12,858
+...and the courage of our hearts.
+
+1254
+02:01:15,572 --> 02:01:17,062
+Gentlemen...
+
+1255
+02:01:19,776 --> 02:01:21,243
+...hoist the colors.
+
+1256
+02:01:23,280 --> 02:01:24,713
+Hoist the colors.
+
+1257
+02:01:24,781 --> 02:01:27,079
+- Hoist the colors.
+- Hoist the colors!
+
+1258
+02:01:27,150 --> 02:01:29,209
+Aye.
+
+1259
+02:01:29,286 --> 02:01:32,949
+The wind's on our side, boys.
+That's all we need!
+
+1260
+02:01:34,925 --> 02:01:37,018
+Hoist the colors!
+
+1261
+02:02:28,078 --> 02:02:30,273
+We have a favorable wind, sir.
+
+1262
+02:02:31,014 --> 02:02:32,208
+Oh, so we do.
+
+1263
+02:02:32,849 --> 02:02:35,818
+Signal Jones to give no quarter.
+
+1264
+02:02:36,853 --> 02:02:38,912
+That should brighten his day.
+
+1265
+02:02:42,859 --> 02:02:46,795
+To arms! We give no quarter!
+
+1266
+02:02:56,039 --> 02:02:57,836
+Calypso.
+
+1267
+02:03:24,467 --> 02:03:27,402
+Have you noticed,
+on top of everything, it's raining?
+
+1268
+02:03:27,470 --> 02:03:28,528
+That's a bad sign.
+
+1269
+02:03:28,605 --> 02:03:33,542
+Man the capstan. Raise the main topyard.
+Keep that powder dry.
+
+1270
+02:03:48,158 --> 02:03:49,989
+Maelstrom!
+
+1271
+02:03:53,196 --> 02:03:55,221
+Captain Barbossa!
+
+1272
+02:03:56,166 --> 02:03:58,191
+We need you at the helm.
+
+1273
+02:04:00,704 --> 02:04:03,070
+Aye, that be true.
+
+1274
+02:04:05,375 --> 02:04:10,335
+Brace up yards,
+you cack-handed deck apes.
+
+1275
+02:04:10,580 --> 02:04:14,482
+Dying is the day worth living for.
+
+1276
+02:04:24,794 --> 02:04:26,421
+Veer off!
+
+1277
+02:04:26,496 --> 02:04:28,760
+She'll not harm us.
+
+1278
+02:04:29,265 --> 02:04:31,597
+Full-bore and into the abyss.
+
+1279
+02:04:32,302 --> 02:04:33,633
+Are you mad?
+
+1280
+02:04:33,703 --> 02:04:36,672
+Ha! You afraid to get wet?
+
+1281
+02:04:46,216 --> 02:04:48,582
+She's on our stern and gaining.
+
+1282
+02:04:48,651 --> 02:04:54,214
+More speed!
+Haul your wind and hold your water.
+
+1283
+02:05:01,197 --> 02:05:03,597
+Bow cannons!
+
+1284
+02:05:04,100 --> 02:05:06,568
+Blow the cannons!
+
+1285
+02:05:17,447 --> 02:05:20,348
+Take us out or they'll overbear us.
+
+1286
+02:05:20,417 --> 02:05:25,320
+Nay. Further in.
+We'll cut across to faster waters.
+
+1287
+02:05:26,523 --> 02:05:28,616
+Prepare to broadside.
+
+1288
+02:05:39,069 --> 02:05:41,333
+Captain the guns. Bear a hand.
+
+1289
+02:05:41,404 --> 02:05:45,238
+Muster your courage, men.
+At the ready.
+
+1290
+02:05:52,415 --> 02:05:56,010
+Think like the whelp. Think like
+the whelp. Think like the whelp.
+
+1291
+02:05:56,086 --> 02:05:58,281
+Hinges. Hinges.
+
+1292
+02:05:58,354 --> 02:05:59,651
+Think like the whelp.
+
+1293
+02:05:59,722 --> 02:06:01,155
+Half-barrel hinges.
+
+1294
+02:06:01,257 --> 02:06:02,554
+Leverage.
+
+1295
+02:06:07,530 --> 02:06:09,760
+Wish us luck, boys. We'll need it.
+
+1296
+02:06:11,234 --> 02:06:14,067
+- I miss him already.
+- He is quite charming, isn't he?
+
+1297
+02:06:14,137 --> 02:06:15,695
+Nobody move.
+
+1298
+02:06:16,773 --> 02:06:18,536
+I dropped me brain.
+
+1299
+02:06:28,418 --> 02:06:31,182
+Batten down the hatches!
+
+1300
+02:06:32,489 --> 02:06:34,514
+Stand to your guns.
+
+1301
+02:06:35,091 --> 02:06:37,582
+Midship canoneers, sight the masts.
+
+1302
+02:06:41,831 --> 02:06:44,265
+Main battery at the ready!
+
+1303
+02:06:48,838 --> 02:06:53,104
+Hold there!
+Wait till we're board-and-board.
+
+1304
+02:06:57,680 --> 02:06:59,409
+Fire!
+
+1305
+02:06:59,782 --> 02:07:04,116
+- Fire!
+- Fire! Fire all!
+
+1306
+02:07:05,054 --> 02:07:06,214
+Fire!
+
+1307
+02:07:10,093 --> 02:07:11,651
+Fire!
+
+1308
+02:07:21,237 --> 02:07:22,704
+Come on, men.
+
+1309
+02:07:32,715 --> 02:07:37,345
+It be too late
+to alter course now, mateys.
+
+1310
+02:07:41,724 --> 02:07:43,954
+Halt there or we'll shoot.
+
+1311
+02:07:45,461 --> 02:07:46,587
+Good one.
+
+1312
+02:07:49,065 --> 02:07:51,090
+I just come to get me effects.
+
+1313
+02:07:52,702 --> 02:07:56,900
+Admirable though it may be, why are
+you here when you could be elsewhere?
+
+1314
+02:07:56,973 --> 02:07:59,237
+Someone has to stay
+and guard the chest.
+
+1315
+02:08:00,710 --> 02:08:05,272
+There's no question, there's a breakdown
+in military discipline on this vessel.
+
+1316
+02:08:05,348 --> 02:08:07,009
+I blame the fish people.
+
+1317
+02:08:07,083 --> 02:08:11,452
+Oh, so fish people,
+by dint of being fish people,
+
+1318
+02:08:11,521 --> 02:08:14,752
+automatically aren't
+as disciplined as non-fish people?
+
+1319
+02:08:14,824 --> 02:08:17,190
+Seems contributory,
+is all I'm suggesting.
+
+1320
+02:08:17,260 --> 02:08:22,163
+It's true, if there were no fish people,
+there'd be no need to guard the chest.
+
+1321
+02:08:22,232 --> 02:08:25,668
+And if there were no chest
+we wouldn't need to be here to guard it.
+
+1322
+02:08:33,209 --> 02:08:35,234
+Prepare to board!
+
+1323
+02:08:36,879 --> 02:08:38,073
+Cover!
+
+1324
+02:08:54,731 --> 02:08:56,460
+No!
+
+1325
+02:09:22,392 --> 02:09:27,352
+Lookee here, boys. A lost bird.
+
+1326
+02:09:27,430 --> 02:09:31,332
+A lost bird that never learned to fly.
+
+1327
+02:09:32,635 --> 02:09:34,398
+To my great regret.
+
+1328
+02:09:35,705 --> 02:09:36,831
+But...
+
+1329
+02:09:39,575 --> 02:09:41,566
+...never too late to learn, eh?
+
+1330
+02:09:49,752 --> 02:09:51,219
+Whoa!
+
+1331
+02:09:57,860 --> 02:10:01,193
+The chest, hand it over.
+
+1332
+02:10:01,264 --> 02:10:03,095
+I can set you free, mate.
+
+1333
+02:10:03,166 --> 02:10:06,192
+My freedom was forfeited long ago.
+
+1334
+02:10:53,249 --> 02:10:54,580
+Elizabeth.
+
+1335
+02:10:58,354 --> 02:10:59,582
+Elizabeth.
+
+1336
+02:11:00,623 --> 02:11:01,988
+Will you marry me?
+
+1337
+02:11:03,793 --> 02:11:05,624
+I don't think now's the best time.
+
+1338
+02:11:09,432 --> 02:11:11,491
+Now may be the only time.
+
+1339
+02:11:16,706 --> 02:11:17,900
+I love you.
+
+1340
+02:11:23,846 --> 02:11:26,371
+I've made my choice. What's yours?
+
+1341
+02:11:27,216 --> 02:11:28,513
+Barbossa.
+
+1342
+02:11:29,986 --> 02:11:31,419
+Marry us.
+
+1343
+02:11:32,522 --> 02:11:35,184
+I'm a little busy at the moment.
+
+1344
+02:11:41,397 --> 02:11:43,388
+Barbossa, now.
+
+1345
+02:11:45,067 --> 02:11:46,398
+Fine, then.
+
+1346
+02:11:57,280 --> 02:12:00,408
+Dearly beloved,
+we be gathered here today...
+
+1347
+02:12:01,117 --> 02:12:04,644
+To nail your gizzards
+to the mast, you poxy cur.
+
+1348
+02:12:09,525 --> 02:12:12,551
+Elizabeth Swann,
+do you take me to be your husband?
+
+1349
+02:12:12,628 --> 02:12:14,596
+- I do.
+- Great.
+
+1350
+02:12:21,070 --> 02:12:23,334
+Will Turner, do you take me...
+
+1351
+02:12:24,607 --> 02:12:26,336
+...to be your wife...
+
+1352
+02:12:30,746 --> 02:12:32,714
+...in sickness and in health...
+
+1353
+02:12:33,616 --> 02:12:35,846
+...with health being the less likely?
+
+1354
+02:12:43,059 --> 02:12:44,287
+I do.
+
+1355
+02:12:46,562 --> 02:12:49,463
+As captain, I now pronounce you...
+
+1356
+02:12:52,435 --> 02:12:54,266
+You may kiss...
+
+1357
+02:13:03,145 --> 02:13:04,578
+You may kiss...
+
+1358
+02:13:09,552 --> 02:13:11,213
+Just kiss.
+
+1359
+02:13:49,926 --> 02:13:51,587
+Leave it.
+
+1360
+02:14:03,839 --> 02:14:06,501
+You can do nothing without the key.
+
+1361
+02:14:06,576 --> 02:14:08,043
+I already have the key.
+
+1362
+02:14:09,312 --> 02:14:10,745
+No, you don't.
+
+1363
+02:14:12,248 --> 02:14:13,545
+Oh, that key.
+
+1364
+02:14:49,619 --> 02:14:50,608
+No!
+
+1365
+02:15:17,680 --> 02:15:20,171
+Oi. My pistol.
+
+1366
+02:15:47,877 --> 02:15:49,276
+Turner.
+
+1367
+02:15:54,283 --> 02:15:55,272
+Fire!
+
+1368
+02:16:01,223 --> 02:16:02,781
+Thank you, Jack.
+
+1369
+02:16:32,621 --> 02:16:34,145
+Stop! It's me.
+
+1370
+02:16:36,659 --> 02:16:39,560
+It's Will. Your son.
+
+1371
+02:17:08,357 --> 02:17:09,722
+Ha!
+
+1372
+02:17:40,689 --> 02:17:42,156
+Go!
+
+1373
+02:18:00,576 --> 02:18:04,637
+Harridan! You'll see no mercy from me.
+
+1374
+02:18:04,713 --> 02:18:07,045
+That's why I brought this.
+
+1375
+02:18:26,468 --> 02:18:29,699
+I'm not going to kill you.
+I made you a promise.
+
+1376
+02:18:38,314 --> 02:18:39,645
+Missed.
+
+1377
+02:18:40,850 --> 02:18:45,719
+Did you forget?
+I'm a heartless wretch.
+
+1378
+02:19:02,271 --> 02:19:05,570
+Ah. Love.
+
+1379
+02:19:05,941 --> 02:19:09,433
+A dreadful bond.
+
+1380
+02:19:10,212 --> 02:19:15,206
+And yet, so easily severed.
+
+1381
+02:19:15,284 --> 02:19:20,483
+Tell me, William Turner,
+do you fear death?
+
+1382
+02:19:20,556 --> 02:19:21,989
+Do you?
+
+1383
+02:19:32,735 --> 02:19:36,432
+Heady tonic, holding life and death
+in the palm of one's hand.
+
+1384
+02:19:37,039 --> 02:19:41,442
+You're a cruel man, Jack Sparrow.
+
+1385
+02:19:42,311 --> 02:19:44,745
+Cruel is a matter of perspective.
+
+1386
+02:19:45,314 --> 02:19:46,872
+Is it?
+
+1387
+02:20:12,641 --> 02:20:13,767
+Will?
+
+1388
+02:20:15,377 --> 02:20:17,971
+Look at me! Stay with me!
+You're all right.
+
+1389
+02:20:23,852 --> 02:20:25,513
+William?
+
+1390
+02:20:25,955 --> 02:20:27,650
+My son.
+
+1391
+02:20:39,535 --> 02:20:43,027
+Will? Will?
+Look at me. Look at me!
+
+1392
+02:20:46,742 --> 02:20:50,644
+You will not forestall my judgment.
+
+1393
+02:21:06,428 --> 02:21:08,089
+Calypso.
+
+1394
+02:21:13,936 --> 02:21:19,397
+She's taking us down! Make quick
+or it's the Locker for us all!
+
+1395
+02:21:50,372 --> 02:21:51,430
+No.
+
+1396
+02:21:55,544 --> 02:21:57,034
+No, no.
+
+1397
+02:21:57,112 --> 02:21:58,841
+No!
+
+1398
+02:22:00,115 --> 02:22:04,415
+Part of the crew.
+Part of the ship, part of the crew.
+
+1399
+02:22:04,486 --> 02:22:07,978
+Part of the ship, part of the crew.
+
+1400
+02:22:08,057 --> 02:22:10,082
+Don't leave me.
+
+1401
+02:22:11,393 --> 02:22:13,088
+Don't. No!
+
+1402
+02:22:13,162 --> 02:22:15,027
+I won't leave you.
+
+1403
+02:22:25,140 --> 02:22:27,335
+The Dutchman must have a captain.
+
+1404
+02:22:30,679 --> 02:22:32,670
+Hold on.
+
+1405
+02:23:26,401 --> 02:23:28,062
+Thank goodness, Jack.
+
+1406
+02:23:28,137 --> 02:23:32,096
+The armada's still out there. The
+Endeavor's coming up hard to starboard,
+
+1407
+02:23:32,174 --> 02:23:36,270
+and I think it's time we embrace that
+oldest and noblest of pirate traditions.
+
+1408
+02:23:36,345 --> 02:23:38,973
+Never actually been one for tradition.
+
+1409
+02:23:43,952 --> 02:23:46,978
+Close haul her.
+Luff the sails and lay her in irons.
+
+1410
+02:23:47,055 --> 02:23:49,319
+Belay that,
+or we'll be a sitting duck.
+
+1411
+02:23:49,391 --> 02:23:50,722
+Belay that "belay that."
+
+1412
+02:23:50,792 --> 02:23:52,555
+- But the arma...
+- Belay.
+
+1413
+02:23:52,661 --> 02:23:54,925
+- The Endeav...
+- Stow. Shut it.
+
+1414
+02:24:08,010 --> 02:24:10,035
+What are they waiting for?
+
+1415
+02:24:11,013 --> 02:24:13,982
+He expects us to honor our agreement.
+
+1416
+02:24:16,151 --> 02:24:18,984
+Ready guns and gun ports.
+
+1417
+02:24:22,724 --> 02:24:27,627
+It's nothing personal, Jack.
+It's just good business.
+
+1418
+02:24:54,489 --> 02:24:56,980
+Ah, she survived.
+
+1419
+02:25:22,117 --> 02:25:25,484
+- Ready on the guns.
+- Guns ready.
+
+1420
+02:25:26,121 --> 02:25:28,282
+Full canvas.
+
+1421
+02:25:28,357 --> 02:25:30,723
+Aye, full canvas.
+
+1422
+02:25:55,250 --> 02:25:56,547
+Orders, sir.
+
+1423
+02:26:00,022 --> 02:26:01,148
+Sir!
+
+1424
+02:26:01,790 --> 02:26:02,779
+Cap'n.
+
+1425
+02:26:03,225 --> 02:26:05,853
+- Fire.
+- Fire!
+
+1426
+02:26:05,927 --> 02:26:07,986
+- Fire!
+- Fire!
+
+1427
+02:26:08,063 --> 02:26:10,031
+Fire, all!
+
+1428
+02:26:20,609 --> 02:26:23,510
+Orders? Orders, sir?
+
+1429
+02:26:35,891 --> 02:26:37,358
+Sir, what do you command?
+
+1430
+02:26:37,993 --> 02:26:39,324
+It's just...
+
+1431
+02:26:41,430 --> 02:26:43,125
+...good business.
+
+1432
+02:26:44,833 --> 02:26:46,164
+Abandon ship!
+
+1433
+02:26:46,234 --> 02:26:50,261
+- Abandon ship!
+- All hands, abandon ship!
+
+1434
+02:28:16,024 --> 02:28:17,753
+They're turning away!
+
+1435
+02:28:30,105 --> 02:28:31,970
+Wind in your sails.
+
+1436
+02:28:37,212 --> 02:28:39,271
+Shiver me timbers.
+
+1437
+02:29:00,268 --> 02:29:02,327
+Captain Turner!
+
+1438
+02:29:16,985 --> 02:29:19,078
+- Mr. Gibbs.
+- Cap'n?
+
+1439
+02:29:20,288 --> 02:29:23,280
+- You may throw my hat if you like.
+- Aye, aye, cap'n.
+
+1440
+02:29:23,358 --> 02:29:25,053
+Hooray!
+
+1441
+02:29:27,295 --> 02:29:29,058
+Now go and get it.
+
+1442
+02:29:47,482 --> 02:29:49,074
+Orders, sir?
+
+1443
+02:29:53,355 --> 02:29:57,382
+You're no longer bound
+to the Dutchman. You're free.
+
+1444
+02:29:57,459 --> 02:29:59,450
+Aye.
+
+1445
+02:29:59,528 --> 02:30:01,928
+That's a fine thing, but...
+
+1446
+02:30:03,532 --> 02:30:08,231
+...by my reckoning,
+I still have a debt that has to be paid.
+
+1447
+02:30:08,303 --> 02:30:09,895
+If you'll have me.
+
+1448
+02:30:13,942 --> 02:30:15,807
+On the wheel, then, Mr. Turner.
+
+1449
+02:30:17,178 --> 02:30:19,169
+Aye, Captain Turner.
+
+1450
+02:30:34,129 --> 02:30:36,791
+This ship
+has a purpose again.
+
+1451
+02:30:36,865 --> 02:30:38,890
+And where we are bound...
+
+1452
+02:30:39,568 --> 02:30:42,036
+...she cannot come.
+
+1453
+02:30:42,103 --> 02:30:44,071
+One day ashore.
+
+1454
+02:30:44,139 --> 02:30:46,232
+Ten years at sea.
+
+1455
+02:30:47,208 --> 02:30:50,041
+That's a steep price
+for what's been done.
+
+1456
+02:30:52,213 --> 02:30:54,204
+Depends on the one day.
+
+1457
+02:30:56,985 --> 02:30:59,545
+Your chariot awaits, Your Highness.
+
+1458
+02:31:03,358 --> 02:31:05,349
+The oars are inside.
+
+1459
+02:31:16,972 --> 02:31:18,940
+Mrs. Turner.
+
+1460
+02:31:23,845 --> 02:31:25,403
+Goodbye, poppet.
+
+1461
+02:31:31,219 --> 02:31:32,516
+Jack.
+
+1462
+02:31:33,755 --> 02:31:36,280
+It would never
+have worked out between us.
+
+1463
+02:31:39,628 --> 02:31:42,096
+Keep telling yourself that, darling.
+
+1464
+02:31:45,533 --> 02:31:47,398
+Once was quite enough.
+
+1465
+02:31:49,804 --> 02:31:51,795
+Thank you.
+
+1466
+02:32:11,126 --> 02:32:13,117
+I'm going to need the other one.
+
+1467
+02:32:45,126 --> 02:32:47,117
+It's nearly sunset.
+
+1468
+02:33:06,281 --> 02:33:07,976
+It's always belonged to you.
+
+1469
+02:33:13,755 --> 02:33:15,313
+Will you keep it safe?
+
+1470
+02:33:17,125 --> 02:33:18,285
+Yes.
+
+1471
+02:33:22,297 --> 02:33:23,389
+Yes.
+
+1472
+02:33:43,318 --> 02:33:44,307
+Will!
+
+1473
+02:33:59,901 --> 02:34:02,062
+Keep a weather eye on the horizon.
+
+1474
+02:34:30,932 --> 02:34:34,231
+Granted it tends to list to port,
+and has been, on occasion,
+
+1475
+02:34:34,302 --> 02:34:36,532
+known to frighten young women.
+
+1476
+02:34:36,604 --> 02:34:40,973
+But I promise you,
+you will not be disappointed.
+
+1477
+02:34:41,676 --> 02:34:42,802
+Is that it?
+
+1478
+02:34:43,411 --> 02:34:44,935
+The Black Pearl.
+
+1479
+02:34:45,580 --> 02:34:47,673
+It's not very big.
+
+1480
+02:34:47,749 --> 02:34:50,149
+Love, that is a dinghy.
+
+1481
+02:34:50,218 --> 02:34:55,588
+My vessel is magnificent
+and fierce and huge-ish and...
+
+1482
+02:34:56,057 --> 02:34:59,185
+...gone. Why is it gone?
+
+1483
+02:35:00,128 --> 02:35:01,720
+Is that it there?
+
+1484
+02:35:02,931 --> 02:35:04,057
+Yes, there it is.
+
+1485
+02:35:05,066 --> 02:35:06,294
+Why is it there?
+
+1486
+02:35:07,669 --> 02:35:09,227
+It's much larger up close.
+
+1487
+02:35:09,304 --> 02:35:11,670
+Jack, you promised
+to take us for a ride.
+
+1488
+02:35:11,739 --> 02:35:15,675
+- I was to be given the first ride.
+- What? You?
+
+1489
+02:35:15,743 --> 02:35:18,337
+- Not what he said.
+- I never!
+
+1490
+02:35:20,148 --> 02:35:24,278
+Mr. Gibbs? Any particular reason
+why my ship is gone?
+
+1491
+02:35:24,352 --> 02:35:27,185
+The ship? We're on the ship.
+
+1492
+02:35:29,824 --> 02:35:32,691
+Jack! The ship's gone!
+
+1493
+02:35:32,760 --> 02:35:33,818
+Really?
+
+1494
+02:35:35,864 --> 02:35:39,129
+Ladies! Will you please shut it?
+
+1495
+02:35:39,200 --> 02:35:42,567
+Listen to me.
+Yes, I lied to you.
+
+1496
+02:35:42,637 --> 02:35:44,127
+No, I don't love you.
+
+1497
+02:35:44,205 --> 02:35:47,299
+Of course it makes you look fat.
+I've never been to Brussels.
+
+1498
+02:35:47,375 --> 02:35:50,105
+It is pronounced "egregious."
+
+1499
+02:35:50,178 --> 02:35:54,205
+By the way, no, I've never actually
+met Pizarro, but I love his pies.
+
+1500
+02:35:54,282 --> 02:35:56,978
+And all of this pales
+to utter insignificance
+
+1501
+02:35:57,051 --> 02:36:00,782
+in light of the fact that
+my ship is once again gone. Savvy?
+
+1502
+02:36:13,334 --> 02:36:16,269
+- Take what you can.
+- Give nothing back.
+
+1503
+02:36:20,174 --> 02:36:24,201
+Tell me, ladies,
+what do you know of sea turtles?
+
+1504
+02:36:24,279 --> 02:36:25,371
+Sea turtles?
+
+1505
+02:36:25,647 --> 02:36:27,877
+Let me tell you
+the amazing story of Cap...
+
+1506
+02:36:27,949 --> 02:36:30,611
+All men up the ratlines.
+
+1507
+02:36:31,019 --> 02:36:33,817
+All men up the ratlines!
+
+1508
+02:36:38,960 --> 02:36:41,190
+Oh, you want a taste of this?
+
+1509
+02:36:42,697 --> 02:36:45,894
+Oh, that's a good boy!
+You're Daddy's boy.
+
+1510
+02:36:45,967 --> 02:36:48,595
+Oh, yes, you are.
+Oh, yes, you are.
+
+1511
+02:36:48,670 --> 02:36:49,659
+Sir?
+
+1512
+02:36:51,039 --> 02:36:53,564
+Some of the men don't feel
+entirely settled
+
+1513
+02:36:53,641 --> 02:36:56,132
+- about leaving Captain Jack behind.
+- Again.
+
+1514
+02:36:56,277 --> 02:36:59,178
+- Again.
+- Is that so?
+
+1515
+02:36:59,447 --> 02:37:03,110
+It would make us feel a whole lot
+better regarding our fortunes
+
+1516
+02:37:03,184 --> 02:37:05,880
+if we could see that item
+you told us about.
+
+1517
+02:37:05,954 --> 02:37:08,115
+- On the charts.
+- Aye.
+
+1518
+02:37:08,222 --> 02:37:09,621
+With our own eyes.
+
+1519
+02:37:09,691 --> 02:37:13,286
+To help put an ease
+to our burden of guilt, so to speak.
+
+1520
+02:37:13,728 --> 02:37:15,559
+Ah.
+
+1521
+02:37:15,630 --> 02:37:17,860
+Feast your eyes upon this, mateys.
+
+1522
+02:37:18,266 --> 02:37:20,791
+There's more than one way
+to live forever.
+
+1523
+02:37:20,868 --> 02:37:24,599
+Gents, I give you
+the Fountain of Youth.
+
+1524
+02:37:35,383 --> 02:37:37,248
+Sparrow.
+
+1525
+02:37:37,752 --> 02:37:42,314
+♪ Yo ho, yo ho
+A pirate's life for me ♪
+
+1526
+02:38:08,216 --> 02:38:12,846
+♪ We're devils and black sheep
+Really bad eggs ♪
+
+1527
+02:38:31,939 --> 02:38:34,567
+♪ Drink up, me hearties
+Yo ho ♪
+
+1528
+02:47:06,987 --> 02:47:11,856
+♪ Yo ho, yo ho
+A pirate's life for me ♪
+
+1529
+02:47:11,926 --> 02:47:15,020
+♪ We pillage, we plunder
+We rifle and loot ♪
+
+1530
+02:47:15,095 --> 02:47:16,892
+♪ Drink up, me hearties
+Yo ho ♪
+
+1531
+02:47:16,964 --> 02:47:19,592
+♪ We kidnap and ravage
+And don't give a hoot ♪
+
+1532
+02:47:19,667 --> 02:47:21,498
+♪ Drink up, me hearties
+Yo ho ♪
+
+1533
+02:47:21,569 --> 02:47:27,166
+♪ Yo ho, yo ho
+A pirate's life for me ♪
