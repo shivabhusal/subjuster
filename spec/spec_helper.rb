@@ -1,5 +1,8 @@
 require "bundler/setup"
 require "subjuster"
+require 'simplecov'
+
+SimpleCov.start
 
 $test = true
 RSpec.configure do |config|

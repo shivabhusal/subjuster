@@ -1,5 +1,9 @@
 # Subjuster | TDD guide for Software Engineers in OOP
-<img src="images/tdd.png" width="200">
+<img src="images/tdd.png" width="200"> <a href="https://codeclimate.com/github/shivabhusal/subjuster"><img src="https://codeclimate.com/github/shivabhusal/subjuster/badges/gpa.svg" /></a>
+<a href="https://codeclimate.com/github/shivabhusal/subjuster/coverage"><img src="https://codeclimate.com/github/shivabhusal/subjuster/badges/coverage.svg" /></a>
+<a href="https://codeclimate.com/github/shivabhusal/subjuster"><img src="https://codeclimate.com/github/shivabhusal/subjuster/badges/issue_count.svg" /></a>
+
+
 A command line tool to adjust your movie subtitle files while while playing audio 
 and subtitle do not sync with each other. Normally it lags/gains by a few seconds/milliseconds. 
 You will be able to adjust and generate a new subtitle file or update the existing one.
