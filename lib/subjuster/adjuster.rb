@@ -21,7 +21,6 @@ module Subjuster
     # TODO: Refactoring needed
     def process_on(date)
       _, hrs, min, sec, milli =  /(..):(..):(..),(...)/.match(date).to_a.map(&:to_i)
-      
       timestamp_in_msec = milli + sec*1000 + min*60000 + hrs*3600000 + inputs.adjustment_in_sec*1000
       rim = ""
 
@@ -38,7 +37,7 @@ module Subjuster
       rim << "%02i" % (sec.to_s) << ":" 
       
       rim.slice!(-1)
-      rim << "," << timestamp_in_msec.to_s
+      rim << "," << timestamp_in_msec.to_s << date[12..-1]
     end
   end
 end
