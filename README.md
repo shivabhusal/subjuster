@@ -44,6 +44,8 @@ better meet its purpose, please feel free to send a **Pull Request**.
 I would be very much pleased to merge it after reviewing.
 
 ## Installation
+> This gem requires `Ruby 2.0+`.
+
 ```bash
   $ gem install subjuster
 ```
@@ -62,6 +64,20 @@ I would be very much pleased to merge it after reviewing.
       -t, --target [Filename]          If Target file name not given then will be '[source_file].modified.srt'
       -h, --help                       Prints this help
 ```
+
+**Example:**  
+
+```Ruby
+$ /movie/path inception_1080p.srt -t corrected.srt -a-12.34
+
+source                => inception_1080p.srt
+adjustment_in_sec     => -12.34
+
+Yeah! successfully adjusted and compiled to file /home/john/corrected.srt
+```
+
+The file is generated in the current working directory.
+
 
 ## Steps to TDD
 ### Requirement Gathering

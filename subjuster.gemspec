@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
-    f.match(%r{^(test|spec|features|images)/})
+    f.match(%r{^(test|spec|features|images|tmp|bin|doc)/}) || f =~ /[\w]{1,}.md\z/ || f =~ /\A.[\w]{1,}\z/
   end
   
   # Since we intend to make it a CLI tool, need to have executable script
@@ -27,4 +27,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 1.15"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
+  
+  spec.post_install_message = 'Please run `$ subjuster -h` to learn how to use.'
 end
