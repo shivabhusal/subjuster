@@ -1,1 +1,40 @@
-# This file will load our application and run
+#!/usr/bin/env ruby
+# encoding: UTF-8
+# exe/hulaki
+
+$:.unshift File.expand_path("../../lib", __FILE__)
+require 'subjuster'
+require 'optparse'
+
+options = {source: ARGV[0]}
+
+OptionParser.new do |opts|
+  opts.banner = "Usage: subjuster [filename.srt] [options]\n"\
+                "\n"\
+                "Special Case:\n"\
+                "subjuster [fiename.srt] -a-12.23    # for -ve number i.e '-12.23'\n"\
+                "\n"\
+                "\n"\
+
+  opts.on("-a [Numeric]", "--adjustment [Numeric]", Float, "Time adjustment in sec") do |v|
+    options[:adjustment_in_sec] = v
+  end
+
+  opts.on("-t [Filename]", "--target [Filename]", String, "If Target file name not given then will be '[source_file].modified.srt'") do |v|
+    options[:target] = v
+  end
+  
+  opts.on("-h", "--help", "Prints this help") do
+    puts opts
+    exit
+  end
+end.parse!
+
+$stdout.puts 
+$stdout.puts options.inspect
+$stdout.puts 
+begin
+  Subjuster::Core.run(options)
+rescue Subjuster::InputError => error
+  $stderr.puts error.message
+end
